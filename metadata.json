@@ -35667,6 +35667,14 @@
       {
         "heading": "Bash IDE",
         "level": 4
+      },
+      {
+        "heading": "Шпаргалки",
+        "level": 2
+      },
+      {
+        "heading": "Git в коде Visual Studio говорит, что файл изменен, даже если изменений нет",
+        "level": 3
       }
     ],
     "links": [

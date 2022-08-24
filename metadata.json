@@ -180,6 +180,10 @@
         "relativePath": "_Public/& 🌲️Root.md"
       },
       {
+        "link": "& 🌲️Root",
+        "relativePath": "_Public/& 🌲️Root.md"
+      },
+      {
         "link": "Список других баз знаний",
         "relativePath": "Список других баз знаний.md"
       },
@@ -876,6 +880,11 @@
         "link": "& 🌲️Root",
         "relativePath": "_Public/README.md",
         "displayText": "Цифровой Сад"
+      },
+      {
+        "fileName": "README",
+        "link": "& 🌲️Root",
+        "relativePath": "_Public/README.md"
       },
       {
         "fileName": "README",

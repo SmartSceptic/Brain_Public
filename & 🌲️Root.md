@@ -7,12 +7,12 @@
 В целом заметки будут касаться следующих тем:
 - [[& LINUX]]
 	- [[DevOps]]
-	- [[& Linux Network]]
+	- [[& Networking]]
 	- [[& Clouds]]
 	- [[& MAIL]]
 		- [[& SPAM]]
 		- [[& Email Whitelisting]]
-	- [[& Базы данных]]
+	- [[& Databases]]
 - [[Knowledge management]]
 	- [[PKM]]:
 		- [[! инструменты PKM]]

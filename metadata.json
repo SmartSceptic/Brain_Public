@@ -1,5 +1,16 @@
 [
   {
+    "fileName": "vsftpd vs ProFTPD",
+    "relativePath": "vsftpd vs ProFTPD.md",
+    "backlinks": [
+      {
+        "fileName": "cdn.me-team.org",
+        "link": "vsftpd vs ProFTPD",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/cdn.me-team.org.md"
+      }
+    ]
+  },
+  {
     "fileName": "Secure",
     "relativePath": "Secure.md"
   },
@@ -10,22 +21,22 @@
       {
         "fileName": "rke2.me-team.org",
         "link": "me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/rke2.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/rke2.me-team.org.md"
       },
       {
         "fileName": "lb1.me-team.org",
         "link": "me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/lb1.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/lb1.me-team.org.md"
       },
       {
         "fileName": "db2.me-team.org",
         "link": "me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/db2.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db2.me-team.org.md"
       },
       {
         "fileName": "db1.me-team.org",
         "link": "me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/db1.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db1.me-team.org.md"
       }
     ]
   },
@@ -11867,6 +11878,1061 @@
     ]
   },
   {
+    "fileName": "me-project migrate data to new ftp storage",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/me-project migrate data to new ftp storage.md",
+    "headings": [
+      {
+        "heading": "Setup NFS share  [src](https://cloud.netapp.com/blog/azure-anf-blg-linux-nfs-server-how-to-set-up-server-and-client)",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "cdn.me-team.org",
+        "link": "me-project migrate data to new ftp storage",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/cdn.me-team.org.md"
+      }
+    ]
+  },
+  {
+    "fileName": "ME добавить домен для почтовой системы",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md",
+    "headings": [
+      {
+        "heading": "Проверка ДНС записей для доменов",
+        "level": 2
+      },
+      {
+        "heading": "Результат проверки 06.06.2022",
+        "level": 5
+      },
+      {
+        "heading": "Добавляем [[DNS]] записи, необходимые",
+        "level": 3
+      },
+      {
+        "heading": "Добавить новые домены в базу данных, через интерфейс postfixadmin, по адресу:",
+        "level": 3
+      },
+      {
+        "heading": "Также, в том-же интерфейсе postfixadmin создаем ![[RFC 2142 Обязательные почтовые ящики]]",
+        "level": 3
+      },
+      {
+        "heading": "Настройки на почтовых серверах:",
+        "level": 3
+      },
+      {
+        "heading": "Добавляем SSL сертификаты на хост",
+        "level": 4
+      },
+      {
+        "heading": "Настраиваем Postfix для работы с новым доменом",
+        "level": 4
+      },
+      {
+        "heading": "Настраиваем Dovecot, для использования сертификатов, для новых доменов.",
+        "level": 4
+      },
+      {
+        "heading": "Автоматизация",
+        "level": 3
+      },
+      {
+        "heading": "Проверки",
+        "level": 2
+      },
+      {
+        "heading": "Проверяем что в логах нет ошибок",
+        "level": 4
+      },
+      {
+        "heading": "Проверяем отдачу сертификатов на всех мейл портах, для всех доменов",
+        "level": 4
+      },
+      {
+        "heading": "Проверяем отправки почты для доменов",
+        "level": 4
+      },
+      {
+        "heading": "[[Чеклист для проверки почтового сервера]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "DNS",
+        "relativePath": "KB/IT/Theory/DNS.md"
+      },
+      {
+        "link": "=Установка OpenDKIM + Postfix на CentOS 7",
+        "relativePath": "KB/IT/Mail/=Установка OpenDKIM + Postfix на CentOS 7.md"
+      },
+      {
+        "link": "%PostfixAdmin#Созать почтовыя ящик в базе для каждого домена с перетиранием существующих",
+        "cleanLink": "%PostfixAdmin",
+        "displayText": "%PostfixAdmin > Созать почтовыя ящик в базе для каждого домена с перетиранием существующих",
+        "relativePath": "KB/IT/Mail/%PostfixAdmin.md"
+      },
+      {
+        "link": "Чеклист для проверки почтового сервера",
+        "relativePath": "WORK/CAMO/docs/Чеклист для проверки почтового сервера.md"
+      },
+      {
+        "link": "& ME PROJECTS#domains",
+        "cleanLink": "& ME PROJECTS",
+        "displayText": "& ME PROJECTS > domains",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      },
+      {
+        "link": "% dig#Dig mail domains",
+        "cleanLink": "% dig",
+        "displayText": "../../KB/IT/Utils/% dig > Dig mail domains",
+        "relativePath": "KB/IT/Utils/% dig.md"
+      },
+      {
+        "link": "RFC 2142 Обязательные почтовые ящики",
+        "relativePath": "KB/IT/Mail/RFC 2142 Обязательные почтовые ящики.md"
+      },
+      {
+        "link": "& ME PROJECTS#domains",
+        "cleanLink": "& ME PROJECTS",
+        "displayText": "& ME PROJECTS > domains",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "ME добавить домен для почтовой системы",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "How To Integrate host to zabbix monitoring",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/How To Integrate host to zabbix monitoring.md",
+    "headings": [
+      {
+        "heading": "Установка",
+        "level": 2
+      },
+      {
+        "heading": "Введение  в мониторинг",
+        "level": 2
+      },
+      {
+        "heading": "Добавление хоста в веб интерфейсе:",
+        "level": 3
+      },
+      {
+        "heading": "Настройка агента на хосте",
+        "level": 3
+      },
+      {
+        "heading": "Возможные ошибки:",
+        "level": 4
+      },
+      {
+        "heading": "Настройка мониторинга",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Basic linux server installation",
+        "relativePath": "Basic linux server installation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "How To Integrate host to zabbix monitoring",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      },
+      {
+        "fileName": "Basic linux server installation",
+        "link": "How To Integrate host to zabbix monitoring",
+        "relativePath": "Basic linux server installation.md"
+      }
+    ]
+  },
+  {
+    "fileName": "& ME PROJECTS",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md",
+    "tags": [
+      "n/t/private",
+      "n/t/work"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Общая  иформация",
+        "level": 2
+      },
+      {
+        "heading": "Основные веб интерфейсы",
+        "level": 3
+      },
+      {
+        "heading": "Домены",
+        "level": 3
+      },
+      {
+        "heading": "Хосты:",
+        "level": 3
+      },
+      {
+        "heading": "[[web1.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[web2.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[web3.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[elk.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[cdn.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[qa.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[vpn.devtoinfra.com]]",
+        "level": 3
+      },
+      {
+        "heading": "??? rke3.me-team.org",
+        "level": 3
+      },
+      {
+        "heading": "???rke1.me-team.org",
+        "level": 3
+      },
+      {
+        "heading": "Полезные для работы факты:",
+        "level": 3
+      },
+      {
+        "heading": "Git flow",
+        "level": 4
+      },
+      {
+        "heading": "Доступы",
+        "level": 4
+      },
+      {
+        "heading": "Documentation",
+        "level": 3
+      },
+      {
+        "heading": "Unsorted stuff bellow",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "& ME PROJECTS#domains",
+        "cleanLink": "& ME PROJECTS",
+        "displayText": "& ME PROJECTS > domains",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "web1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web1.me-team.org.md"
+      },
+      {
+        "link": "web2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web2.me-team.org.md"
+      },
+      {
+        "link": "web3.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web3.me-team.org.md"
+      },
+      {
+        "link": "elk.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/elk.me-team.org.md"
+      },
+      {
+        "link": "cdn.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/cdn.me-team.org.md"
+      },
+      {
+        "link": "qa.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/qa.me-team.org.md"
+      },
+      {
+        "link": "vpn.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/vpn.devtoinfra.com.md"
+      },
+      {
+        "link": "db1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db1.me-team.org.md"
+      },
+      {
+        "link": "db2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db2.me-team.org.md"
+      },
+      {
+        "link": "lb1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/lb1.me-team.org.md"
+      },
+      {
+        "link": "monitoring.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/monitoring.devtoinfra.com.md"
+      },
+      {
+        "link": "pm.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/pm.devtoinfra.com.md"
+      },
+      {
+        "link": "rke2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/rke2.me-team.org.md"
+      },
+      {
+        "link": "zabbix.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/zabbix.devtoinfra.com.md"
+      },
+      {
+        "link": "% helm",
+        "relativePath": "KB/IT/Utils/% helm.md"
+      },
+      {
+        "link": "ME добавить домен для почтовой системы",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md"
+      },
+      {
+        "link": "How To Integrate host to zabbix monitoring",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/How To Integrate host to zabbix monitoring.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "ME добавить домен для почтовой системы",
+        "link": "& ME PROJECTS#domains",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md",
+        "cleanLink": "& ME PROJECTS",
+        "displayText": "& ME PROJECTS > domains"
+      },
+      {
+        "fileName": "ME добавить домен для почтовой системы",
+        "link": "& ME PROJECTS#domains",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md",
+        "cleanLink": "& ME PROJECTS",
+        "displayText": "& ME PROJECTS > domains"
+      }
+    ]
+  },
+  {
+    "fileName": "zabbix.devtoinfra.com",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/zabbix.devtoinfra.com.md",
+    "links": [
+      {
+        "link": "devtoinfra.com"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "zabbix.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/zabbix.devtoinfra.com.md"
+      },
+      {
+        "link": "ZABBIX_SERVER_DTI"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "zabbix.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "web3.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web3.me-team.org.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/host",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "**IP:**",
+        "level": 3
+      },
+      {
+        "heading": "**Домены**",
+        "level": 3
+      },
+      {
+        "heading": "**Функции:**",
+        "level": 3
+      },
+      {
+        "heading": "**Документация/ Особенности:**",
+        "level": 3
+      },
+      {
+        "heading": "**Шпаргалки:**",
+        "level": 3
+      },
+      {
+        "heading": "**Задачи/Идеи:**",
+        "level": 3
+      },
+      {
+        "heading": "Все факты сервера",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "web3.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "web2.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web2.me-team.org.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/host",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "**Домены**",
+        "level": 3
+      },
+      {
+        "heading": "**Функции:**",
+        "level": 3
+      },
+      {
+        "heading": "**Документация/ Особенности:**",
+        "level": 3
+      },
+      {
+        "heading": "**Шпаргалки:**",
+        "level": 3
+      },
+      {
+        "heading": "**Задачи/Идеи:**",
+        "level": 3
+      },
+      {
+        "heading": "Все факты сервера",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "web2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web2.me-team.org.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "web2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "web1.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web1.me-team.org.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/host",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "**IP:**",
+        "level": 3
+      },
+      {
+        "heading": "**Домены**",
+        "level": 3
+      },
+      {
+        "heading": "**Функции:**",
+        "level": 3
+      },
+      {
+        "heading": "**Документация/ Особенности:**",
+        "level": 3
+      },
+      {
+        "heading": "**Шпаргалки**",
+        "level": 3
+      },
+      {
+        "heading": "**Задачи/Идеи:**",
+        "level": 3
+      },
+      {
+        "heading": "Все факты сервера",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "web1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web1.me-team.org.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "web1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "vpn.devtoinfra.com",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/vpn.devtoinfra.com.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/host",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "**IP:**",
+        "level": 3
+      },
+      {
+        "heading": "**Домены**",
+        "level": 3
+      },
+      {
+        "heading": "**Функции:**",
+        "level": 3
+      },
+      {
+        "heading": "**Документация/ Особенности:**",
+        "level": 3
+      },
+      {
+        "heading": "**Шпаргалки:**",
+        "level": 3
+      },
+      {
+        "heading": "**Задачи/Идеи:**",
+        "level": 3
+      },
+      {
+        "heading": "Все факты сервера",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "vpn.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/vpn.devtoinfra.com.md"
+      },
+      {
+        "link": "% pritunl vpn web interface",
+        "relativePath": "% pritunl vpn web interface.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "vpn.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "rke2.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/rke2.me-team.org.md",
+    "links": [
+      {
+        "link": "me-team.org",
+        "relativePath": "me-team.org.md"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "rke2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/rke2.me-team.org.md"
+      },
+      {
+        "link": "RANCHER_ME_TEAM"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "rke2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "qa.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/qa.me-team.org.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/host",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "**IP:** 78.46.70.30",
+        "level": 3
+      },
+      {
+        "heading": "**Домены**",
+        "level": 3
+      },
+      {
+        "heading": "**Функции:**",
+        "level": 3
+      },
+      {
+        "heading": "**Документация/ Особенности:**",
+        "level": 3
+      },
+      {
+        "heading": "**Шпаргалки:**",
+        "level": 3
+      },
+      {
+        "heading": "**Задачи/Идеи:**",
+        "level": 3
+      },
+      {
+        "heading": "Все факты сервера",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "qa.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/qa.me-team.org.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "qa.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "pm.devtoinfra.com",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/pm.devtoinfra.com.md",
+    "links": [
+      {
+        "link": "devtoinfra.com"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "pm.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/pm.devtoinfra.com.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "pm.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "monitoring.devtoinfra.com",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/monitoring.devtoinfra.com.md",
+    "links": [
+      {
+        "link": "devtoinfra.com"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "monitoring.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/monitoring.devtoinfra.com.md"
+      },
+      {
+        "link": "MONITORING_DTI"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "monitoring.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "lb1.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/lb1.me-team.org.md",
+    "links": [
+      {
+        "link": "me-team.org",
+        "relativePath": "me-team.org.md"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "lb1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/lb1.me-team.org.md"
+      },
+      {
+        "link": "WEB_LB_ME_TEAM"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "lb1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "elk.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/elk.me-team.org.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/host",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "**IP:**",
+        "level": 3
+      },
+      {
+        "heading": "**Домены**",
+        "level": 3
+      },
+      {
+        "heading": "**Функции:**",
+        "level": 3
+      },
+      {
+        "heading": "mails/smtp/почтовик",
+        "level": 5
+      },
+      {
+        "heading": "elasticsearch",
+        "level": 3
+      },
+      {
+        "heading": "**Шпаргалки:**",
+        "level": 3
+      },
+      {
+        "heading": "Показать wmail логи",
+        "level": 5
+      },
+      {
+        "heading": "Mailadmin",
+        "level": 5
+      },
+      {
+        "heading": "**Задачи/Идеи:**",
+        "level": 3
+      },
+      {
+        "heading": "Все факты сервера",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "elk.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/elk.me-team.org.md"
+      },
+      {
+        "link": "postfixadmin.me-qr.com"
+      },
+      {
+        "link": "mail.me-qr.com"
+      },
+      {
+        "link": "wmail.me-qr.com"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "elk.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "db2.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db2.me-team.org.md",
+    "links": [
+      {
+        "link": "me-team.org",
+        "relativePath": "me-team.org.md"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "db2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db2.me-team.org.md"
+      },
+      {
+        "link": "DB_ME_TEAM"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "db2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "db1.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db1.me-team.org.md",
+    "links": [
+      {
+        "link": "me-team.org",
+        "relativePath": "me-team.org.md"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "db1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db1.me-team.org.md"
+      },
+      {
+        "link": "DB_ME_TEAM"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "db1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "cdn.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/cdn.me-team.org.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/host",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "**IP:**",
+        "level": 3
+      },
+      {
+        "heading": "**Домены**",
+        "level": 3
+      },
+      {
+        "heading": "**Функции:**",
+        "level": 3
+      },
+      {
+        "heading": "**Документация/ Особенности:**",
+        "level": 3
+      },
+      {
+        "heading": "**Шпаргалки:**",
+        "level": 3
+      },
+      {
+        "heading": "**Задачи/Идеи:**",
+        "level": 3
+      },
+      {
+        "heading": "[[me-project migrate data to new ftp storage]]",
+        "level": 2
+      },
+      {
+        "heading": "Все факты сервера",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "vsftpd vs ProFTPD",
+        "relativePath": "vsftpd vs ProFTPD.md"
+      },
+      {
+        "link": "me-project migrate data to new ftp storage",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/me-project migrate data to new ftp storage.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "& ME PROJECTS",
+        "link": "cdn.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      }
+    ]
+  },
+  {
     "fileName": "& vladlen.ch",
     "relativePath": "WORK/VLADLEN.CH/& vladlen.ch.md",
     "tags": [
@@ -11942,54 +13008,49 @@
     ],
     "backlinks": [
       {
-        "fileName": "brain.vladlen.ch",
+        "fileName": "& ME PROJECTS",
         "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/brain.vladlen.ch.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
       },
       {
         "fileName": "zabbix.devtoinfra.com",
         "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/hosts/zabbix.devtoinfra.com.md"
-      },
-      {
-        "fileName": "vpn.devtoinfra.com",
-        "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/hosts/vpn.devtoinfra.com.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/zabbix.devtoinfra.com.md"
       },
       {
         "fileName": "rke2.me-team.org",
         "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/hosts/rke2.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/rke2.me-team.org.md"
       },
       {
         "fileName": "pm.devtoinfra.com",
         "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/hosts/pm.devtoinfra.com.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/pm.devtoinfra.com.md"
       },
       {
         "fileName": "monitoring.devtoinfra.com",
         "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/hosts/monitoring.devtoinfra.com.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/monitoring.devtoinfra.com.md"
       },
       {
         "fileName": "lb1.me-team.org",
         "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/hosts/lb1.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/lb1.me-team.org.md"
       },
       {
         "fileName": "db2.me-team.org",
         "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/hosts/db2.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db2.me-team.org.md"
       },
       {
         "fileName": "db1.me-team.org",
         "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/hosts/db1.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db1.me-team.org.md"
       },
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "brain.vladlen.ch",
         "link": "Hetzner",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
+        "relativePath": "WORK/VLADLEN.CH/brain.vladlen.ch.md"
       }
     ]
   },
@@ -13447,6 +14508,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "ME добавить домен для почтовой системы",
+        "link": "Чеклист для проверки почтового сервера",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md"
+      },
+      {
         "fileName": "🌱️ Мail debug",
         "link": "Чеклист для проверки почтового сервера",
         "relativePath": "WORK/CAMO/docs/🌱️ Мail debug.md"
@@ -13455,11 +14521,6 @@
         "fileName": "& Mail Roadmap",
         "link": "Чеклист для проверки почтового сервера",
         "relativePath": "WORK/CAMO/& Mail Roadmap.md"
-      },
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "Чеклист для проверки почтового сервера",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md"
       },
       {
         "fileName": "Tasks Inbox",
@@ -15774,1062 +16835,6 @@
         "relativePath": "KB/IT/Mail/& MAIL.md",
         "cleanLink": "$ Mail multidomain NOC-13734",
         "displayText": "$ Mail multidomain NOC-13734 > INFO"
-      }
-    ]
-  },
-  {
-    "fileName": "zabbix.devtoinfra.com",
-    "relativePath": "WORK/Me Projects/hosts/zabbix.devtoinfra.com.md",
-    "links": [
-      {
-        "link": "devtoinfra.com"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "zabbix.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/zabbix.devtoinfra.com.md"
-      },
-      {
-        "link": "ZABBIX_SERVER_DTI"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "zabbix.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "web3.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/web3.me-team.org.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/host",
-      "n/t/private"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "**IP:**",
-        "level": 3
-      },
-      {
-        "heading": "**Домены**",
-        "level": 3
-      },
-      {
-        "heading": "**Функции:**",
-        "level": 3
-      },
-      {
-        "heading": "**Документация/ Особенности:**",
-        "level": 3
-      },
-      {
-        "heading": "**Шпаргалки:**",
-        "level": 3
-      },
-      {
-        "heading": "**Задачи/Идеи:**",
-        "level": 3
-      },
-      {
-        "heading": "Все факты сервера",
-        "level": 4
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "web3.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "web2.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/web2.me-team.org.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/host",
-      "n/t/private"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "**Домены**",
-        "level": 3
-      },
-      {
-        "heading": "**Функции:**",
-        "level": 3
-      },
-      {
-        "heading": "**Документация/ Особенности:**",
-        "level": 3
-      },
-      {
-        "heading": "**Шпаргалки:**",
-        "level": 3
-      },
-      {
-        "heading": "**Задачи/Идеи:**",
-        "level": 3
-      },
-      {
-        "heading": "Все факты сервера",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "web2.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/web2.me-team.org.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "web2.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "web1.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/web1.me-team.org.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/host",
-      "n/t/private"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "**IP:**",
-        "level": 3
-      },
-      {
-        "heading": "**Домены**",
-        "level": 3
-      },
-      {
-        "heading": "**Функции:**",
-        "level": 3
-      },
-      {
-        "heading": "**Документация/ Особенности:**",
-        "level": 3
-      },
-      {
-        "heading": "**Шпаргалки**",
-        "level": 3
-      },
-      {
-        "heading": "**Задачи/Идеи:**",
-        "level": 3
-      },
-      {
-        "heading": "Все факты сервера",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "web1.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/web1.me-team.org.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "web1.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "vpn.devtoinfra.com",
-    "relativePath": "WORK/Me Projects/hosts/vpn.devtoinfra.com.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/host",
-      "n/t/private"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "**IP:**",
-        "level": 3
-      },
-      {
-        "heading": "**Домены**",
-        "level": 3
-      },
-      {
-        "heading": "**Функции:**",
-        "level": 3
-      },
-      {
-        "heading": "**Документация/ Особенности:**",
-        "level": 3
-      },
-      {
-        "heading": "**Шпаргалки:**",
-        "level": 3
-      },
-      {
-        "heading": "**Задачи/Идеи:**",
-        "level": 3
-      },
-      {
-        "heading": "Все факты сервера",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "vpn.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/vpn.devtoinfra.com.md"
-      },
-      {
-        "link": "% pritunl vpn web interface",
-        "relativePath": "% pritunl vpn web interface.md"
-      },
-      {
-        "link": "devtoinfra.com"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "vpn.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/vpn.devtoinfra.com.md"
-      },
-      {
-        "link": "VPN_DTI"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "vpn.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "rke2.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/rke2.me-team.org.md",
-    "links": [
-      {
-        "link": "me-team.org",
-        "relativePath": "me-team.org.md"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "rke2.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/rke2.me-team.org.md"
-      },
-      {
-        "link": "RANCHER_ME_TEAM"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "rke2.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "qa.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/qa.me-team.org.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/host",
-      "n/t/private"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "**IP:** 78.46.70.30",
-        "level": 3
-      },
-      {
-        "heading": "**Домены**",
-        "level": 3
-      },
-      {
-        "heading": "**Функции:**",
-        "level": 3
-      },
-      {
-        "heading": "**Документация/ Особенности:**",
-        "level": 3
-      },
-      {
-        "heading": "**Шпаргалки:**",
-        "level": 3
-      },
-      {
-        "heading": "**Задачи/Идеи:**",
-        "level": 3
-      },
-      {
-        "heading": "Все факты сервера",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "qa.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/qa.me-team.org.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "qa.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "pm.devtoinfra.com",
-    "relativePath": "WORK/Me Projects/hosts/pm.devtoinfra.com.md",
-    "links": [
-      {
-        "link": "devtoinfra.com"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "pm.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/pm.devtoinfra.com.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "pm.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "monitoring.devtoinfra.com",
-    "relativePath": "WORK/Me Projects/hosts/monitoring.devtoinfra.com.md",
-    "links": [
-      {
-        "link": "devtoinfra.com"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "monitoring.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/monitoring.devtoinfra.com.md"
-      },
-      {
-        "link": "MONITORING_DTI"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "monitoring.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "lb1.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/lb1.me-team.org.md",
-    "links": [
-      {
-        "link": "me-team.org",
-        "relativePath": "me-team.org.md"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "lb1.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/lb1.me-team.org.md"
-      },
-      {
-        "link": "WEB_LB_ME_TEAM"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "lb1.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "elk.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/elk.me-team.org.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/host",
-      "n/t/private"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "**IP:**",
-        "level": 3
-      },
-      {
-        "heading": "**Домены**",
-        "level": 3
-      },
-      {
-        "heading": "**Функции:**",
-        "level": 3
-      },
-      {
-        "heading": "mails/smtp/почтовик",
-        "level": 5
-      },
-      {
-        "heading": "elasticsearch",
-        "level": 3
-      },
-      {
-        "heading": "**Шпаргалки:**",
-        "level": 3
-      },
-      {
-        "heading": "Показать wmail логи",
-        "level": 5
-      },
-      {
-        "heading": "Mailadmin",
-        "level": 5
-      },
-      {
-        "heading": "**Задачи/Идеи:**",
-        "level": 3
-      },
-      {
-        "heading": "Все факты сервера",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "elk.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/elk.me-team.org.md"
-      },
-      {
-        "link": "postfixadmin.me-qr.com"
-      },
-      {
-        "link": "mail.me-qr.com"
-      },
-      {
-        "link": "wmail.me-qr.com"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "elk.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "db2.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/db2.me-team.org.md",
-    "links": [
-      {
-        "link": "me-team.org",
-        "relativePath": "me-team.org.md"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "db2.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/db2.me-team.org.md"
-      },
-      {
-        "link": "DB_ME_TEAM"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "db2.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "db1.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/db1.me-team.org.md",
-    "links": [
-      {
-        "link": "me-team.org",
-        "relativePath": "me-team.org.md"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "db1.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/db1.me-team.org.md"
-      },
-      {
-        "link": "DB_ME_TEAM"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "db1.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "cdn.me-team.org",
-    "relativePath": "WORK/Me Projects/hosts/cdn.me-team.org.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/host",
-      "n/t/private"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "**IP:**",
-        "level": 3
-      },
-      {
-        "heading": "**Домены**",
-        "level": 3
-      },
-      {
-        "heading": "**Функции:**",
-        "level": 3
-      },
-      {
-        "heading": "**Документация/ Особенности:**",
-        "level": 3
-      },
-      {
-        "heading": "**Шпаргалки:**",
-        "level": 3
-      },
-      {
-        "heading": "**Задачи/Идеи:**",
-        "level": 3
-      },
-      {
-        "heading": "[[me-project migrate data to new ftp storage]]",
-        "level": 2
-      },
-      {
-        "heading": "Все факты сервера",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "me-project migrate data to new ftp storage",
-        "relativePath": "WORK/Me Projects/me-project migrate data to new ftp storage.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "cdn.me-team.org",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "me-project migrate data to new ftp storage",
-    "relativePath": "WORK/Me Projects/me-project migrate data to new ftp storage.md",
-    "headings": [
-      {
-        "heading": "Setup NFS share  [src](https://cloud.netapp.com/blog/azure-anf-blg-linux-nfs-server-how-to-set-up-server-and-client)",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "cdn.me-team.org",
-        "link": "me-project migrate data to new ftp storage",
-        "relativePath": "WORK/Me Projects/hosts/cdn.me-team.org.md"
-      }
-    ]
-  },
-  {
-    "fileName": "ME добавить домен для почтовой системы",
-    "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md",
-    "headings": [
-      {
-        "heading": "Проверка ДНС записей для доменов",
-        "level": 2
-      },
-      {
-        "heading": "Результат проверки 06.06.2022",
-        "level": 5
-      },
-      {
-        "heading": "Добавляем [[DNS]] записи, необходимые",
-        "level": 3
-      },
-      {
-        "heading": "Добавить новые домены в базу данных, через интерфейс postfixadmin, по адресу:",
-        "level": 3
-      },
-      {
-        "heading": "Также, в том-же интерфейсе postfixadmin создаем ![[RFC 2142 Обязательные почтовые ящики]]",
-        "level": 3
-      },
-      {
-        "heading": "Настройки на почтовых серверах:",
-        "level": 3
-      },
-      {
-        "heading": "Добавляем SSL сертификаты на хост",
-        "level": 4
-      },
-      {
-        "heading": "Настраиваем Postfix для работы с новым доменом",
-        "level": 4
-      },
-      {
-        "heading": "Настраиваем Dovecot, для использования сертификатов, для новых доменов.",
-        "level": 4
-      },
-      {
-        "heading": "Автоматизация",
-        "level": 3
-      },
-      {
-        "heading": "Проверки",
-        "level": 2
-      },
-      {
-        "heading": "Проверяем что в логах нет ошибок",
-        "level": 4
-      },
-      {
-        "heading": "Проверяем отдачу сертификатов на всех мейл портах, для всех доменов",
-        "level": 4
-      },
-      {
-        "heading": "Проверяем отправки почты для доменов",
-        "level": 4
-      },
-      {
-        "heading": "[[Чеклист для проверки почтового сервера]]",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "DNS",
-        "relativePath": "KB/IT/Theory/DNS.md"
-      },
-      {
-        "link": "=Установка OpenDKIM + Postfix на CentOS 7",
-        "relativePath": "KB/IT/Mail/=Установка OpenDKIM + Postfix на CentOS 7.md"
-      },
-      {
-        "link": "%PostfixAdmin#Созать почтовыя ящик в базе для каждого домена с перетиранием существующих",
-        "cleanLink": "%PostfixAdmin",
-        "displayText": "%PostfixAdmin > Созать почтовыя ящик в базе для каждого домена с перетиранием существующих",
-        "relativePath": "KB/IT/Mail/%PostfixAdmin.md"
-      },
-      {
-        "link": "Чеклист для проверки почтового сервера",
-        "relativePath": "WORK/CAMO/docs/Чеклист для проверки почтового сервера.md"
-      },
-      {
-        "link": "& ME PROJECTS#domains",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      },
-      {
-        "link": "% dig#Dig mail domains",
-        "cleanLink": "% dig",
-        "displayText": "../../KB/IT/Utils/% dig > Dig mail domains",
-        "relativePath": "KB/IT/Utils/% dig.md"
-      },
-      {
-        "link": "RFC 2142 Обязательные почтовые ящики",
-        "relativePath": "KB/IT/Mail/RFC 2142 Обязательные почтовые ящики.md"
-      },
-      {
-        "link": "& ME PROJECTS#domains",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "ME добавить домен для почтовой системы",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      }
-    ]
-  },
-  {
-    "fileName": "How To Integrate host to zabbix monitoring",
-    "relativePath": "WORK/Me Projects/How To Integrate host to zabbix monitoring.md",
-    "headings": [
-      {
-        "heading": "Установка",
-        "level": 2
-      },
-      {
-        "heading": "Введение  в мониторинг",
-        "level": 2
-      },
-      {
-        "heading": "Добавление хоста в веб интерфейсе:",
-        "level": 3
-      },
-      {
-        "heading": "Настройка агента на хосте",
-        "level": 3
-      },
-      {
-        "heading": "Возможные ошибки:",
-        "level": 4
-      },
-      {
-        "heading": "Настройка мониторинга",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Basic linux server installation",
-        "relativePath": "Basic linux server installation.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Basic linux server installation",
-        "link": "How To Integrate host to zabbix monitoring",
-        "relativePath": "Basic linux server installation.md"
-      }
-    ]
-  },
-  {
-    "fileName": "& ME PROJECTS",
-    "relativePath": "WORK/Me Projects/& ME PROJECTS.md",
-    "tags": [
-      "n/t/private",
-      "n/t/work"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Общая  иформация",
-        "level": 2
-      },
-      {
-        "heading": "Основные веб интерфейсы",
-        "level": 3
-      },
-      {
-        "heading": "Домены",
-        "level": 3
-      },
-      {
-        "heading": "Хосты:",
-        "level": 3
-      },
-      {
-        "heading": "[[web1.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[web2.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[web3.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[elk.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[cdn.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[qa.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[vpn.devtoinfra.com]]",
-        "level": 3
-      },
-      {
-        "heading": "??? rke2.me-team.org",
-        "level": 3
-      },
-      {
-        "heading": "??? rke3.me-team.org",
-        "level": 3
-      },
-      {
-        "heading": "Documentation (move to gitlab)",
-        "level": 3
-      },
-      {
-        "heading": "[[ME добавить домен для почтовой системы]]",
-        "level": 3
-      },
-      {
-        "heading": "Полезные для работы факты:",
-        "level": 3
-      },
-      {
-        "heading": "Общие задачи",
-        "level": 3
-      },
-      {
-        "heading": "Креды",
-        "level": 2
-      },
-      {
-        "heading": "Unsorted stuff",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "& ME PROJECTS#domains",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains",
-        "relativePath": "WORK/Me Projects/& ME PROJECTS.md"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "web1.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/web1.me-team.org.md"
-      },
-      {
-        "link": "web2.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/web2.me-team.org.md"
-      },
-      {
-        "link": "web3.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/web3.me-team.org.md"
-      },
-      {
-        "link": "elk.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/elk.me-team.org.md"
-      },
-      {
-        "link": "cdn.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/cdn.me-team.org.md"
-      },
-      {
-        "link": "qa.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/qa.me-team.org.md"
-      },
-      {
-        "link": "db1.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/db1.me-team.org.md"
-      },
-      {
-        "link": "db2.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/db2.me-team.org.md"
-      },
-      {
-        "link": "lb1.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/lb1.me-team.org.md"
-      },
-      {
-        "link": "monitoring.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/monitoring.devtoinfra.com.md"
-      },
-      {
-        "link": "pm.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/pm.devtoinfra.com.md"
-      },
-      {
-        "link": "rke2.me-team.org",
-        "relativePath": "WORK/Me Projects/hosts/rke2.me-team.org.md"
-      },
-      {
-        "link": "vpn.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/vpn.devtoinfra.com.md"
-      },
-      {
-        "link": "zabbix.devtoinfra.com",
-        "relativePath": "WORK/Me Projects/hosts/zabbix.devtoinfra.com.md"
-      },
-      {
-        "link": "ME добавить домен для почтовой системы",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "& ME PROJECTS#domains",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains"
-      },
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "& ME PROJECTS#domains",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains"
       }
     ]
   },
@@ -32502,6 +32507,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "& ME PROJECTS",
+        "link": "% helm",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+      },
+      {
         "fileName": "Deploy to rancher",
         "link": "% helm",
         "relativePath": "WORK/CAMO/Deploy to rancher.md"
@@ -33095,6 +33105,10 @@
         "level": 4
       },
       {
+        "heading": "Посмотреть список подмодулей",
+        "level": 4
+      },
+      {
         "heading": "Посмотреть коммиты",
         "level": 4
       },
@@ -33241,7 +33255,7 @@
       {
         "fileName": "ME добавить домен для почтовой системы",
         "link": "% dig#Dig mail domains",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md",
         "cleanLink": "% dig",
         "displayText": "../../KB/IT/Utils/% dig > Dig mail domains"
       },
@@ -36734,6 +36748,11 @@
         "relativePath": "Workbench.md"
       },
       {
+        "fileName": "ME добавить домен для почтовой системы",
+        "link": "RFC 2142 Обязательные почтовые ящики",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md"
+      },
+      {
         "fileName": "Чеклист для проверки почтового сервера",
         "link": "RFC 2142 Обязательные почтовые ящики",
         "relativePath": "WORK/CAMO/docs/Чеклист для проверки почтового сервера.md"
@@ -36747,11 +36766,6 @@
         "fileName": "& Mail Roadmap",
         "link": "RFC 2142 Обязательные почтовые ящики",
         "relativePath": "WORK/CAMO/& Mail Roadmap.md"
-      },
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "RFC 2142 Обязательные почтовые ящики",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md"
       },
       {
         "fileName": "& MAIL",
@@ -38413,6 +38427,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "ME добавить домен для почтовой системы",
+        "link": "=Установка OpenDKIM + Postfix на CentOS 7",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md"
+      },
+      {
         "fileName": "NOC- Partsid Mailsystem migration",
         "link": "=Установка OpenDKIM + Postfix на CentOS 7",
         "relativePath": "WORK/CAMO/NOC- Partsid Mailsystem migration.md"
@@ -38426,11 +38445,6 @@
         "fileName": "Установка и настройка  Мультидоменной конфигурации  на Postfix3 (3.5), c +Mysql +SNI +Rspamd +Postgrey +SPF +DKIM +DMARK +FailToBan на centos 7",
         "link": "=Установка OpenDKIM + Postfix на CentOS 7",
         "relativePath": "WORK/CAMO/docs/Установка и настройка  Мультидоменной конфигурации  на Postfix3 (3.5), c +Mysql +SNI +Rspamd +Postgrey +SPF +DKIM +DMARK +FailToBan на centos 7.md"
-      },
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "=Установка OpenDKIM + Postfix на CentOS 7",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md"
       },
       {
         "fileName": "DKIM",
@@ -40832,6 +40846,13 @@
     ],
     "backlinks": [
       {
+        "fileName": "ME добавить домен для почтовой системы",
+        "link": "%PostfixAdmin#Созать почтовыя ящик в базе для каждого домена с перетиранием существующих",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md",
+        "cleanLink": "%PostfixAdmin",
+        "displayText": "%PostfixAdmin > Созать почтовыя ящик в базе для каждого домена с перетиранием существующих"
+      },
+      {
         "fileName": "Список Мейл серверов компании",
         "link": "%PostfixAdmin",
         "relativePath": "WORK/CAMO/Список Мейл серверов компании.md"
@@ -40845,13 +40866,6 @@
         "fileName": "$ Mail multidomain NOC-13734",
         "link": "%PostfixAdmin",
         "relativePath": "WORK/CAMO/$ Mail multidomain NOC-13734.md"
-      },
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "%PostfixAdmin#Созать почтовыя ящик в базе для каждого домена с перетиранием существующих",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md",
-        "cleanLink": "%PostfixAdmin",
-        "displayText": "%PostfixAdmin > Созать почтовыя ящик в базе для каждого домена с перетиранием существующих"
       },
       {
         "fileName": "% MySQL",
@@ -43760,14 +43774,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "ME добавить домен для почтовой системы",
+        "link": "DNS",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md"
+      },
+      {
         "fileName": "Чеклист для проверки почтового сервера",
         "link": "DNS",
         "relativePath": "WORK/CAMO/docs/Чеклист для проверки почтового сервера.md"
-      },
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "DNS",
-        "relativePath": "WORK/Me Projects/ME добавить домен для почтовой системы.md"
       },
       {
         "fileName": "% dig",
@@ -54964,7 +54978,7 @@
       },
       {
         "link": "How To Integrate host to zabbix monitoring",
-        "relativePath": "WORK/Me Projects/How To Integrate host to zabbix monitoring.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/How To Integrate host to zabbix monitoring.md"
       },
       {
         "link": "ldap"
@@ -54980,14 +54994,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "How To Integrate host to zabbix monitoring",
+        "link": "Basic linux server installation",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/How To Integrate host to zabbix monitoring.md"
+      },
+      {
         "fileName": "HowTo create vm from template on proxmox",
         "link": "Basic linux server installation",
         "relativePath": "WORK/VLADLEN.CH/HowTo create vm from template on proxmox.md"
-      },
-      {
-        "fileName": "How To Integrate host to zabbix monitoring",
-        "link": "Basic linux server installation",
-        "relativePath": "WORK/Me Projects/How To Integrate host to zabbix monitoring.md"
       },
       {
         "fileName": "Install Wordpress",
@@ -58648,7 +58662,7 @@
       {
         "fileName": "vpn.devtoinfra.com",
         "link": "% pritunl vpn web interface",
-        "relativePath": "WORK/Me Projects/hosts/vpn.devtoinfra.com.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/vpn.devtoinfra.com.md"
       },
       {
         "fileName": "& Networking",

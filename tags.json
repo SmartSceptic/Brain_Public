@@ -824,7 +824,7 @@
       "_Resources/_Templates/_Util.md",
       "_Resources/_Person/@_Other.md",
       "yum/yum dnf.md",
-      "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md",
+      "WORK/me-projects-knowledge-base.wiki/home.md",
       "WORK/me-projects-knowledge-base.wiki/hosts/web3.me-team.org.md",
       "WORK/me-projects-knowledge-base.wiki/hosts/web2.me-team.org.md",
       "WORK/me-projects-knowledge-base.wiki/hosts/web1.me-team.org.md",
@@ -1800,7 +1800,7 @@
     "tag": "n/t/work",
     "tagCount": 15,
     "relativePaths": [
-      "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md",
+      "WORK/me-projects-knowledge-base.wiki/home.md",
       "WORK/CAMO/Список Мейл серверов компании.md",
       "WORK/CAMO/Nexteum ранее неписанные правила.md",
       "WORK/CAMO/docs/Разрешить отправку писем (SMTP), без авторизации через mail.partsid.com.md",

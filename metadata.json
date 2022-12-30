@@ -11878,6 +11878,222 @@
     ]
   },
   {
+    "fileName": "web1.me-team.org",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/web1.me-team.org.md",
+    "backlinks": [
+      {
+        "fileName": "home",
+        "link": "web1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
+      }
+    ]
+  },
+  {
+    "fileName": "test3",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/TestFolder/test3.md"
+  },
+  {
+    "fileName": "sdf asf",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/sdf asf.md"
+  },
+  {
+    "fileName": "test2",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/test-folders/test2.md"
+  },
+  {
+    "fileName": "test",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/test folder/test.md"
+  },
+  {
+    "fileName": "test-notes",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/test-notes.md"
+  },
+  {
+    "fileName": "test note",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/test note.md"
+  },
+  {
+    "fileName": "home",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md",
+    "tags": [
+      "n/t/private",
+      "n/t/work"
+    ],
+    "frontmatter": {
+      "alias": [
+        "ME PROJECTS"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "aliases": [
+      "ME PROJECTS"
+    ],
+    "headings": [
+      {
+        "heading": "Общая  иформация",
+        "level": 2
+      },
+      {
+        "heading": "Основные веб интерфейсы",
+        "level": 3
+      },
+      {
+        "heading": "Домены",
+        "level": 3
+      },
+      {
+        "heading": "Хосты:",
+        "level": 3
+      },
+      {
+        "heading": "[[web1.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[web2.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[web3.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[elk.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[cdn.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[qa.me-team.org]]",
+        "level": 3
+      },
+      {
+        "heading": "[[vpn.devtoinfra.com]]",
+        "level": 3
+      },
+      {
+        "heading": "??? rke3.me-team.org",
+        "level": 3
+      },
+      {
+        "heading": "???rke1.me-team.org",
+        "level": 3
+      },
+      {
+        "heading": "Полезные для работы факты:",
+        "level": 3
+      },
+      {
+        "heading": "Git flow",
+        "level": 4
+      },
+      {
+        "heading": "Доступы",
+        "level": 4
+      },
+      {
+        "heading": "Documentation",
+        "level": 3
+      },
+      {
+        "heading": "Unsorted stuff bellow",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "& ME PROJECTS#domains",
+        "cleanLink": "& ME PROJECTS",
+        "displayText": "& ME PROJECTS > domains"
+      },
+      {
+        "link": "Hetzner",
+        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
+      },
+      {
+        "link": "web1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/web1.me-team.org.md"
+      },
+      {
+        "link": "web2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web2.me-team.org.md"
+      },
+      {
+        "link": "web3.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web3.me-team.org.md"
+      },
+      {
+        "link": "elk.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/elk.me-team.org.md"
+      },
+      {
+        "link": "cdn.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/cdn.me-team.org.md"
+      },
+      {
+        "link": "qa.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/qa.me-team.org.md"
+      },
+      {
+        "link": "vpn.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/vpn.devtoinfra.com.md"
+      },
+      {
+        "link": "db1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db1.me-team.org.md"
+      },
+      {
+        "link": "db2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db2.me-team.org.md"
+      },
+      {
+        "link": "lb1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/lb1.me-team.org.md"
+      },
+      {
+        "link": "monitoring.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/monitoring.devtoinfra.com.md"
+      },
+      {
+        "link": "pm.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/pm.devtoinfra.com.md"
+      },
+      {
+        "link": "rke2.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/rke2.me-team.org.md"
+      },
+      {
+        "link": "zabbix.devtoinfra.com",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/zabbix.devtoinfra.com.md"
+      },
+      {
+        "link": "% helm",
+        "relativePath": "KB/IT/Utils/% helm.md"
+      },
+      {
+        "link": "ME добавить домен для почтовой системы",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md"
+      },
+      {
+        "link": "How To Integrate host to zabbix monitoring",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/How To Integrate host to zabbix monitoring.md"
+      }
+    ]
+  },
+  {
     "fileName": "me-project migrate data to new ftp storage",
     "relativePath": "WORK/me-projects-knowledge-base.wiki/me-project migrate data to new ftp storage.md",
     "headings": [
@@ -11979,12 +12195,6 @@
         "relativePath": "WORK/CAMO/docs/Чеклист для проверки почтового сервера.md"
       },
       {
-        "link": "& ME PROJECTS#domains",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
-      },
-      {
         "link": "% dig#Dig mail domains",
         "cleanLink": "% dig",
         "displayText": "../../KB/IT/Utils/% dig > Dig mail domains",
@@ -11993,19 +12203,13 @@
       {
         "link": "RFC 2142 Обязательные почтовые ящики",
         "relativePath": "KB/IT/Mail/RFC 2142 Обязательные почтовые ящики.md"
-      },
-      {
-        "link": "& ME PROJECTS#domains",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "ME добавить домен для почтовой системы",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12046,207 +12250,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "How To Integrate host to zabbix monitoring",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       },
       {
         "fileName": "Basic linux server installation",
         "link": "How To Integrate host to zabbix monitoring",
         "relativePath": "Basic linux server installation.md"
-      }
-    ]
-  },
-  {
-    "fileName": "& ME PROJECTS",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md",
-    "tags": [
-      "n/t/private",
-      "n/t/work"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Общая  иформация",
-        "level": 2
-      },
-      {
-        "heading": "Основные веб интерфейсы",
-        "level": 3
-      },
-      {
-        "heading": "Домены",
-        "level": 3
-      },
-      {
-        "heading": "Хосты:",
-        "level": 3
-      },
-      {
-        "heading": "[[web1.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[web2.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[web3.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[elk.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[cdn.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[qa.me-team.org]]",
-        "level": 3
-      },
-      {
-        "heading": "[[vpn.devtoinfra.com]]",
-        "level": 3
-      },
-      {
-        "heading": "??? rke3.me-team.org",
-        "level": 3
-      },
-      {
-        "heading": "???rke1.me-team.org",
-        "level": 3
-      },
-      {
-        "heading": "Полезные для работы факты:",
-        "level": 3
-      },
-      {
-        "heading": "Git flow",
-        "level": 4
-      },
-      {
-        "heading": "Доступы",
-        "level": 4
-      },
-      {
-        "heading": "Documentation",
-        "level": 3
-      },
-      {
-        "heading": "Unsorted stuff bellow",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "& ME PROJECTS#domains",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
-      },
-      {
-        "link": "Hetzner",
-        "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
-      },
-      {
-        "link": "web1.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web1.me-team.org.md"
-      },
-      {
-        "link": "web2.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web2.me-team.org.md"
-      },
-      {
-        "link": "web3.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web3.me-team.org.md"
-      },
-      {
-        "link": "elk.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/elk.me-team.org.md"
-      },
-      {
-        "link": "cdn.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/cdn.me-team.org.md"
-      },
-      {
-        "link": "qa.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/qa.me-team.org.md"
-      },
-      {
-        "link": "vpn.devtoinfra.com",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/vpn.devtoinfra.com.md"
-      },
-      {
-        "link": "db1.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db1.me-team.org.md"
-      },
-      {
-        "link": "db2.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/db2.me-team.org.md"
-      },
-      {
-        "link": "lb1.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/lb1.me-team.org.md"
-      },
-      {
-        "link": "monitoring.devtoinfra.com",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/monitoring.devtoinfra.com.md"
-      },
-      {
-        "link": "pm.devtoinfra.com",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/pm.devtoinfra.com.md"
-      },
-      {
-        "link": "rke2.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/rke2.me-team.org.md"
-      },
-      {
-        "link": "zabbix.devtoinfra.com",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/zabbix.devtoinfra.com.md"
-      },
-      {
-        "link": "% helm",
-        "relativePath": "KB/IT/Utils/% helm.md"
-      },
-      {
-        "link": "ME добавить домен для почтовой системы",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md"
-      },
-      {
-        "link": "How To Integrate host to zabbix monitoring",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/How To Integrate host to zabbix monitoring.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "& ME PROJECTS#domains",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains"
-      },
-      {
-        "fileName": "ME добавить домен для почтовой системы",
-        "link": "& ME PROJECTS#domains",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/ME добавить домен для почтовой системы.md",
-        "cleanLink": "& ME PROJECTS",
-        "displayText": "& ME PROJECTS > domains"
       }
     ]
   },
@@ -12271,9 +12282,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "zabbix.devtoinfra.com",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12332,9 +12343,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "web3.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12395,9 +12406,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "web2.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12458,13 +12469,6 @@
       {
         "link": "web1.me-team.org",
         "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web1.me-team.org.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "& ME PROJECTS",
-        "link": "web1.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
       }
     ]
   },
@@ -12533,9 +12537,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "vpn.devtoinfra.com",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12561,9 +12565,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "rke2.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12628,9 +12632,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "qa.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12652,9 +12656,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "pm.devtoinfra.com",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12679,9 +12683,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "monitoring.devtoinfra.com",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12707,9 +12711,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "lb1.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12795,9 +12799,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "elk.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12823,9 +12827,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "db2.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12851,9 +12855,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "db1.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -12926,9 +12930,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "cdn.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },
@@ -13008,9 +13012,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "Hetzner",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       },
       {
         "fileName": "zabbix.devtoinfra.com",
@@ -32507,9 +32511,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "& ME PROJECTS",
+        "fileName": "home",
         "link": "% helm",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/& ME PROJECTS.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       },
       {
         "fileName": "Deploy to rancher",

@@ -1,5 +1,31 @@
 [
   {
+    "fileName": "Жизненная позиция",
+    "relativePath": "Жизненная позиция.md",
+    "tags": [
+      "t/t/to/brain"
+    ],
+    "links": [
+      {
+        "link": "& Цитатник#^80796f",
+        "cleanLink": "& Цитатник",
+        "displayText": "& Цитатник > ^80796f",
+        "relativePath": "KB/Цитатник/& Цитатник.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Разница между задуманным, сказаным, и понятым",
+    "relativePath": "Разница между задуманным, сказаным, и понятым.md",
+    "backlinks": [
+      {
+        "fileName": "& Цитатник",
+        "link": "Разница между задуманным, сказаным, и понятым",
+        "relativePath": "KB/Цитатник/& Цитатник.md"
+      }
+    ]
+  },
+  {
     "fileName": "Обучение rspamd",
     "relativePath": "Обучение rspamd.md",
     "headings": [
@@ -14886,11 +14912,6 @@
         "fileName": "% MySQL",
         "link": "Репликация MySQL с помощью innobackupex",
         "relativePath": "KB/IT/Utils/% MySQL.md"
-      },
-      {
-        "fileName": "& Databases",
-        "link": "Репликация MySQL с помощью innobackupex",
-        "relativePath": "& Databases.md"
       }
     ]
   },
@@ -15170,11 +15191,6 @@
         "fileName": "% MySQL",
         "link": "Репликация MySQL  с помощью Percona XtraBackup с использованием GTID",
         "relativePath": "KB/IT/Utils/% MySQL.md"
-      },
-      {
-        "fileName": "& Databases",
-        "link": "Репликация MySQL  с помощью Percona XtraBackup с использованием GTID",
-        "relativePath": "& Databases.md"
       }
     ]
   },
@@ -15265,11 +15281,6 @@
         "fileName": "% MySQL",
         "link": "Репликация MySQL с помощью Percona XtraBackup",
         "relativePath": "KB/IT/Utils/% MySQL.md"
-      },
-      {
-        "fileName": "& Databases",
-        "link": "Репликация MySQL с помощью Percona XtraBackup",
-        "relativePath": "& Databases.md"
       }
     ]
   },
@@ -19244,11 +19255,6 @@
         "fileName": "NoSQL",
         "link": "SQL",
         "relativePath": "NoSQL.md"
-      },
-      {
-        "fileName": "& Databases",
-        "link": "SQL",
-        "relativePath": "& Databases.md"
       }
     ]
   },
@@ -20839,6 +20845,9 @@
   {
     "fileName": "& Цитатник",
     "relativePath": "KB/Цитатник/& Цитатник.md",
+    "tags": [
+      "t/t/to/brain"
+    ],
     "links": [
       {
         "link": "Сомерсет Моэм"
@@ -20850,10 +20859,26 @@
         "link": "Кради как художник"
       },
       {
+        "link": "@Эшли Монтагу"
+      },
+      {
         "link": "} Будда, мозг и нейрофизиология счастья. Как изменить жизнь к лучшему#^74f7a1",
         "cleanLink": "} Будда, мозг и нейрофизиология счастья. Как изменить жизнь к лучшему",
         "displayText": "} Будда, мозг и нейрофизиология счастья. Как изменить жизнь к лучшему > ^74f7a1",
         "relativePath": "_Resources/_Books/К прочтению/} Будда, мозг и нейрофизиология счастья. Как изменить жизнь к лучшему.md"
+      },
+      {
+        "link": "Разница между задуманным, сказаным, и понятым",
+        "relativePath": "Разница между задуманным, сказаным, и понятым.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Жизненная позиция",
+        "link": "& Цитатник#^80796f",
+        "relativePath": "Жизненная позиция.md",
+        "cleanLink": "& Цитатник",
+        "displayText": "& Цитатник > ^80796f"
       }
     ]
   },
@@ -44642,6 +44667,10 @@
     ],
     "headings": [
       {
+        "heading": "Повербанк",
+        "level": 5
+      },
+      {
         "heading": "Наушники OnePlus Buds Pro TWS",
         "level": 4
       },
@@ -57404,6 +57433,18 @@
     ],
     "headings": [
       {
+        "heading": "Реализации СУБД",
+        "level": 4
+      },
+      {
+        "heading": "Репликация баз данных:",
+        "level": 4
+      },
+      {
+        "heading": "[[Языки для работы с БД]]",
+        "level": 4
+      },
+      {
         "heading": "Классификации СУБД",
         "level": 3
       },
@@ -57425,18 +57466,6 @@
         "link": "MOC"
       },
       {
-        "link": "Языки для работы с БД",
-        "relativePath": "Языки для работы с БД.md"
-      },
-      {
-        "link": "SQL",
-        "relativePath": "SQL.md"
-      },
-      {
-        "link": "NoSQL",
-        "relativePath": "NoSQL.md"
-      },
-      {
         "link": "% MySQL",
         "displayText": "% Percona server",
         "relativePath": "KB/IT/Utils/% MySQL.md"
@@ -57454,19 +57483,12 @@
         "relativePath": "KB/IT/Utils/% Mysqldump.md"
       },
       {
-        "link": "Репликация MySQL с помощью innobackupex",
-        "relativePath": "WORK/CAMO/docs/Репликация MySQL с помощью innobackupex.md"
+        "link": "Языки для работы с БД",
+        "relativePath": "Языки для работы с БД.md"
       },
       {
-        "link": "Репликация MySQL с помощью Percona XtraBackup",
-        "relativePath": "WORK/CAMO/docs/Репликация MySQL с помощью Percona XtraBackup.md"
-      },
-      {
-        "link": "Репликация MySQL  с помощью Percona XtraBackup с использованием GTID",
-        "relativePath": "WORK/CAMO/docs/Репликация MySQL  с помощью Percona XtraBackup с использованием GTID.md"
-      },
-      {
-        "link": "% mysqlhotcopy"
+        "link": "NoSQL",
+        "relativePath": "NoSQL.md"
       },
       {
         "link": "Языки для работы с БД",

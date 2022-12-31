@@ -1,5 +1,16 @@
 [
   {
+    "tag": "t/t/to/brain",
+    "tagCount": 5,
+    "relativePaths": [
+      "Жизненная позиция.md",
+      "KB/Цитатник/& Цитатник.md",
+      "KB/PKM/Тег.md",
+      "KB/Personal/Развитие/Рациональность/Медитация на любопытство.md",
+      "KB/Personal/Развитие/& Направления развития и их приоритеты.md"
+    ]
+  },
+  {
     "tag": "n/s/stub",
     "tagCount": 370,
     "relativePaths": [
@@ -2203,15 +2214,6 @@
     "tagCount": 1,
     "relativePaths": [
       "KB/PKM/Тег.md"
-    ]
-  },
-  {
-    "tag": "t/t/to/brain",
-    "tagCount": 3,
-    "relativePaths": [
-      "KB/PKM/Тег.md",
-      "KB/Personal/Развитие/Рациональность/Медитация на любопытство.md",
-      "KB/Personal/Развитие/& Направления развития и их приоритеты.md"
     ]
   },
   {

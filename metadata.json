@@ -11984,57 +11984,6 @@
     ]
   },
   {
-    "fileName": "test-page2",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/test-page2.md"
-  },
-  {
-    "fileName": "test-page",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/test-page.md"
-  },
-  {
-    "fileName": "ME-добавить-домен-для-почтовой-системы",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/ME-добавить-домен-для-почтовой-системы.md"
-  },
-  {
-    "fileName": "How-To-Integrate-host-to-zabbix-monitoring",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/How-To-Integrate-host-to-zabbix-monitoring.md"
-  },
-  {
-    "fileName": "web1.me-team.org",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/web1.me-team.org.md",
-    "backlinks": [
-      {
-        "fileName": "home",
-        "link": "web1.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
-      }
-    ]
-  },
-  {
-    "fileName": "test3",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/TestFolder/test3.md"
-  },
-  {
-    "fileName": "sdf asf",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/sdf asf.md"
-  },
-  {
-    "fileName": "test2",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/test-folders/test2.md"
-  },
-  {
-    "fileName": "test",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/test folder/test.md"
-  },
-  {
-    "fileName": "test-notes",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/test-notes.md"
-  },
-  {
-    "fileName": "test note",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/test note.md"
-  },
-  {
     "fileName": "home",
     "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md",
     "tags": [
@@ -12147,7 +12096,7 @@
       },
       {
         "link": "web1.me-team.org",
-        "relativePath": "WORK/me-projects-knowledge-base.wiki/web1.me-team.org.md"
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web1.me-team.org.md"
       },
       {
         "link": "web2.me-team.org",
@@ -12603,6 +12552,13 @@
       {
         "link": "web1.me-team.org",
         "relativePath": "WORK/me-projects-knowledge-base.wiki/hosts/web1.me-team.org.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "home",
+        "link": "web1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },

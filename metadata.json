@@ -1,5 +1,111 @@
 [
   {
+    "fileName": "Обучение rspamd",
+    "relativePath": "Обучение rspamd.md",
+    "headings": [
+      {
+        "heading": "Создание файла для предварительной фильтрации ложно положительных  сообщений о спаме (письма с наших доменов)",
+        "level": 5
+      },
+      {
+        "heading": "Проверка  работы фильтра",
+        "level": 5
+      },
+      {
+        "heading": "Выполнение фильтра",
+        "level": 5
+      },
+      {
+        "heading": "Запустить переобучение НЕ спаму (на ложно помеченых письмах)",
+        "level": 5
+      },
+      {
+        "heading": "Запустить обучение спаму",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "fileName": "% sieve-filter",
+    "relativePath": "% sieve-filter.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/linux",
+      "n/t/tool/util",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Описание",
+        "level": 2
+      },
+      {
+        "heading": "Шаблон",
+        "level": 2
+      },
+      {
+        "heading": "Примеры:",
+        "level": 2
+      },
+      {
+        "heading": "",
+        "level": 6
+      },
+      {
+        "heading": "Шпаргалки:",
+        "level": 3
+      },
+      {
+        "heading": "Сухой запуск sieve-скрипта example.sieve для пользователя `test` теста на почтовом ящике `INBOX`:",
+        "level": 5
+      },
+      {
+        "heading": "Запуск sieve с применением изменений",
+        "level": 5
+      },
+      {
+        "heading": "Используемые или важные ключи.",
+        "level": 2
+      },
+      {
+        "heading": "Файлы",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Установка и настройка Dovecot на Centos 7",
+        "link": "% sieve-filter",
+        "relativePath": "KB/IT/Mail/Установка и настройка Dovecot на Centos 7.md"
+      },
+      {
+        "fileName": "%Sieve",
+        "link": "% sieve-filter",
+        "relativePath": "KB/IT/Mail/%Sieve.md"
+      },
+      {
+        "fileName": "! %Dovecot",
+        "link": "% sieve-filter",
+        "relativePath": "KB/IT/Mail/! %Dovecot.md"
+      }
+    ]
+  },
+  {
     "fileName": "vsftpd vs ProFTPD",
     "relativePath": "vsftpd vs ProFTPD.md",
     "backlinks": [
@@ -35950,6 +36056,10 @@
         "link": "sievec"
       },
       {
+        "link": "% sieve-filter",
+        "relativePath": "% sieve-filter.md"
+      },
+      {
         "link": "%doveadm auth",
         "relativePath": "KB/IT/Mail/%doveadm auth.md"
       }
@@ -40384,6 +40494,10 @@
       },
       {
         "link": "lmto"
+      },
+      {
+        "link": "% sieve-filter",
+        "relativePath": "% sieve-filter.md"
       }
     ],
     "backlinks": [
@@ -42888,6 +43002,20 @@
       {
         "link": "=Dovecot performance tuning",
         "relativePath": "KB/IT/Mail/=Dovecot performance tuning.md"
+      },
+      {
+        "link": "! %Doveadm",
+        "relativePath": "KB/IT/Mail/! %Doveadm.md"
+      },
+      {
+        "link": "% sieve-filter",
+        "relativePath": "% sieve-filter.md"
+      },
+      {
+        "link": "! %Doveadm#Шпаргалки:",
+        "cleanLink": "! %Doveadm",
+        "displayText": "! %Doveadm > Шпаргалки:",
+        "relativePath": "KB/IT/Mail/! %Doveadm.md"
       }
     ],
     "backlinks": [
@@ -43100,6 +43228,18 @@
         "fileName": "! %Dovecot",
         "link": "! %Doveadm",
         "relativePath": "KB/IT/Mail/! %Dovecot.md"
+      },
+      {
+        "fileName": "! %Dovecot",
+        "link": "! %Doveadm",
+        "relativePath": "KB/IT/Mail/! %Dovecot.md"
+      },
+      {
+        "fileName": "! %Dovecot",
+        "link": "! %Doveadm#Шпаргалки:",
+        "relativePath": "KB/IT/Mail/! %Dovecot.md",
+        "cleanLink": "! %Doveadm",
+        "displayText": "! %Doveadm > Шпаргалки:"
       }
     ]
   },

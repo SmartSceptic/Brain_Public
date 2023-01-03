@@ -54730,6 +54730,10 @@
         "level": 5
       },
       {
+        "heading": "RESET A MYSQL ROOT PASSWORD",
+        "level": 4
+      },
+      {
         "heading": "Смена пароля для конкретного пользователя",
         "level": 5
       },
@@ -54738,7 +54742,7 @@
         "level": 5
       },
       {
-        "heading": "RESET A MYSQL ROOT PASSWORD",
+        "heading": "Работа с таблицами",
         "level": 4
       },
       {

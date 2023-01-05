@@ -1,5 +1,74 @@
 [
   {
+    "fileName": "% iptables",
+    "relativePath": "% iptables.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/linux",
+      "n/t/tool/util",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Описание",
+        "level": 2
+      },
+      {
+        "heading": "Шаблон",
+        "level": 2
+      },
+      {
+        "heading": "Примеры:",
+        "level": 2
+      },
+      {
+        "heading": "",
+        "level": 5
+      },
+      {
+        "heading": "Шпаргалки:",
+        "level": 3
+      },
+      {
+        "heading": "",
+        "level": 5
+      },
+      {
+        "heading": "",
+        "level": 5
+      },
+      {
+        "heading": "Используемые или важные ключи.",
+        "level": 2
+      },
+      {
+        "heading": "Файлы",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "% iptables-vis",
+        "relativePath": "KB/IT/Network/% iptables-vis.md"
+      }
+    ]
+  },
+  {
     "fileName": "Лист бредогенерации",
     "relativePath": "Лист бредогенерации.md",
     "links": [
@@ -43028,6 +43097,10 @@
         "level": 2
       },
       {
+        "heading": "Вывести список всех интерфейсов, на которых tcpdump может слушать",
+        "level": 5
+      },
+      {
         "heading": "Посмотреть, что происходит, на всех интерфейсах",
         "level": 5
       },
@@ -43885,6 +43958,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "% iptables",
+        "link": "% iptables-vis",
+        "relativePath": "% iptables.md"
+      },
       {
         "fileName": "& Mail Roadmap",
         "link": "% iptables-vis",
@@ -62943,7 +63021,10 @@
   },
   {
     "fileName": "! Secure",
-    "relativePath": "! Secure.md"
+    "relativePath": "! Secure.md",
+    "tags": [
+      "n/t/secure"
+    ]
   },
   {
     "fileName": "% ss",

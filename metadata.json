@@ -2046,16 +2046,16 @@
       },
       {
         "fileName": "Task workflow",
+        "link": "Постоянно висящие задачи",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
+        "displayText": "висящих задач"
+      },
+      {
+        "fileName": "Task workflow",
         "link": "Постоянно висящие задачи#Методики работы с постоянно висящими задачами:",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
         "cleanLink": "Постоянно висящие задачи",
         "displayText": "Постоянно висящие задачи > Методики работы с постоянно висящими задачами:"
-      },
-      {
-        "fileName": "Task workflow",
-        "link": "Постоянно висящие задачи",
-        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
-        "displayText": "висящих задач"
       },
       {
         "fileName": "& Джедайские техники",
@@ -27554,7 +27554,7 @@
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
       },
       {
-        "link": "Task workflow#Пересмотр задач",
+        "link": "Task workflow#Пересмотр висячих задач и приоритетов",
         "cleanLink": "Task workflow",
         "displayText": "Пересмотр задач",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
@@ -27975,7 +27975,7 @@
         "level": 3
       },
       {
-        "heading": "Пересмотр задач",
+        "heading": "Пересмотр висячих задач и приоритетов",
         "level": 3
       }
     ],
@@ -28244,13 +28244,9 @@
         "relativePath": "Постоянно висящие задачи.md"
       },
       {
-        "link": "Постоянно висящие задачи#Методики работы с постоянно висящими задачами:",
-        "cleanLink": "Постоянно висящие задачи",
-        "displayText": "Постоянно висящие задачи > Методики работы с постоянно висящими задачами:",
-        "relativePath": "Постоянно висящие задачи.md"
-      },
-      {
-        "link": "& Джедайские техники",
+        "link": "& Джедайские техники#Вакцины",
+        "cleanLink": "& Джедайские техники",
+        "displayText": "& Джедайские техники > Вакцины",
         "relativePath": "KB/Личная эффективность/Time + project management/& Джедайские техники.md"
       },
       {
@@ -28321,6 +28317,12 @@
         "cleanLink": "Стратегия рационального фланёра",
         "displayText": "Стратегия рационального фланёра > Ближайший Внутренняя обезьяна обезьяно-понятный шаг",
         "relativePath": "Стратегия рационального фланёра.md"
+      },
+      {
+        "link": "Постоянно висящие задачи#Методики работы с постоянно висящими задачами:",
+        "cleanLink": "Постоянно висящие задачи",
+        "displayText": "Постоянно висящие задачи > Методики работы с постоянно висящими задачами:",
+        "relativePath": "Постоянно висящие задачи.md"
       }
     ],
     "backlinks": [
@@ -28391,7 +28393,7 @@
       },
       {
         "fileName": "Tasks Inbox",
-        "link": "Task workflow#Пересмотр задач",
+        "link": "Task workflow#Пересмотр висячих задач и приоритетов",
         "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md",
         "cleanLink": "Task workflow",
         "displayText": "Пересмотр задач"
@@ -28796,8 +28798,10 @@
       },
       {
         "fileName": "Task workflow",
-        "link": "& Джедайские техники",
-        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
+        "link": "& Джедайские техники#Вакцины",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
+        "cleanLink": "& Джедайские техники",
+        "displayText": "& Джедайские техники > Вакцины"
       },
       {
         "fileName": "Тег",
@@ -60339,6 +60343,10 @@
       {
         "heading": "Obsidian",
         "level": 1
+      },
+      {
+        "heading": "Обновления и обзоры обновлений",
+        "level": 4
       }
     ],
     "links": [

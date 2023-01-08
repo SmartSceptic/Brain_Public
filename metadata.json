@@ -1,5 +1,61 @@
 [
   {
+    "fileName": "Инструменты не главное",
+    "relativePath": "Инструменты не главное.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/conspect",
+      "n/t/article"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Хороший инструмент облегчает работу",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Tрекеры задач",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tрекеры задач.md"
+      },
+      {
+        "link": "Трекеры времени",
+        "relativePath": "KB/Личная эффективность/Time + project management/Трекеры времени.md"
+      },
+      {
+        "link": "3 столпа обучения, буддийской традиции",
+        "relativePath": "KB/Личная эффективность/Саморазвитие/3 столпа обучения, буддийской традиции.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "+ Udemy Джедайские техники (а не какой-то там тайм-менеджмент)",
+        "link": "Инструменты не главное",
+        "relativePath": "KB/Личная эффективность/Time + project management/+ Udemy Джедайские техники (а не какой-то там тайм-менеджмент).md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "Инструменты не главное",
+        "relativePath": "KB/PKM/% Obsidian.md"
+      }
+    ]
+  },
+  {
     "fileName": "Япония",
     "relativePath": "Япония.md",
     "tags": [
@@ -22525,6 +22581,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Инструменты не главное",
+        "link": "3 столпа обучения, буддийской традиции",
+        "relativePath": "Инструменты не главное.md"
+      },
+      {
         "fileName": "Не восприимчивость к дхарме",
         "link": "3 столпа обучения, буддийской традиции",
         "relativePath": "Не восприимчивость к дхарме.md"
@@ -23841,6 +23902,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "Инструменты не главное",
+        "link": "Трекеры времени",
+        "relativePath": "Инструменты не главное.md"
+      },
       {
         "fileName": "Метрики в личной эффективности",
         "link": "Трекеры времени",
@@ -26777,6 +26843,11 @@
         "relativePath": "KB/Психология/Внутренняя обезьяна.md"
       },
       {
+        "link": "Tрекеры задач",
+        "displayText": "Task tracker",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tрекеры задач.md"
+      },
+      {
         "link": "Как планировать на день задачи, в которых нужен рациональный тип",
         "relativePath": "Как планировать на день задачи, в которых нужен рациональный тип.md"
       }
@@ -27852,6 +27923,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Инструменты не главное",
+        "link": "Tрекеры задач",
+        "relativePath": "Инструменты не главное.md"
+      },
+      {
         "fileName": "Регулярные задачи",
         "link": "Tрекеры задач",
         "relativePath": "Регулярные задачи.md"
@@ -27870,6 +27946,12 @@
         "fileName": "Крючки для задач",
         "link": "Tрекеры задач",
         "relativePath": "KB/Личная эффективность/Time + project management/Крючки для задач.md",
+        "displayText": "Task tracker"
+      },
+      {
+        "fileName": "Задача vs Проект vs Идея vs Встреча vs Информация",
+        "link": "Tрекеры задач",
+        "relativePath": "KB/Личная эффективность/Time + project management/Задача vs Проект vs Идея vs Встреча vs Информация.md",
         "displayText": "Task tracker"
       },
       {
@@ -29010,6 +29092,10 @@
         "level": 4
       },
       {
+        "heading": "РАбота с инструментами",
+        "level": 4
+      },
+      {
         "heading": "Работа с календарем и как не опоздать",
         "level": 4
       }
@@ -29148,6 +29234,10 @@
       {
         "link": "Лист бредогенерации",
         "relativePath": "Лист бредогенерации.md"
+      },
+      {
+        "link": "Инструменты не главное",
+        "relativePath": "Инструменты не главное.md"
       },
       {
         "link": "Внимание#Практика наблюдения внимания",
@@ -60364,6 +60454,10 @@
       {
         "link": "% Obsidian",
         "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
+        "link": "Инструменты не главное",
+        "relativePath": "Инструменты не главное.md"
       }
     ],
     "backlinks": [

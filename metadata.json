@@ -1,5 +1,39 @@
 [
   {
+    "fileName": "Цвет VS Свет",
+    "relativePath": "Цвет VS Свет.md"
+  },
+  {
+    "fileName": "Различия типов задач Baclkog vs ToDo",
+    "relativePath": "Различия типов задач Baclkog vs ToDo.md",
+    "tags": [
+      "n/s/stub"
+    ],
+    "links": [
+      {
+        "link": "Difference between need should must haw to  ought to",
+        "relativePath": "KB/Личная эффективность/Time + project management/Difference between need should must haw to  ought to.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "~ Знать что делать и знать как сделать не равняется сделать",
+        "link": "Различия типов задач Baclkog vs ToDo",
+        "relativePath": "KB/Личная эффективность/Time + project management/~ Знать что делать и знать как сделать не равняется сделать.md"
+      },
+      {
+        "fileName": "Difference between need should must haw to  ought to",
+        "link": "Различия типов задач Baclkog vs ToDo",
+        "relativePath": "KB/Личная эффективность/Time + project management/Difference between need should must haw to  ought to.md"
+      },
+      {
+        "fileName": "Тег",
+        "link": "Различия типов задач Baclkog vs ToDo",
+        "relativePath": "KB/PKM/Тег.md"
+      }
+    ]
+  },
+  {
     "fileName": "Инструменты не главное",
     "relativePath": "Инструменты не главное.md",
     "tags": [
@@ -1408,6 +1442,11 @@
       {
         "fileName": "Task workflow",
         "link": "Регулярные задачи",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
+      },
+      {
+        "fileName": "Task workflow",
+        "link": "Регулярные задачи",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
         "displayText": "повторяющихся задач"
       },
@@ -1474,36 +1513,6 @@
         "fileName": "& Цитатник",
         "link": "Разница между задуманным, сказаным, и понятым",
         "relativePath": "KB/Цитатник/& Цитатник.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Различия задач",
-    "relativePath": "Различия задач.md",
-    "tags": [
-      "n/s/stub"
-    ],
-    "links": [
-      {
-        "link": "Difference between need should must haw to  ought to",
-        "relativePath": "KB/Личная эффективность/Time + project management/Difference between need should must haw to  ought to.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "~ Знать что делать и знать как сделать не равняется сделать",
-        "link": "Различия задач",
-        "relativePath": "KB/Личная эффективность/Time + project management/~ Знать что делать и знать как сделать не равняется сделать.md"
-      },
-      {
-        "fileName": "Difference between need should must haw to  ought to",
-        "link": "Различия задач",
-        "relativePath": "KB/Личная эффективность/Time + project management/Difference between need should must haw to  ought to.md"
-      },
-      {
-        "fileName": "Тег",
-        "link": "Различия задач",
-        "relativePath": "KB/PKM/Тег.md"
       }
     ]
   },
@@ -26888,11 +26897,6 @@
         "displayText": "Задачи, Проекты, Идеи"
       },
       {
-        "fileName": "Task workflow",
-        "link": "Задача vs Проект vs Идея vs Встреча vs Информация",
-        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
-      },
-      {
         "fileName": "+ составляем список задач",
         "link": "Задача vs Проект vs Идея vs Встреча vs Информация",
         "relativePath": "KB/Личная эффективность/Time + project management/+ составляем список задач.md",
@@ -26909,6 +26913,25 @@
         "relativePath": "KB/Личная эффективность/Time + project management/+ Udemy Джедайские техники (а не какой-то там тайм-менеджмент).md",
         "cleanLink": "Задача vs Проект vs Идея vs Встреча vs Информация",
         "displayText": "Задача vs Проект vs Идея vs Встреча vs Информация > Проект"
+      },
+      {
+        "fileName": "Инкубатор Идей",
+        "link": "Задача vs Проект vs Идея vs Встреча vs Информация#Идея",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md",
+        "cleanLink": "Задача vs Проект vs Идея vs Встреча vs Информация",
+        "displayText": "Задача vs Проект vs Идея vs Встреча vs Информация > Идея"
+      },
+      {
+        "fileName": "Инкубатор Идей",
+        "link": "Задача vs Проект vs Идея vs Встреча vs Информация#Идея",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md",
+        "cleanLink": "Задача vs Проект vs Идея vs Встреча vs Информация",
+        "displayText": "Задача vs Проект vs Идея vs Встреча vs Информация > Идея"
+      },
+      {
+        "fileName": "Тег",
+        "link": "Задача vs Проект vs Идея vs Встреча vs Информация",
+        "relativePath": "KB/PKM/Тег.md"
       }
     ]
   },
@@ -27079,8 +27102,8 @@
         "relativePath": "_Resources/_Books/К прочтению/} Будда, мозг и нейрофизиология счастья. Как изменить жизнь к лучшему.md"
       },
       {
-        "link": "Различия задач",
-        "relativePath": "Различия задач.md"
+        "link": "Различия типов задач Baclkog vs ToDo",
+        "relativePath": "Различия типов задач Baclkog vs ToDo.md"
       }
     ],
     "backlinks": [
@@ -27148,6 +27171,10 @@
       "#T/S/Inbox"
     ],
     "headings": [
+      {
+        "heading": "Task inbox это",
+        "level": 2
+      },
       {
         "heading": "Связанные списки:",
         "level": 2
@@ -27481,6 +27508,10 @@
       {
         "link": "Inbox",
         "relativePath": "KB/PKM/Inbox.md"
+      },
+      {
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/% ClickUp.md"
       },
       {
         "link": "Скачать",
@@ -27854,6 +27885,12 @@
         "relativePath": "WORK/CAMO/docs/Чеклист для проверки почтового сервера.md"
       },
       {
+        "link": "Тег#^38ce19",
+        "cleanLink": "Тег",
+        "displayText": "Тег > ^38ce19",
+        "relativePath": "KB/PKM/Тег.md"
+      },
+      {
         "link": "Task workflow",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
       }
@@ -27878,6 +27915,13 @@
         "fileName": "Task workflow",
         "link": "Tasks Inbox",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
+      },
+      {
+        "fileName": "Task workflow",
+        "link": "Tasks Inbox#Task inbox это",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
+        "cleanLink": "Tasks Inbox",
+        "displayText": "Tasks Inbox > Task inbox это"
       },
       {
         "fileName": "Тег",
@@ -28013,7 +28057,11 @@
     "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
     "tags": [
       "n/s/stub",
-      "t/t/to/brain"
+      "t/t/to/brain",
+      "t/s/todo",
+      "t/t/lognterm",
+      "t/t/to/do",
+      "t/t/thegame"
     ],
     "frontmatter": {
       "alias": [
@@ -28071,6 +28119,10 @@
       {
         "heading": "Пересмотр висячих задач и приоритетов",
         "level": 3
+      },
+      {
+        "heading": "Потрошить беклог, актуализировать с целями",
+        "level": 3
       }
     ],
     "links": [
@@ -28092,9 +28144,13 @@
         "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
       },
       {
-        "link": "Task workflow#Первичная классификация задач",
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/% ClickUp.md"
+      },
+      {
+        "link": "Task workflow#Первичная классификация \"переваривание\" задач",
         "cleanLink": "Task workflow",
-        "displayText": "Task workflow > Первичная классификация задач",
+        "displayText": "Task workflow > Первичная классификация \"переваривание\" задач",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
       },
       {
@@ -28124,6 +28180,10 @@
         "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
       },
       {
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/% ClickUp.md"
+      },
+      {
         "link": "Нужно доверять своему инбоксу",
         "displayText": "сохранять доверие к своему инбоксу",
         "relativePath": "Нужно доверять своему инбоксу.md"
@@ -28133,16 +28193,7 @@
         "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
       },
       {
-        "link": "Задача vs Проект vs Идея vs Встреча vs Информация",
-        "relativePath": "KB/Личная эффективность/Time + project management/Задача vs Проект vs Идея vs Встреча vs Информация.md"
-      },
-      {
         "link": "Инкубатор Идей",
-        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
-      },
-      {
-        "link": "Инкубатор Идей",
-        "displayText": "инкубатора идей",
         "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
       },
       {
@@ -28334,6 +28385,10 @@
         "relativePath": "KB/Рациональность/калибровка мозга.md"
       },
       {
+        "link": "Регулярные задачи",
+        "relativePath": "Регулярные задачи.md"
+      },
+      {
         "link": "Постоянно висящие задачи",
         "relativePath": "Постоянно висящие задачи.md"
       },
@@ -28395,10 +28450,44 @@
         "relativePath": "Привычки.md"
       },
       {
+        "link": "& Направления развития и их приоритеты",
+        "relativePath": "KB/Personal/Развитие/& Направления развития и их приоритеты.md"
+      },
+      {
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/% ClickUp.md"
+      },
+      {
+        "link": "& Джедайские техники",
+        "relativePath": "KB/Личная эффективность/Time + project management/& Джедайские техники.md"
+      },
+      {
+        "link": "Task tracking",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task tracking.md"
+      },
+      {
         "link": "Inbox#К Inbox относятся:",
         "cleanLink": "Inbox",
         "displayText": "Inbox > К Inbox относятся:",
         "relativePath": "KB/PKM/Inbox.md"
+      },
+      {
+        "link": "Tasks Inbox#Task inbox это",
+        "cleanLink": "Tasks Inbox",
+        "displayText": "Tasks Inbox > Task inbox это",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      },
+      {
+        "link": "Инкубатор Идей#Инкубатор идей это",
+        "cleanLink": "Инкубатор Идей",
+        "displayText": "Инкубатор Идей > Инкубатор идей это",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
+      },
+      {
+        "link": "Тег#^fd659b",
+        "cleanLink": "Тег",
+        "displayText": "Тег > ^fd659b",
+        "relativePath": "KB/PKM/Тег.md"
       },
       {
         "link": "Внутренняя обезьяна#Критерии хороших формулировок задач для внутренней обезьяны",
@@ -28572,6 +28661,11 @@
         "fileName": "делегирование",
         "link": "Task tracking",
         "relativePath": "KB/Личная эффективность/Time + project management/делегирование.md"
+      },
+      {
+        "fileName": "Task workflow",
+        "link": "Task tracking",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
       },
       {
         "fileName": "Тег",
@@ -28904,6 +28998,11 @@
         "displayText": "& Джедайские техники > Вакцины"
       },
       {
+        "fileName": "Task workflow",
+        "link": "& Джедайские техники",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
+      },
+      {
         "fileName": "Тег",
         "link": "& Джедайские техники",
         "relativePath": "KB/PKM/Тег.md"
@@ -28946,15 +29045,15 @@
         "relativePath": "KB/PKM/Тег.md"
       },
       {
-        "link": "Различия задач",
-        "relativePath": "Различия задач.md"
+        "link": "Различия типов задач Baclkog vs ToDo",
+        "relativePath": "Различия типов задач Baclkog vs ToDo.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Различия задач",
+        "fileName": "Различия типов задач Baclkog vs ToDo",
         "link": "Difference between need should must haw to  ought to",
-        "relativePath": "Различия задач.md"
+        "relativePath": "Различия типов задач Baclkog vs ToDo.md"
       },
       {
         "fileName": "Зоны критичности задач",
@@ -29025,6 +29124,26 @@
         "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
       },
       {
+        "fileName": "Tasks Inbox",
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      },
+      {
+        "fileName": "Task workflow",
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
+      },
+      {
+        "fileName": "Task workflow",
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
+      },
+      {
+        "fileName": "Task workflow",
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
+      },
+      {
         "fileName": "Task workflow",
         "link": "% ClickUp",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
@@ -29048,6 +29167,11 @@
         "fileName": "Task workflow",
         "link": "% ClickUp",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
+      },
+      {
+        "fileName": "Инкубатор Идей",
+        "link": "% ClickUp",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
       },
       {
         "fileName": "Тег",
@@ -54623,6 +54747,9 @@
     "fileName": "Инкубатор Идей",
     "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md",
     "tags": [
+      "n/s/stub",
+      "n/t/conspect",
+      "n/t/article",
       "t/t/to/do",
       "p/trivial",
       "p/delayed",
@@ -54633,7 +54760,35 @@
       "t/t/want",
       "t/t/investigate"
     ],
+    "frontmatter": {
+      "alias": [
+        "долгий ящик"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "aliases": [
+      "долгий ящик"
+    ],
     "headings": [
+      {
+        "heading": "Инкубатор идей это",
+        "level": 3
+      },
+      {
+        "heading": "Идеи",
+        "level": 3
+      },
       {
         "heading": "IT идеи",
         "level": 2
@@ -54741,6 +54896,24 @@
     ],
     "links": [
       {
+        "link": "Инкубатор Идей",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
+      },
+      {
+        "link": "% Obsidian",
+        "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
+        "link": "% ClickUp",
+        "relativePath": "KB/Личная эффективность/Time + project management/% ClickUp.md"
+      },
+      {
+        "link": "Задача vs Проект vs Идея vs Встреча vs Информация#Идея",
+        "cleanLink": "Задача vs Проект vs Идея vs Встреча vs Информация",
+        "displayText": "Задача vs Проект vs Идея vs Встреча vs Информация > Идея",
+        "relativePath": "KB/Личная эффективность/Time + project management/Задача vs Проект vs Идея vs Встреча vs Информация.md"
+      },
+      {
         "link": "Электронный Ментор",
         "relativePath": "KB/Ideas & Projects/Электронный Ментор.md"
       },
@@ -54808,6 +54981,18 @@
       {
         "link": "Дофаминовая диета",
         "relativePath": "KB/Личная эффективность/Бология + Биохакинг/Дофаминовая диета.md"
+      },
+      {
+        "link": "Тег#^3abd88",
+        "cleanLink": "Тег",
+        "displayText": "Тег > ^3abd88",
+        "relativePath": "KB/PKM/Тег.md"
+      },
+      {
+        "link": "Задача vs Проект vs Идея vs Встреча vs Информация#Идея",
+        "cleanLink": "Задача vs Проект vs Идея vs Встреча vs Информация",
+        "displayText": "Задача vs Проект vs Идея vs Встреча vs Информация > Идея",
+        "relativePath": "KB/Личная эффективность/Time + project management/Задача vs Проект vs Идея vs Встреча vs Информация.md"
       }
     ],
     "backlinks": [
@@ -54849,9 +55034,10 @@
       },
       {
         "fileName": "Task workflow",
-        "link": "Инкубатор Идей",
+        "link": "Инкубатор Идей#Инкубатор идей это",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
-        "displayText": "инкубатора идей"
+        "cleanLink": "Инкубатор Идей",
+        "displayText": "Инкубатор Идей > Инкубатор идей это"
       },
       {
         "fileName": "Электронный Ментор",
@@ -54866,6 +55052,11 @@
         "relativePath": "KB/Ideas & Projects/Электронный Ментор.md",
         "cleanLink": "Инкубатор Идей",
         "displayText": "Инкубатор Идей > Модуль построения и рекомендации областей развития"
+      },
+      {
+        "fileName": "Тег",
+        "link": "Инкубатор Идей",
+        "relativePath": "KB/PKM/Тег.md"
       },
       {
         "fileName": "Тег",
@@ -55499,7 +55690,6 @@
       "p/low",
       "n/s/stub",
       "n/s/seedbox",
-      "n/s/inbox",
       "n/s/inncubator",
       "n/s/processing",
       "n/s/rare",
@@ -55536,6 +55726,7 @@
       "n/t/secure",
       "n/t/public",
       "n/t/linux",
+      "t/s/stub",
       "t/s/backlog",
       "t/s/todo",
       "t/s/next",
@@ -55572,31 +55763,11 @@
       "t/t/to/brain",
       "t/t/to/anki"
     ],
-    "frontmatter": {
-      "alias": [
-        "Tag",
-        "Метка",
-        "Тег"
-      ],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 33
-        }
-      }
-    },
-    "aliases": [
-      "Tag",
-      "Метка",
-      "Тег"
-    ],
     "headings": [
+      {
+        "heading": "alias: [Tag, Метка, Тег ]",
+        "level": 2
+      },
       {
         "heading": "Тег",
         "level": 1
@@ -55742,16 +55913,24 @@
         "relativePath": "KB/Личная эффективность/Time + project management/Методологии/Kanban.md"
       },
       {
-        "link": "Инкубатор Идей",
-        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
+        "link": "Tasks Inbox",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      },
+      {
+        "link": "Задача vs Проект vs Идея vs Встреча vs Информация",
+        "relativePath": "KB/Личная эффективность/Time + project management/Задача vs Проект vs Идея vs Встреча vs Информация.md"
       },
       {
         "link": "Бэклог",
         "relativePath": "KB/Личная эффективность/Time + project management/Бэклог.md"
       },
       {
-        "link": "Tasks Inbox",
-        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+        "link": "Инкубатор Идей",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
+      },
+      {
+        "link": "Инкубатор Идей",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
       },
       {
         "link": "Task TODO",
@@ -55828,8 +56007,8 @@
         "relativePath": "KB/Личная эффективность/% Anki.md"
       },
       {
-        "link": "Различия задач",
-        "relativePath": "Различия задач.md"
+        "link": "Различия типов задач Baclkog vs ToDo",
+        "relativePath": "Различия типов задач Baclkog vs ToDo.md"
       }
     ],
     "backlinks": [
@@ -55913,6 +56092,13 @@
         "displayText": "Tag"
       },
       {
+        "fileName": "Tasks Inbox",
+        "link": "Тег#^38ce19",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md",
+        "cleanLink": "Тег",
+        "displayText": "Тег > ^38ce19"
+      },
+      {
         "fileName": "Task workflow",
         "link": "Тег#Теги приоритета",
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
@@ -55934,11 +56120,25 @@
         "displayText": "Тег > Теги статуса задач"
       },
       {
+        "fileName": "Task workflow",
+        "link": "Тег#^fd659b",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
+        "cleanLink": "Тег",
+        "displayText": "Тег > ^fd659b"
+      },
+      {
         "fileName": "Difference between need should must haw to  ought to",
         "link": "Тег#Теги приоритета",
         "relativePath": "KB/Личная эффективность/Time + project management/Difference between need should must haw to  ought to.md",
         "cleanLink": "Тег",
         "displayText": "Тег > Теги приоритета"
+      },
+      {
+        "fileName": "Инкубатор Идей",
+        "link": "Тег#^3abd88",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md",
+        "cleanLink": "Тег",
+        "displayText": "Тег > ^3abd88"
       },
       {
         "fileName": "Особенности Зеттелькастен в цифре",
@@ -60609,6 +60809,11 @@
         "relativePath": "KB/IT/Apps/publish.obsidian.md"
       },
       {
+        "fileName": "Инкубатор Идей",
+        "link": "% Obsidian",
+        "relativePath": "KB/Ideas & Projects/Инкубатор Идей.md"
+      },
+      {
         "fileName": "Трансклюзия",
         "link": "% Obsidian",
         "relativePath": "KB/PKM/Трансклюзия.md"
@@ -62338,6 +62543,11 @@
         "fileName": "Tasks Inbox",
         "link": "& Направления развития и их приоритеты",
         "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      },
+      {
+        "fileName": "Task workflow",
+        "link": "& Направления развития и их приоритеты",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
       },
       {
         "fileName": "Task workflow",

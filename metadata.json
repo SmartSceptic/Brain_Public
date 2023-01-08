@@ -14008,6 +14008,18 @@
     ]
   },
   {
+    "fileName": "dev-panel.devzone.net",
+    "relativePath": "WORK/CAMO/docs/dev-panel.devzone.net.md",
+    "links": [
+      {
+        "link": "% pct#Шпаргалки:",
+        "cleanLink": "% pct",
+        "displayText": "% pct > Шпаргалки:",
+        "relativePath": "KB/IT/Utils/% pct.md"
+      }
+    ]
+  },
+  {
     "fileName": "🌱️ Ограничения на массовые почтовые рассылки team.",
     "relativePath": "WORK/CAMO/docs/🌱️ Ограничения на массовые почтовые рассылки team..md",
     "headings": [
@@ -28383,6 +28395,12 @@
         "relativePath": "Привычки.md"
       },
       {
+        "link": "Inbox#К Inbox относятся:",
+        "cleanLink": "Inbox",
+        "displayText": "Inbox > К Inbox относятся:",
+        "relativePath": "KB/PKM/Inbox.md"
+      },
+      {
         "link": "Внутренняя обезьяна#Критерии хороших формулировок задач для внутренней обезьяны",
         "cleanLink": "Внутренняя обезьяна",
         "displayText": "Внутренняя обезьяна > Критерии хороших формулировок задач для внутренней обезьяны",
@@ -30123,6 +30141,78 @@
         "fileName": "AWS CloudFormation",
         "link": "YAML",
         "relativePath": "KB/IT/Cloud/AWS CloudFormation.md"
+      }
+    ]
+  },
+  {
+    "fileName": "% pct",
+    "relativePath": "KB/IT/Utils/% pct.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/linux",
+      "n/t/tool/util",
+      "n/t/private"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Описание",
+        "level": 2
+      },
+      {
+        "heading": "Шаблон",
+        "level": 2
+      },
+      {
+        "heading": "Примеры:",
+        "level": 2
+      },
+      {
+        "heading": "",
+        "level": 5
+      },
+      {
+        "heading": "Шпаргалки:",
+        "level": 3
+      },
+      {
+        "heading": "Получить номер контейнера",
+        "level": 5
+      },
+      {
+        "heading": "Войти внутрь контейнера",
+        "level": 5
+      },
+      {
+        "heading": "Используемые или важные ключи.",
+        "level": 2
+      },
+      {
+        "heading": "Файлы",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "dev-panel.devzone.net",
+        "link": "% pct#Шпаргалки:",
+        "relativePath": "WORK/CAMO/docs/dev-panel.devzone.net.md",
+        "cleanLink": "% pct",
+        "displayText": "% pct > Шпаргалки:"
       }
     ]
   },
@@ -59321,6 +59411,13 @@
         "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md"
       },
       {
+        "fileName": "Task workflow",
+        "link": "Inbox#К Inbox относятся:",
+        "relativePath": "KB/Личная эффективность/Time + project management/Task workflow.md",
+        "cleanLink": "Inbox",
+        "displayText": "Inbox > К Inbox относятся:"
+      },
+      {
         "fileName": "Тег",
         "link": "Inbox",
         "relativePath": "KB/PKM/Тег.md"
@@ -62581,6 +62678,16 @@
   {
     "fileName": "& поиграть",
     "relativePath": "KB/Personal/Рекомендации/& поиграть.md",
+    "headings": [
+      {
+        "heading": "VR игры",
+        "level": 3
+      },
+      {
+        "heading": "RUMBLE",
+        "level": 4
+      }
+    ],
     "links": [
       {
         "link": "@igor pablenko"

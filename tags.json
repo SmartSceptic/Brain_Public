@@ -1,7 +1,7 @@
 [
   {
     "tag": "n/s/stub",
-    "tagCount": 391,
+    "tagCount": 392,
     "relativePaths": [
       "Инструменты не главное.md",
       "Япония.md",
@@ -184,6 +184,7 @@
       "KB/IT/yum/yum dnf.md",
       "KB/IT/Бекапы.md",
       "KB/IT/YAML.md",
+      "KB/IT/Utils/% pct.md",
       "KB/IT/Utils/& CRON.md",
       "KB/IT/Utils/% zsh.md",
       "KB/IT/Utils/% zabbix.md",
@@ -936,7 +937,7 @@
   },
   {
     "tag": "n/t/private",
-    "tagCount": 142,
+    "tagCount": 143,
     "relativePaths": [
       "Юмор..md",
       "Примеры конфигурации сетевого интерфейса.md",
@@ -966,6 +967,7 @@
       "Telegramm бот для сохранения заметок с Youtube (timepoint + субтитры).md",
       "KB/IT/yum/yum dnf.md",
       "KB/IT/YAML.md",
+      "KB/IT/Utils/% pct.md",
       "KB/IT/Utils/% zsh.md",
       "KB/IT/Utils/% zabbix.md",
       "KB/IT/Utils/% xargs.md",
@@ -1201,7 +1203,7 @@
   },
   {
     "tag": "n/t/tool",
-    "tagCount": 219,
+    "tagCount": 220,
     "relativePaths": [
       "Обозначение события bash.md",
       "WORK/VLADLEN.CH/% Proxmox.md",
@@ -1298,7 +1300,7 @@
   },
   {
     "tag": "n/t/linux",
-    "tagCount": 123,
+    "tagCount": 124,
     "relativePaths": [
       "Обозначение события bash.md",
       "_Resources/_Templates/_Util.md",
@@ -1307,6 +1309,7 @@
       "testssl.sh.md",
       "KB/IT/yum/yum dnf.md",
       "KB/IT/YAML.md",
+      "KB/IT/Utils/% pct.md",
       "KB/IT/Utils/% zsh.md",
       "KB/IT/Utils/% zabbix.md",
       "KB/IT/Utils/% xargs.md",
@@ -1427,7 +1430,7 @@
   },
   {
     "tag": "n/t/tool/util",
-    "tagCount": 124,
+    "tagCount": 125,
     "relativePaths": [
       "Обозначение события bash.md",
       "_Resources/_Templates/_Util.md",
@@ -1437,6 +1440,7 @@
       "Telegramm бот для сохранения заметок с Youtube (timepoint + субтитры).md",
       "KB/IT/yum/yum dnf.md",
       "KB/IT/YAML.md",
+      "KB/IT/Utils/% pct.md",
       "KB/IT/Utils/% zsh.md",
       "KB/IT/Utils/% zabbix.md",
       "KB/IT/Utils/% xargs.md",

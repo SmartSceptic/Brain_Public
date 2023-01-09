@@ -3442,6 +3442,11 @@
         "fileName": "!Граф",
         "link": "Граф знаний",
         "relativePath": "tmp/!Граф.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "Граф знаний",
+        "relativePath": "KB/PKM/% Obsidian.md"
       }
     ]
   },
@@ -8367,6 +8372,18 @@
         "link": "Markdown Cheatsheet",
         "relativePath": "KB/PKM/Варианты реализации цифровых хранилищ заметок.md",
         "displayText": "Маркдауна"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "Markdown Cheatsheet",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "displayText": "Markdown"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "Markdown Cheatsheet",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "displayText": "Markdown"
       }
     ]
   },
@@ -9236,6 +9253,46 @@
         "fileName": "+ Ведение заметок в Obsidian",
         "link": "& 🌱️ Методики PKM",
         "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "& 🌱️ Методики PKM",
+        "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "& 🌱️ Методики PKM#Линейная структура",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "больших линейных текстов"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "& 🌱️ Методики PKM#Плоская структура",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "плоской структурой"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "& 🌱️ Методики PKM#Древовидная структура",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "древовидных outliner струкрур"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "& 🌱️ Методики PKM#Тег Теги",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "тегами"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "& 🌱️ Методики PKM#Прямые и обратные ссылки",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "ссылками"
       }
     ]
   },
@@ -9915,6 +9972,11 @@
         "relativePath": "KB/PKM/% Obsidian.md"
       },
       {
+        "fileName": "% Obsidian",
+        "link": "& 🌲️Zettelkisten",
+        "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
         "fileName": "# Книга = How to Take Smart Notes",
         "link": "& 🌲️Zettelkisten",
         "relativePath": "KB/PKM/# Книга = How to Take Smart Notes.md"
@@ -10513,6 +10575,12 @@
         "fileName": "Tasks Inbox",
         "link": "brain.vladlen.ch",
         "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "brain.vladlen.ch",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "displayText": "perlite  и mildstone"
       }
     ]
   },
@@ -27163,6 +27231,11 @@
         "fileName": "+ Ведение заметок в Obsidian",
         "link": "Tрекеры задач",
         "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "Tрекеры задач",
+        "relativePath": "KB/PKM/% Obsidian.md"
       }
     ]
   },
@@ -30866,6 +30939,17 @@
         "fileName": "% Obsidian",
         "link": "Трансклюзия",
         "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "Трансклюзия",
+        "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "Трансклюзия",
+        "relativePath": "KB/PKM/% Obsidian.md",
+        "displayText": "трансклюзии"
       },
       {
         "fileName": "! Пример использования и комбинирования разных типов заметок",
@@ -36199,6 +36283,11 @@
         "fileName": "Жизненный цикл заметки",
         "link": "!Обратные ссылки",
         "relativePath": "KB/PKM/Жизненный цикл заметки.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "!Обратные ссылки",
+        "relativePath": "KB/PKM/% Obsidian.md"
       }
     ]
   },
@@ -36222,8 +36311,88 @@
         "level": 1
       },
       {
-        "heading": "Обновления и обзоры обновлений",
+        "heading": "Почему обсидиан",
+        "level": 3
+      },
+      {
+        "heading": "Во первых он не мешает",
         "level": 4
+      },
+      {
+        "heading": "Имеет локальное хранилище",
+        "level": 4
+      },
+      {
+        "heading": "Хранит заметки в отдельных файлах, в Plain Text,",
+        "level": 4
+      },
+      {
+        "heading": "Удобное GIT версионирование",
+        "level": 4
+      },
+      {
+        "heading": "Можно использовать как IDE для работы с Github | Gitlab документацией",
+        "level": 4
+      },
+      {
+        "heading": "Обсидиан поддерживает markdown",
+        "level": 4
+      },
+      {
+        "heading": "Обеспечивает свободу выбора инструменария, и кросплатформенность",
+        "level": 4
+      },
+      {
+        "heading": "Работа с ссылками",
+        "level": 4
+      },
+      {
+        "heading": "Поддержка методологии [[& 🌲️Zettelkisten]]",
+        "level": 5
+      },
+      {
+        "heading": "[[!Прямые ссылки]]",
+        "level": 5
+      },
+      {
+        "heading": "[[!Обратные ссылки]]",
+        "level": 5
+      },
+      {
+        "heading": "Неявные ссылки",
+        "level": 5
+      },
+      {
+        "heading": "Реализуется  [[Трансклюзия]]",
+        "level": 4
+      },
+      {
+        "heading": "Подсветка содержимого ссылки без перехода по ней",
+        "level": 4
+      },
+      {
+        "heading": "Граф всей базы знаний",
+        "level": 4
+      },
+      {
+        "heading": "Поддерживает метаданные в заметках",
+        "level": 4
+      },
+      {
+        "heading": "Активная разработка в процессе очень отзывчиве разработчики, и колоссально активное комьюнити",
+        "level": 4
+      },
+      {
+        "heading": "Обсидиан хорошо расширяется",
+        "level": 4
+      },
+      {
+        "heading": "Все это счастье бесплатное",
+        "level": 4
+      },
+      {
+        "heading": "Обновления и обзоры обновлений",
+        "level": 3
       }
     ],
     "links": [
@@ -36245,6 +36414,104 @@
       {
         "link": "Инструменты не главное",
         "relativePath": "Инструменты не главное.md"
+      },
+      {
+        "link": "% grep",
+        "relativePath": "KB/IT/Utils/% grep.md"
+      },
+      {
+        "link": "% sed",
+        "relativePath": "KB/IT/Utils/% sed.md"
+      },
+      {
+        "link": "Markdown Cheatsheet",
+        "displayText": "Markdown",
+        "relativePath": "_Resources/Markdown Cheatsheet.md"
+      },
+      {
+        "link": "IDE",
+        "relativePath": "KB/IT/Theory/IDE.md"
+      },
+      {
+        "link": "Tрекеры задач",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tрекеры задач.md"
+      },
+      {
+        "link": "! Knowledge base",
+        "relativePath": "KB/PKM/! Knowledge base.md"
+      },
+      {
+        "link": "& 🌱️ Методики PKM",
+        "relativePath": "_Public/& 🌱️ Методики PKM.md"
+      },
+      {
+        "link": "& 🌱️ Методики PKM#Линейная структура",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "больших линейных текстов",
+        "relativePath": "_Public/& 🌱️ Методики PKM.md"
+      },
+      {
+        "link": "& 🌱️ Методики PKM#Плоская структура",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "плоской структурой",
+        "relativePath": "_Public/& 🌱️ Методики PKM.md"
+      },
+      {
+        "link": "& 🌱️ Методики PKM#Древовидная структура",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "древовидных outliner струкрур",
+        "relativePath": "_Public/& 🌱️ Методики PKM.md"
+      },
+      {
+        "link": "& 🌱️ Методики PKM#Тег Теги",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "тегами",
+        "relativePath": "_Public/& 🌱️ Методики PKM.md"
+      },
+      {
+        "link": "& 🌱️ Методики PKM#Прямые и обратные ссылки",
+        "cleanLink": "& 🌱️ Методики PKM",
+        "displayText": "ссылками",
+        "relativePath": "_Public/& 🌱️ Методики PKM.md"
+      },
+      {
+        "link": "& 🌲️Zettelkisten",
+        "relativePath": "_Public/PKM/& 🌲️Zettelkisten.md"
+      },
+      {
+        "link": "!Прямые ссылки",
+        "relativePath": "KB/PKM/!Прямые ссылки.md"
+      },
+      {
+        "link": "!Обратные ссылки",
+        "relativePath": "KB/PKM/!Обратные ссылки.md"
+      },
+      {
+        "link": "Трансклюзия",
+        "relativePath": "KB/PKM/Трансклюзия.md"
+      },
+      {
+        "link": "Трансклюзия",
+        "displayText": "трансклюзии",
+        "relativePath": "KB/PKM/Трансклюзия.md"
+      },
+      {
+        "link": "Граф знаний",
+        "relativePath": "Граф знаний.md"
+      },
+      {
+        "link": "publish.obsidian",
+        "relativePath": "KB/IT/Apps/publish.obsidian.md"
+      },
+      {
+        "link": "brain.vladlen.ch",
+        "displayText": "perlite  и mildstone",
+        "relativePath": "WORK/VLADLEN.CH/brain.vladlen.ch.md"
+      },
+      {
+        "link": "Markdown Cheatsheet",
+        "displayText": "Markdown",
+        "relativePath": "_Resources/Markdown Cheatsheet.md"
       }
     ],
     "backlinks": [
@@ -36662,6 +36929,11 @@
         "fileName": "!Обратные ссылки",
         "link": "!Прямые ссылки",
         "relativePath": "KB/PKM/!Обратные ссылки.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "!Прямые ссылки",
+        "relativePath": "KB/PKM/% Obsidian.md"
       }
     ]
   },
@@ -37009,6 +37281,11 @@
         "fileName": "Inbox",
         "link": "! Knowledge base",
         "relativePath": "KB/PKM/Inbox.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "! Knowledge base",
+        "relativePath": "KB/PKM/% Obsidian.md"
       },
       {
         "fileName": "# Книга = How to Take Smart Notes",
@@ -38205,6 +38482,13 @@
       {
         "link": "% xargs",
         "relativePath": "KB/IT/Utils/% xargs.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "% Obsidian",
+        "link": "% sed",
+        "relativePath": "KB/PKM/% Obsidian.md"
       }
     ]
   },
@@ -40327,6 +40611,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "% Obsidian",
+        "link": "% grep",
+        "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
         "fileName": "% rigrep",
         "link": "% grep",
         "relativePath": "KB/IT/Utils/% rigrep.md"
@@ -42390,6 +42679,11 @@
         "fileName": "Puppet tips",
         "link": "IDE",
         "relativePath": "WORK/CAMO/docs/Puppet tips.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "IDE",
+        "relativePath": "KB/PKM/% Obsidian.md"
       },
       {
         "fileName": "IDE для работы с паппет кодом",
@@ -58018,6 +58312,11 @@
         "fileName": "+ Ведение заметок в Obsidian",
         "link": "publish.obsidian",
         "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "publish.obsidian",
+        "relativePath": "KB/PKM/% Obsidian.md"
       }
     ]
   },

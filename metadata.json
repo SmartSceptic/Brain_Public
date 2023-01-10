@@ -43659,11 +43659,11 @@
         "level": 5
       },
       {
-        "heading": "Вывести больше информации о пакете, с выводом в шеснадцетеричную систему.",
+        "heading": "Проверить содержимое пакета",
         "level": 5
       },
       {
-        "heading": "Фильтрация по источнику и назначению",
+        "heading": "Вывести больше информации о пакете, с выводом в шеснадцетеричную систему.",
         "level": 5
       },
       {
@@ -43796,6 +43796,10 @@
         "link": "& Networking",
         "displayText": "Linux network",
         "relativePath": "KB/IT/Network/& Networking.md"
+      },
+      {
+        "link": "% ngrep",
+        "relativePath": "KB/IT/Network/% ngrep.md"
       }
     ],
     "backlinks": [
@@ -44658,6 +44662,13 @@
     "links": [
       {
         "link": "% tcpdump",
+        "relativePath": "KB/IT/Network/% tcpdump.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "% tcpdump",
+        "link": "% ngrep",
         "relativePath": "KB/IT/Network/% tcpdump.md"
       }
     ]

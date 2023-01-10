@@ -11019,6 +11019,15 @@
         "link": "ряд очень удобных функций"
       },
       {
+        "link": "Настройка обсидиан для gitlab wiki",
+        "displayText": "HowTo/Настройка обсидиан для gitlab wiki",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/HowTo/Настройка обсидиан для gitlab wiki.md"
+      },
+      {
+        "link": "Настройка обсидиан для gitlab wiki",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/HowTo/Настройка обсидиан для gitlab wiki.md"
+      },
+      {
         "link": "Hetzner",
         "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
       },
@@ -11856,6 +11865,41 @@
         "link": "&MeServices",
         "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md",
         "displayText": "service/&MeServices"
+      }
+    ]
+  },
+  {
+    "fileName": "Настройка обсидиан для gitlab wiki",
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/HowTo/Настройка обсидиан для gitlab wiki.md",
+    "headings": [
+      {
+        "heading": "Настройки",
+        "level": 2
+      },
+      {
+        "heading": "Редактор",
+        "level": 3
+      },
+      {
+        "heading": "Файлы и ссылки",
+        "level": 3
+      },
+      {
+        "heading": "Не обязательные, но удобные плагины сообщества:",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "home",
+        "link": "Настройка обсидиан для gitlab wiki",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md",
+        "displayText": "HowTo/Настройка обсидиан для gitlab wiki"
+      },
+      {
+        "fileName": "home",
+        "link": "Настройка обсидиан для gitlab wiki",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/home.md"
       }
     ]
   },

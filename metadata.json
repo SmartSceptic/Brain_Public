@@ -10943,7 +10943,11 @@
     ],
     "headings": [
       {
-        "heading": "Общая  иформация",
+        "heading": "Введение",
+        "level": 2
+      },
+      {
+        "heading": "Общая  иформация про проект",
         "level": 2
       },
       {
@@ -11008,6 +11012,12 @@
       }
     ],
     "links": [
+      {
+        "link": "markdown"
+      },
+      {
+        "link": "ряд очень удобных функций"
+      },
       {
         "link": "Hetzner",
         "relativePath": "WORK/VLADLEN.CH/Hetzner.md"
@@ -11110,7 +11120,13 @@
   },
   {
     "fileName": "test-wiki-sintax",
-    "relativePath": "WORK/me-projects-knowledge-base.wiki/test-wiki-sintax.md"
+    "relativePath": "WORK/me-projects-knowledge-base.wiki/test-wiki-sintax.md",
+    "links": [
+      {
+        "link": "web1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/host/web1.me-team.org.md"
+      }
+    ]
   },
   {
     "fileName": "@Vladlen-Chervanov",
@@ -12202,6 +12218,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "test-wiki-sintax",
+        "link": "web1.me-team.org",
+        "relativePath": "WORK/me-projects-knowledge-base.wiki/test-wiki-sintax.md"
+      },
       {
         "fileName": "&MeHosts",
         "link": "web1.me-team.org",

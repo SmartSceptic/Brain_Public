@@ -1,8 +1,9 @@
 [
   {
     "tag": "n/s/stub",
-    "tagCount": 394,
+    "tagCount": 396,
     "relativePaths": [
+      "Теория черного лебедя.md",
       "Япония.md",
       "Что означает foobar в информатике.md",
       "Як впоратись з панікою та тривогою.md",
@@ -55,6 +56,7 @@
       "_Resources/_Templates/_Conspect.md",
       "_Resources/_Templates/_Book.md",
       "_Resources/_Books/Почитать.md",
+      "_Resources/_Books/К прочтению/} черный лебедь.md",
       "_Resources/_Books/К прочтению/} Революция внимания Пробуждение силы сосредоточенного ума.md",
       "_Resources/_Books/К прочтению/} Путь джедая.md",
       "_Resources/_Books/К прочтению/} Экспоненциальные организации.md",
@@ -401,8 +403,9 @@
   },
   {
     "tag": "n/t/conspect",
-    "tagCount": 176,
+    "tagCount": 178,
     "relativePaths": [
+      "Теория черного лебедя.md",
       "Япония.md",
       "Что означает foobar в информатике.md",
       "Як впоратись з панікою та тривогою.md",
@@ -439,6 +442,7 @@
       "_Resources/_Templates/_Conspect.md",
       "_Resources/_Templates/_Chain.md",
       "_Resources/_Templates/_Book.md",
+      "_Resources/_Books/К прочтению/} черный лебедь.md",
       "_Resources/_Books/К прочтению/} Революция внимания Пробуждение силы сосредоточенного ума.md",
       "_Resources/_Books/К прочтению/} Путь джедая.md",
       "_Resources/_Books/К прочтению/} Экспоненциальные организации.md",
@@ -583,8 +587,9 @@
   },
   {
     "tag": "n/t/article",
-    "tagCount": 139,
+    "tagCount": 140,
     "relativePaths": [
+      "Теория черного лебедя.md",
       "Япония.md",
       "Что означает foobar в информатике.md",
       "Як впоратись з панікою та тривогою.md",
@@ -724,6 +729,26 @@
       "KB/Ideas & Projects/Инкубатор Идей.md",
       "Day Planners/Day Planners/Day Planner-20210202.md",
       "Application vs Utility.md"
+    ]
+  },
+  {
+    "tag": "n/t/person",
+    "tagCount": 14,
+    "relativePaths": [
+      "@Нассим Николас Талеб.md",
+      "_Resources/_Templates/_Person.md",
+      "_Resources/_Person/@Элиезер Юдковский.md",
+      "_Resources/_Person/@Максим Дорофеев.md",
+      "_Resources/_Person/_Family/@София ДИдковская.md",
+      "_Resources/_Person/_Family/@Никита Кирпиченко.md",
+      "_Resources/_Person/_Family/@Марина.md",
+      "_Resources/_Person/_Family/@Сания Касимовна.md",
+      "_Resources/_Person/@Тим Урбан.md",
+      "_Resources/_Person/@Ася Казанцева.md",
+      "WORK/me-projects-knowledge-base.wiki/user/@Vladlen-Chervanov.md",
+      "WORK/me-projects-knowledge-base.wiki/user/@Sergey-Bernikov.md",
+      "WORK/me-projects-knowledge-base.wiki/user/@Igor-Sidorenko.md",
+      "KB/PKM/Тег.md"
     ]
   },
   {
@@ -1630,25 +1655,6 @@
     ]
   },
   {
-    "tag": "n/t/person",
-    "tagCount": 13,
-    "relativePaths": [
-      "_Resources/_Templates/_Person.md",
-      "_Resources/_Person/@Элиезер Юдковский.md",
-      "_Resources/_Person/@Максим Дорофеев.md",
-      "_Resources/_Person/_Family/@София ДИдковская.md",
-      "_Resources/_Person/_Family/@Никита Кирпиченко.md",
-      "_Resources/_Person/_Family/@Марина.md",
-      "_Resources/_Person/_Family/@Сания Касимовна.md",
-      "_Resources/_Person/@Тим Урбан.md",
-      "_Resources/_Person/@Ася Казанцева.md",
-      "WORK/me-projects-knowledge-base.wiki/user/@Vladlen-Chervanov.md",
-      "WORK/me-projects-knowledge-base.wiki/user/@Sergey-Bernikov.md",
-      "WORK/me-projects-knowledge-base.wiki/user/@Igor-Sidorenko.md",
-      "KB/PKM/Тег.md"
-    ]
-  },
-  {
     "tag": "n/t/host",
     "tagCount": 15,
     "relativePaths": [
@@ -1702,9 +1708,10 @@
   },
   {
     "tag": "n/t/book",
-    "tagCount": 26,
+    "tagCount": 27,
     "relativePaths": [
       "_Resources/_Templates/_Book.md",
+      "_Resources/_Books/К прочтению/} черный лебедь.md",
       "_Resources/_Books/К прочтению/} Революция внимания Пробуждение силы сосредоточенного ума.md",
       "_Resources/_Books/К прочтению/} Путь джедая.md",
       "_Resources/_Books/К прочтению/} Экспоненциальные организации.md",
@@ -1733,9 +1740,10 @@
   },
   {
     "tag": "t/t/want",
-    "tagCount": 27,
+    "tagCount": 28,
     "relativePaths": [
       "_Resources/_Templates/_Book.md",
+      "_Resources/_Books/К прочтению/} черный лебедь.md",
       "_Resources/_Books/К прочтению/} Революция внимания Пробуждение силы сосредоточенного ума.md",
       "_Resources/_Books/К прочтению/} Путь джедая.md",
       "_Resources/_Books/К прочтению/} Экспоненциальные организации.md",

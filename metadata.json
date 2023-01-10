@@ -1,5 +1,104 @@
 [
   {
+    "fileName": "Теория черного лебедя",
+    "relativePath": "Теория черного лебедя.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/conspect",
+      "n/t/article"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "Безрисковые стратегии, крайне редко дают удивительные результаты",
+        "relativePath": "Безрисковые стратегии, крайне редко дают удивительные результаты.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "@Нассим Николас Талеб",
+        "link": "Теория черного лебедя",
+        "relativePath": "@Нассим Николас Талеб.md"
+      }
+    ]
+  },
+  {
+    "fileName": "@Нассим Николас Талеб",
+    "relativePath": "@Нассим Николас Талеб.md",
+    "tags": [
+      "n/t/person"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "**известный как:**",
+        "level": 2
+      },
+      {
+        "heading": "**известный благодаря:**",
+        "level": 2
+      },
+      {
+        "heading": "**Личное общение ?**",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Теория черного лебедя",
+        "relativePath": "Теория черного лебедя.md"
+      },
+      {
+        "link": "} черный лебедь",
+        "relativePath": "_Resources/_Books/К прочтению/} черный лебедь.md"
+      },
+      {
+        "link": "} Антихрупкость",
+        "relativePath": "_Resources/_Books/К прочтению/} Антихрупкость.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "} черный лебедь",
+        "link": "@Нассим Николас Талеб",
+        "relativePath": "_Resources/_Books/К прочтению/} черный лебедь.md"
+      },
+      {
+        "fileName": "} Антихрупкость",
+        "link": "@Нассим Николас Талеб",
+        "relativePath": "_Resources/_Books/К прочтению/} Антихрупкость.md"
+      }
+    ]
+  },
+  {
     "fileName": "Япония",
     "relativePath": "Япония.md",
     "tags": [
@@ -3500,7 +3599,8 @@
     ],
     "links": [
       {
-        "link": "черный лебедь"
+        "link": "} черный лебедь",
+        "relativePath": "_Resources/_Books/К прочтению/} черный лебедь.md"
       },
       {
         "link": "Стратегия рационального фланёра",
@@ -3512,6 +3612,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "Теория черного лебедя",
+        "link": "Безрисковые стратегии, крайне редко дают удивительные результаты",
+        "relativePath": "Теория черного лебедя.md"
+      },
       {
         "fileName": "Минимально приемлемый результат",
         "link": "Безрисковые стратегии, крайне редко дают удивительные результаты",
@@ -5136,6 +5241,63 @@
       {
         "link": "} The Unicorn Project",
         "relativePath": "_Resources/_Books/К прочтению/} The Unicorn Project.md"
+      }
+    ]
+  },
+  {
+    "fileName": "} черный лебедь",
+    "relativePath": "_Resources/_Books/К прочтению/} черный лебедь.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/conspect",
+      "n/t/book",
+      "t/t/want"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Описание:",
+        "level": 3
+      },
+      {
+        "heading": "Мысли",
+        "level": 3
+      },
+      {
+        "heading": "Для кого",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "@Нассим Николас Талеб",
+        "relativePath": "@Нассим Николас Талеб.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "@Нассим Николас Талеб",
+        "link": "} черный лебедь",
+        "relativePath": "@Нассим Николас Талеб.md"
+      },
+      {
+        "fileName": "Безрисковые стратегии, крайне редко дают удивительные результаты",
+        "link": "} черный лебедь",
+        "relativePath": "Безрисковые стратегии, крайне редко дают удивительные результаты.md"
       }
     ]
   },
@@ -7733,7 +7895,18 @@
         "level": 3
       }
     ],
+    "links": [
+      {
+        "link": "@Нассим Николас Талеб",
+        "relativePath": "@Нассим Николас Талеб.md"
+      }
+    ],
     "backlinks": [
+      {
+        "fileName": "@Нассим Николас Талеб",
+        "link": "} Антихрупкость",
+        "relativePath": "@Нассим Николас Талеб.md"
+      },
       {
         "fileName": "Задача vs Проект vs Идея vs Встреча vs Информация",
         "link": "} Антихрупкость",
@@ -8989,6 +9162,10 @@
       },
       {
         "heading": "3 основных уровня близости - связанности.",
+        "level": 2
+      },
+      {
+        "heading": "Критика pkm",
         "level": 2
       }
     ],

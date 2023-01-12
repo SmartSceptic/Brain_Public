@@ -1,5 +1,40 @@
 [
   {
+    "fileName": "% adb",
+    "relativePath": "% adb.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/conspect",
+      "n/t/article"
+    ],
+    "frontmatter": {
+      "alias": [
+        "SDK Platform-Tools"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "aliases": [
+      "SDK Platform-Tools"
+    ],
+    "headings": [
+      {
+        "heading": "",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Теория черного лебедя",
     "relativePath": "Теория черного лебедя.md",
     "tags": [
@@ -60055,6 +60090,14 @@
       {
         "heading": "Kingston 16 G",
         "level": 6
+      },
+      {
+        "heading": "Мебель",
+        "level": 3
+      },
+      {
+        "heading": "ГЕЙМЕРСКОЕ КРЕСЛО GT RACER X-2612 BLACK/BLUE",
+        "level": 4
       }
     ],
     "links": [

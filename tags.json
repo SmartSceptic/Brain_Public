@@ -1,8 +1,9 @@
 [
   {
     "tag": "n/s/stub",
-    "tagCount": 396,
+    "tagCount": 397,
     "relativePaths": [
+      "% adb.md",
       "Теория черного лебедя.md",
       "Япония.md",
       "Что означает foobar в информатике.md",
@@ -403,8 +404,9 @@
   },
   {
     "tag": "n/t/conspect",
-    "tagCount": 178,
+    "tagCount": 179,
     "relativePaths": [
+      "% adb.md",
       "Теория черного лебедя.md",
       "Япония.md",
       "Что означает foobar в информатике.md",
@@ -587,8 +589,9 @@
   },
   {
     "tag": "n/t/article",
-    "tagCount": 140,
+    "tagCount": 141,
     "relativePaths": [
+      "% adb.md",
       "Теория черного лебедя.md",
       "Япония.md",
       "Что означает foobar в информатике.md",

@@ -49,6 +49,7 @@
       "Граф знаний.md",
       "Диета.md",
       "Буддизм.md",
+      "_Resources/_👥️People/@_Other.md",
       "_Resources/_Templates/_Fact(JustMetadata).md",
       "_Resources/_Templates/_Article.md",
       "_Resources/_Templates/_Util.md",
@@ -56,7 +57,6 @@
       "_Resources/_Templates/_Host.md",
       "_Resources/_Templates/_Conspect.md",
       "_Resources/_Templates/_Book.md",
-      "_Resources/_Person/@_Other.md",
       "_Resources/_Books/Почитать.md",
       "_Resources/_Books/К прочтению/} черный лебедь.md",
       "_Resources/_Books/К прочтению/} Революция внимания Пробуждение силы сосредоточенного ума.md",
@@ -740,15 +740,15 @@
     "tagCount": 14,
     "relativePaths": [
       "@Нассим Николас Талеб.md",
+      "_Resources/_👥️People/@Элиезер Юдковский.md",
+      "_Resources/_👥️People/@Максим Дорофеев.md",
+      "_Resources/_👥️People/_Family/@София ДИдковская.md",
+      "_Resources/_👥️People/_Family/@Никита Кирпиченко.md",
+      "_Resources/_👥️People/_Family/@Марина.md",
+      "_Resources/_👥️People/_Family/@Сания Касимовна.md",
+      "_Resources/_👥️People/@Тим Урбан.md",
+      "_Resources/_👥️People/@Ася Казанцева.md",
       "_Resources/_Templates/_Person.md",
-      "_Resources/_Person/@Элиезер Юдковский.md",
-      "_Resources/_Person/@Максим Дорофеев.md",
-      "_Resources/_Person/_Family/@София ДИдковская.md",
-      "_Resources/_Person/_Family/@Никита Кирпиченко.md",
-      "_Resources/_Person/_Family/@Марина.md",
-      "_Resources/_Person/_Family/@Сания Касимовна.md",
-      "_Resources/_Person/@Тим Урбан.md",
-      "_Resources/_Person/@Ася Казанцева.md",
       "WORK/me-projects-knowledge-base.wiki/user/@Vladlen-Chervanov.md",
       "WORK/me-projects-knowledge-base.wiki/user/@Sergey-Bernikov.md",
       "WORK/me-projects-knowledge-base.wiki/user/@Igor-Sidorenko.md",
@@ -757,7 +757,7 @@
   },
   {
     "tag": "t/t/to/do/note",
-    "tagCount": 161,
+    "tagCount": 160,
     "relativePaths": [
       "Япония.md",
       "Управление сообществами.md",
@@ -824,7 +824,6 @@
       "KB/Scool of life/! 80000 часов.md",
       "KB/Scool of life/! мировозрение.md",
       "KB/PKM/Тег.md",
-      "KB/PKM/Персональная заметка.md",
       "KB/PKM/Особенности Zettelkisten.md",
       "KB/PKM/Информационная булимия.md",
       "KB/PKM/Метазаметка.md",
@@ -978,9 +977,9 @@
       "Юмор..md",
       "Примеры конфигурации сетевого интерфейса.md",
       "Обозначение события bash.md",
+      "_Resources/_👥️People/@_Other.md",
       "_Resources/_Templates/_Util.md",
       "_Resources/_Templates/_Host.md",
-      "_Resources/_Person/@_Other.md",
       "WORK/VLADLEN.CH/$ Self Project.md",
       "WORK/VLADLEN.CH/% Proxmox.md",
       "WORK/me-projects-knowledge-base.wiki/home.md",
@@ -1132,7 +1131,7 @@
   },
   {
     "tag": "t/t/to/do",
-    "tagCount": 186,
+    "tagCount": 185,
     "relativePaths": [
       "Рецепты.md",
       "tmp/Workbench.md",
@@ -1153,13 +1152,12 @@
   },
   {
     "tag": "p/important",
-    "tagCount": 21,
+    "tagCount": 20,
     "relativePaths": [
       "Рецепты.md",
       "Распорядок дня.md",
       "Рынок IT вакансий в украине.md",
       "KB/Личная эффективность/Time + project management/Tasks Inbox.md",
-      "KB/PKM/Персональная заметка.md",
       "KB/PKM/кайдзен.md",
       "KB/PKM/Метазаметка.md",
       "KB/PKM/PIM Personal information management.md",
@@ -1172,10 +1170,9 @@
   },
   {
     "tag": "p/delayed",
-    "tagCount": 17,
+    "tagCount": 16,
     "relativePaths": [
       "Рецепты.md",
-      "KB/PKM/Персональная заметка.md",
       "KB/PKM/& Типы заметок.md",
       "KB/Ideas & Projects/Список покупок.md",
       "KB/Ideas & Projects/Скачать.md",
@@ -1659,6 +1656,14 @@
     ]
   },
   {
+    "tag": "n/t/contact",
+    "tagCount": 2,
+    "relativePaths": [
+      "_Resources/_Templates/_Person.md",
+      "KB/PKM/Тег.md"
+    ]
+  },
+  {
     "tag": "n/t/host",
     "tagCount": 15,
     "relativePaths": [
@@ -2001,11 +2006,10 @@
   },
   {
     "tag": "t/t/metatask",
-    "tagCount": 5,
+    "tagCount": 4,
     "relativePaths": [
       "KB/Личная эффективность/Time + project management/Tasks Inbox.md",
       "KB/PKM/Тег.md",
-      "KB/PKM/Персональная заметка.md",
       "KB/PKM/Метазаметка.md",
       "KB/PKM/Инструментальная заметка.md"
     ]

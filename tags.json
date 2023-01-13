@@ -1,7 +1,7 @@
 [
   {
     "tag": "n/s/stub",
-    "tagCount": 397,
+    "tagCount": 398,
     "relativePaths": [
       "% adb.md",
       "Теория черного лебедя.md",
@@ -56,6 +56,7 @@
       "_Resources/_Templates/_Host.md",
       "_Resources/_Templates/_Conspect.md",
       "_Resources/_Templates/_Book.md",
+      "_Resources/_Person/@_Other.md",
       "_Resources/_Books/Почитать.md",
       "_Resources/_Books/К прочтению/} черный лебедь.md",
       "_Resources/_Books/К прочтению/} Революция внимания Пробуждение силы сосредоточенного ума.md",
@@ -756,7 +757,7 @@
   },
   {
     "tag": "t/t/to/do/note",
-    "tagCount": 159,
+    "tagCount": 161,
     "relativePaths": [
       "Япония.md",
       "Управление сообществами.md",
@@ -972,7 +973,7 @@
   },
   {
     "tag": "n/t/private",
-    "tagCount": 143,
+    "tagCount": 144,
     "relativePaths": [
       "Юмор..md",
       "Примеры конфигурации сетевого интерфейса.md",
@@ -1131,7 +1132,7 @@
   },
   {
     "tag": "t/t/to/do",
-    "tagCount": 184,
+    "tagCount": 186,
     "relativePaths": [
       "Рецепты.md",
       "tmp/Workbench.md",
@@ -1794,17 +1795,19 @@
   },
   {
     "tag": "t/t/to/do/note/refactor",
-    "tagCount": 10,
+    "tagCount": 12,
     "relativePaths": [
       "_Public/PKM/PKM.md",
       "_Public/PKM/! Принципы Zettelkisten.md",
       "KB/Личная эффективность/Time + project management/Методологии/Kanban.md",
       "KB/PKM/Тег.md",
+      "KB/PKM/Моя история  развития pkm PKM.md",
       "KB/PKM/кайдзен.md",
       "KB/PKM/PIM Personal information management.md",
       "KB/PKM/PKM.md",
       "KB/PKM/Evergreen.md",
       "KB/IT/Utils/% git.md",
+      "KB/Personal/Развитие/& Направления развития и их приоритеты.md",
       "KB/Ideas & Projects/Электронный Ментор.md"
     ]
   },

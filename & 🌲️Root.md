@@ -13,7 +13,7 @@
 		- [[& SPAM]]
 		- [[& Email Whitelisting]]
 	- [[& Databases]]
-- [[Knowledge management]]
+- [[Knowledge management]] 
 	- [[PKM]]:
 		- [[! инструменты PKM]]
 		- [[& 🌱️ Методики PKM]]

@@ -11,6 +11,1504 @@
     ]
   },
   {
+    "fileName": "outliner",
+    "relativePath": "Зародыши/outliner.md",
+    "tags": [
+      "n/s/stub"
+    ],
+    "frontmatter": {
+      "alias": [
+        "Аутлайнер"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 27
+        }
+      }
+    },
+    "aliases": [
+      "Аутлайнер"
+    ],
+    "backlinks": [
+      {
+        "fileName": "PKM",
+        "link": "outliner",
+        "relativePath": "_Public/PKM/PKM.md"
+      },
+      {
+        "fileName": "& 🌲️Zettelkisten",
+        "link": "outliner",
+        "relativePath": "_Public/PKM/& 🌲️Zettelkisten.md"
+      },
+      {
+        "fileName": "Папки",
+        "link": "outliner",
+        "relativePath": "KB/PKM/Папки.md"
+      },
+      {
+        "fileName": "Моя история  развития pkm PKM",
+        "link": "outliner",
+        "relativePath": "KB/PKM/Моя история  развития pkm PKM.md"
+      },
+      {
+        "fileName": "Моя история  развития pkm PKM",
+        "link": "outliner",
+        "relativePath": "KB/PKM/Моя история  развития pkm PKM.md"
+      },
+      {
+        "fileName": "Иерархичесские модели",
+        "link": "outliner",
+        "relativePath": "KB/PKM/Иерархичесские модели.md"
+      },
+      {
+        "fileName": "Варианты реализации цифровых хранилищ заметок",
+        "link": "outliner",
+        "relativePath": "KB/PKM/Варианты реализации цифровых хранилищ заметок.md"
+      },
+      {
+        "fileName": "Варианты реализации цифровых хранилищ заметок",
+        "link": "outliner",
+        "relativePath": "KB/PKM/Варианты реализации цифровых хранилищ заметок.md"
+      },
+      {
+        "fileName": "PKM",
+        "link": "outliner",
+        "relativePath": "KB/PKM/PKM.md"
+      },
+      {
+        "fileName": "+ Ведение заметок в Obsidian",
+        "link": "outliner",
+        "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
+      }
+    ]
+  },
+  {
+    "fileName": "FTS",
+    "relativePath": "Зародыши/FTS.md",
+    "frontmatter": {
+      "alias": [
+        "Полнотекстовый поиск",
+        "full-text search"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 56
+        }
+      }
+    },
+    "aliases": [
+      "Полнотекстовый поиск",
+      "full-text search"
+    ],
+    "headings": [
+      {
+        "heading": "Что такое полнотекстовый поиск?",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "FTS",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "FTS",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Чеклист для проверки почтового сервера",
+        "link": "FTS",
+        "relativePath": "WORK/Nexteum/docs/Чеклист для проверки почтового сервера.md"
+      },
+      {
+        "fileName": "Solr Full Text Search Indexing",
+        "link": "FTS",
+        "relativePath": "KB/IT/Theory/Solr Full Text Search Indexing.md"
+      },
+      {
+        "fileName": "&Поиск в Doveccot",
+        "link": "FTS",
+        "relativePath": "KB/IT/Mail/&Поиск в Doveccot.md"
+      },
+      {
+        "fileName": "&Поиск в Doveccot",
+        "link": "FTS",
+        "relativePath": "KB/IT/Mail/&Поиск в Doveccot.md"
+      },
+      {
+        "fileName": "&Поиск в Doveccot",
+        "link": "FTS",
+        "relativePath": "KB/IT/Mail/&Поиск в Doveccot.md"
+      },
+      {
+        "fileName": "&Поиск в Doveccot",
+        "link": "FTS",
+        "relativePath": "KB/IT/Mail/&Поиск в Doveccot.md"
+      },
+      {
+        "fileName": "%doveadm fts",
+        "link": "FTS",
+        "relativePath": "KB/IT/Mail/%doveadm fts.md"
+      },
+      {
+        "fileName": "%doveadm index",
+        "link": "FTS",
+        "relativePath": "KB/IT/Mail/%doveadm index.md"
+      }
+    ]
+  },
+  {
+    "fileName": "POP3",
+    "relativePath": "Зародыши/POP3.md",
+    "headings": [
+      {
+        "heading": "POP3 PORTS",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "IMAP",
+        "relativePath": "Зародыши/IMAP.md"
+      },
+      {
+        "link": "STARTTLS"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "IMAP",
+        "link": "POP3",
+        "relativePath": "Зародыши/IMAP.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "POP3",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "POP3",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "POP3",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "POP3",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Разрешить получение писем (IMAP, POP3) с mail-multidomains.partsid.com",
+        "link": "POP3",
+        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) с mail-multidomains.partsid.com.md"
+      },
+      {
+        "fileName": "Разрешить получение писем (IMAP, POP3) с mail.carid.com",
+        "link": "POP3",
+        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) с mail.carid.com.md"
+      },
+      {
+        "fileName": "Разрешить получение писем (IMAP, POP3) mail.partsid.com",
+        "link": "POP3",
+        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) mail.partsid.com.md"
+      },
+      {
+        "fileName": "% nmap",
+        "link": "POP3",
+        "relativePath": "KB/IT/Network/% nmap.md"
+      },
+      {
+        "fileName": "Путь сообщения электронной почты от клиента к клиенту",
+        "link": "POP3",
+        "relativePath": "KB/IT/Mail/Путь сообщения электронной почты от клиента к клиенту.md"
+      },
+      {
+        "fileName": "MTA",
+        "link": "POP3",
+        "relativePath": "KB/IT/Mail/MTA.md"
+      },
+      {
+        "fileName": "& MAIL",
+        "link": "POP3",
+        "relativePath": "KB/IT/Mail/& MAIL.md"
+      }
+    ]
+  },
+  {
+    "fileName": "_Article",
+    "relativePath": "Зародыши/_Article.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/conspect",
+      "n/t/article"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Конспектная заметка",
+        "link": "_Article",
+        "relativePath": "KB/PKM/Конспектная заметка.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Фактоид",
+    "relativePath": "Зародыши/Фактоид.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Факто́ид",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Популярные мысли точки зрения с сомнительной пользой",
+        "link": "Фактоид",
+        "relativePath": "KB/Ideas & Projects/Популярные мысли точки зрения с сомнительной пользой.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mind-map",
+    "relativePath": "Зародыши/Mind-map.md",
+    "headings": [
+      {
+        "heading": "Особенности Mind-map",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "& The Brain",
+        "relativePath": "KB/PKM/& The Brain.md"
+      },
+      {
+        "link": "& Xmind"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "PKM",
+        "link": "Mind-map",
+        "relativePath": "_Public/PKM/PKM.md"
+      },
+      {
+        "fileName": "& 🌱️ Методики PKM",
+        "link": "Mind-map#особенности Mind-map",
+        "relativePath": "_Public/& 🌱️ Методики PKM.md",
+        "cleanLink": "Mind-map",
+        "displayText": "Mind-map > особенности Mind-map"
+      },
+      {
+        "fileName": "Tasks Inbox",
+        "link": "Mind-map",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      },
+      {
+        "fileName": "Особенности Zettelkisten",
+        "link": "Mind-map",
+        "relativePath": "KB/PKM/Особенности Zettelkisten.md",
+        "displayText": "графические и концептуальные карты"
+      },
+      {
+        "fileName": "Папки",
+        "link": "Mind-map",
+        "relativePath": "KB/PKM/Папки.md"
+      },
+      {
+        "fileName": "Моя история  развития pkm PKM",
+        "link": "Mind-map",
+        "relativePath": "KB/PKM/Моя история  развития pkm PKM.md"
+      },
+      {
+        "fileName": "PKM",
+        "link": "Mind-map",
+        "relativePath": "KB/PKM/PKM.md"
+      },
+      {
+        "fileName": "+ Ведение заметок в Obsidian",
+        "link": "Mind-map",
+        "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
+      },
+      {
+        "fileName": "! инструменты PKM",
+        "link": "Mind-map",
+        "relativePath": "KB/PKM/! инструменты PKM.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Метрики",
+    "relativePath": "Зародыши/Метрики.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Метрика",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Метрики в личной эффективности",
+        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Измерение прогресса",
+        "link": "Метрики",
+        "relativePath": "KB/Личная эффективность/Геймификация/Измерение прогресса.md"
+      },
+      {
+        "fileName": "Измерение прогресса",
+        "link": "Метрики",
+        "relativePath": "KB/Личная эффективность/Геймификация/Измерение прогресса.md"
+      },
+      {
+        "fileName": "Метрики в личной эффективности",
+        "link": "Метрики",
+        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md"
+      },
+      {
+        "fileName": "Метрики в личной эффективности",
+        "link": "Метрики",
+        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md"
+      }
+    ]
+  },
+  {
+    "fileName": "NoSQL",
+    "relativePath": "Зародыши/NoSQL.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "KB/IT/DB/SQL.md"
+      },
+      {
+        "link": "SQL",
+        "relativePath": "KB/IT/DB/SQL.md"
+      },
+      {
+        "link": "Relational DB",
+        "displayText": "Реляционные базы данных",
+        "relativePath": "KB/IT/DB/Relational DB.md"
+      },
+      {
+        "link": "& Databases",
+        "displayText": "БД",
+        "relativePath": "KB/IT/DB/& Databases.md"
+      },
+      {
+        "link": "SQL",
+        "relativePath": "KB/IT/DB/SQL.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Document DB",
+        "link": "NoSQL",
+        "relativePath": "KB/IT/DB/Document DB.md"
+      },
+      {
+        "fileName": "& Databases",
+        "link": "NoSQL",
+        "relativePath": "KB/IT/DB/& Databases.md"
+      },
+      {
+        "fileName": "Amazon DynamoDB",
+        "link": "NoSQL",
+        "relativePath": "KB/IT/Cloud/Amazon DynamoDB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "стереотипы",
+    "relativePath": "Зародыши/стереотипы.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Стереоти́п",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Популярные мысли точки зрения с сомнительной пользой",
+        "link": "стереотипы",
+        "relativePath": "KB/Ideas & Projects/Популярные мысли точки зрения с сомнительной пользой.md"
+      },
+      {
+        "fileName": "& Мозг",
+        "link": "стереотипы",
+        "relativePath": "KB/Личная эффективность/Бология + Биохакинг/& Мозг.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Психосоматика",
+    "relativePath": "Зародыши/Психосоматика.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Психосоматика",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Гикеан",
+    "relativePath": "Зародыши/Гикеан.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Гикеан",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Зона златовласки",
+        "link": "Гикеан",
+        "relativePath": "KB/Естествознание/Астрология/Зона златовласки.md"
+      }
+    ]
+  },
+  {
+    "fileName": "кайдзен",
+    "relativePath": "Зародыши/кайдзен.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition",
+      "t/t/to/do/note/refactor",
+      "p/important"
+    ],
+    "frontmatter": {
+      "alias": [
+        "kaizen"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 24
+        }
+      }
+    },
+    "aliases": [
+      "kaizen"
+    ],
+    "backlinks": [
+      {
+        "fileName": "& Scool Of Life",
+        "link": "кайдзен",
+        "relativePath": "KB/Scool of life/& Scool Of Life.md"
+      }
+    ]
+  },
+  {
+    "fileName": "IMAP",
+    "relativePath": "Зародыши/IMAP.md",
+    "headings": [
+      {
+        "heading": "IMAP PORTS",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "POP3",
+        "relativePath": "Зародыши/POP3.md"
+      },
+      {
+        "link": "STARTTLS"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "POP3",
+        "link": "IMAP",
+        "relativePath": "Зародыши/POP3.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Список Мейл серверов компании",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
+      },
+      {
+        "fileName": "Разрешить получение писем (IMAP, POP3) с mail-multidomains.partsid.com",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) с mail-multidomains.partsid.com.md"
+      },
+      {
+        "fileName": "Разрешить получение писем (IMAP, POP3) с mail.carid.com",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) с mail.carid.com.md"
+      },
+      {
+        "fileName": "Разрешить получение писем (IMAP, POP3) mail.partsid.com",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) mail.partsid.com.md"
+      },
+      {
+        "fileName": "$ Mail multidomain NOC-13734",
+        "link": "IMAP",
+        "relativePath": "WORK/Nexteum/$ Mail multidomain NOC-13734.md"
+      },
+      {
+        "fileName": "% nmap",
+        "link": "IMAP",
+        "relativePath": "KB/IT/Network/% nmap.md"
+      },
+      {
+        "fileName": "Путь сообщения электронной почты от клиента к клиенту",
+        "link": "IMAP",
+        "relativePath": "KB/IT/Mail/Путь сообщения электронной почты от клиента к клиенту.md"
+      },
+      {
+        "fileName": "MTA",
+        "link": "IMAP",
+        "relativePath": "KB/IT/Mail/MTA.md"
+      },
+      {
+        "fileName": "IMAP сервера",
+        "link": "IMAP",
+        "relativePath": "KB/IT/Mail/IMAP сервера.md"
+      },
+      {
+        "fileName": "& MAIL",
+        "link": "IMAP",
+        "relativePath": "KB/IT/Mail/& MAIL.md"
+      },
+      {
+        "fileName": "& MAIL",
+        "link": "IMAP",
+        "relativePath": "KB/IT/Mail/& MAIL.md"
+      },
+      {
+        "fileName": "%Sieve",
+        "link": "IMAP",
+        "relativePath": "KB/IT/Mail/%Sieve.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cyrus-IMAP",
+    "relativePath": "Зародыши/Cyrus-IMAP.md",
+    "headings": [
+      {
+        "heading": "Хранение в единственном экземпляре",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Cyrus-IMAP",
+        "relativePath": "Зародыши/Cyrus-IMAP.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Day Planner-20210205",
+        "link": "Cyrus-IMAP",
+        "relativePath": "Day Planners/Day Planners/Day Planner-20210205.md"
+      }
+    ]
+  },
+  {
+    "fileName": "NFS",
+    "relativePath": "Зародыши/NFS.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "backlinks": [
+      {
+        "fileName": "File-based storage",
+        "link": "NFS",
+        "relativePath": "KB/IT/FS/File-based storage.md"
+      },
+      {
+        "fileName": "AWS Storage Gateway",
+        "link": "NFS",
+        "relativePath": "KB/IT/Cloud/AWS Storage Gateway.md"
+      },
+      {
+        "fileName": "+ ACloudGuru  Introduction to AWS",
+        "link": "NFS",
+        "relativePath": "KB/IT/Cloud/+ ACloudGuru  Introduction to AWS.md"
+      },
+      {
+        "fileName": "Amazon EFS",
+        "link": "NFS",
+        "relativePath": "KB/IT/Cloud/Amazon EFS.md"
+      },
+      {
+        "fileName": "& AWS",
+        "link": "NFS",
+        "relativePath": "KB/IT/Cloud/& AWS.md"
+      }
+    ]
+  },
+  {
+    "fileName": "_Definition-Standard",
+    "relativePath": "Зародыши/_Definition-Standard.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Аккорды",
+    "relativePath": "Зародыши/Аккорды.md",
+    "headings": [
+      {
+        "heading": "Am",
+        "level": 6
+      },
+      {
+        "heading": "G",
+        "level": 6
+      },
+      {
+        "heading": "Dm",
+        "level": 6
+      },
+      {
+        "heading": "E7",
+        "level": 6
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Табы Бумбокс - Вахтеры",
+        "link": "Аккорды#am",
+        "relativePath": "KB/Personal/Развитие/Гитара/Табы Бумбокс - Вахтеры.md",
+        "cleanLink": "Аккорды",
+        "displayText": "Аккорды > am"
+      },
+      {
+        "fileName": "Табы Бумбокс - Вахтеры",
+        "link": "Аккорды#G",
+        "relativePath": "KB/Personal/Развитие/Гитара/Табы Бумбокс - Вахтеры.md",
+        "cleanLink": "Аккорды",
+        "displayText": "Аккорды > G"
+      },
+      {
+        "fileName": "Табы Бумбокс - Вахтеры",
+        "link": "Аккорды#dm",
+        "relativePath": "KB/Personal/Развитие/Гитара/Табы Бумбокс - Вахтеры.md",
+        "cleanLink": "Аккорды",
+        "displayText": "Аккорды > dm"
+      },
+      {
+        "fileName": "Табы Бумбокс - Вахтеры",
+        "link": "Аккорды#E7",
+        "relativePath": "KB/Personal/Развитие/Гитара/Табы Бумбокс - Вахтеры.md",
+        "cleanLink": "Аккорды",
+        "displayText": "Аккорды > E7"
+      },
+      {
+        "fileName": "& Гитара",
+        "link": "Аккорды",
+        "relativePath": "KB/Personal/Развитие/Гитара/& Гитара.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Эмерджентность",
+    "relativePath": "Зародыши/Эмерджентность.md",
+    "frontmatter": {
+      "alias": [
+        "Эмерджентность",
+        "эмергентность",
+        "холизм",
+        "системный эффект",
+        "сверхаддитивный эффект",
+        "некомпозициональность"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 119
+        }
+      }
+    },
+    "aliases": [
+      "Эмерджентность",
+      "эмергентность",
+      "холизм",
+      "системный эффект",
+      "сверхаддитивный эффект",
+      "некомпозициональность"
+    ],
+    "links": [
+      {
+        "link": "синергия",
+        "relativePath": "KB/Scool of life/синергия.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Вечнозеленые заметки должны быть концептуально ориентированы",
+        "link": "Эмерджентность",
+        "relativePath": "KB/PKM/Вечнозеленые заметки должны быть концептуально ориентированы.md"
+      },
+      {
+        "fileName": "Maps of Content",
+        "link": "Эмерджентность",
+        "relativePath": "KB/PKM/Maps of Content.md"
+      },
+      {
+        "fileName": "! +when ideas have sex",
+        "link": "Эмерджентность",
+        "relativePath": "KB/PKM/! +when ideas have sex.md"
+      },
+      {
+        "fileName": "синергия",
+        "link": "Эмерджентность",
+        "relativePath": "KB/Scool of life/синергия.md"
+      },
+      {
+        "fileName": "Анатомия ссор",
+        "link": "Эмерджентность",
+        "relativePath": "KB/Scool of life/Анатомия ссор.md"
+      }
+    ]
+  },
+  {
+    "fileName": "CRM",
+    "relativePath": "Зародыши/CRM.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [
+        "Customer Relationship Management"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 50
+        }
+      }
+    },
+    "aliases": [
+      "Customer Relationship Management"
+    ],
+    "headings": [
+      {
+        "heading": "",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "! Пример использования и комбинирования разных типов заметок",
+        "link": "CRM",
+        "relativePath": "KB/PKM/! Пример использования и комбинирования разных типов заметок.md"
+      },
+      {
+        "fileName": "Relational DB",
+        "link": "CRM",
+        "relativePath": "KB/IT/DB/Relational DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "PTR",
+    "relativePath": "Зародыши/PTR.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [
+        "Reverse Records"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "aliases": [
+      "Reverse Records"
+    ],
+    "headings": [
+      {
+        "heading": "",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "CRUD",
+    "relativePath": "Зародыши/CRUD.md",
+    "tags": [
+      "n/s/stub",
+      "n/t/definition"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "& Databases",
+        "relativePath": "KB/IT/DB/& Databases.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "SQL",
+        "link": "CRUD",
+        "relativePath": "KB/IT/DB/SQL.md"
+      }
+    ]
+  },
+  {
+    "fileName": "_Fact(JustMetadata)",
+    "relativePath": "Зародыши/_Fact(JustMetadata).md",
+    "tags": [
+      "n/s/stub"
+    ],
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Strategy",
+    "relativePath": "Зародыши/Strategy.md",
+    "headings": [
+      {
+        "heading": "Strategy",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "Зародыши/README.md",
+    "headings": [
+      {
+        "heading": "KB",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "README",
+        "displayText": "_Public/README",
+        "relativePath": "_Public/README.md"
+      },
+      {
+        "link": "& 🌲️Root",
+        "relativePath": "_Public/& 🌲️Root.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Знания",
+    "relativePath": "Зародыши/Знания.md",
+    "links": [
+      {
+        "link": "Cпираль знаний",
+        "relativePath": "KB/PKM/Cпираль знаний.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "PKM",
+        "link": "Знания",
+        "relativePath": "_Public/PKM/PKM.md"
+      },
+      {
+        "fileName": "& 🌲️Zettelkisten",
+        "link": "Знания",
+        "relativePath": "_Public/PKM/& 🌲️Zettelkisten.md",
+        "displayText": "знаниями"
+      },
+      {
+        "fileName": "PKM",
+        "link": "Знания",
+        "relativePath": "KB/PKM/PKM.md"
+      },
+      {
+        "fileName": "Knowledge management",
+        "link": "Знания",
+        "relativePath": "KB/PKM/Knowledge management.md"
+      }
+    ]
+  },
+  {
+    "fileName": "systemd",
+    "relativePath": "Зародыши/systemd.md",
+    "backlinks": [
+      {
+        "fileName": "% journalctl",
+        "link": "systemd",
+        "relativePath": "KB/IT/Utils/% journalctl.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Wins",
+    "relativePath": "Зародыши/Wins.md",
+    "headings": [
+      {
+        "heading": "Wins",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Wins",
+        "relativePath": "Зародыши/Wins.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Соус",
+    "relativePath": "Зародыши/Соус.md",
+    "headings": [
+      {
+        "heading": "Чумак",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Интуиция",
+    "relativePath": "Зародыши/Интуиция.md",
+    "tags": [
+      "t/t/to/do/note"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Измерение прогресса",
+        "link": "Интуиция",
+        "relativePath": "KB/Личная эффективность/Геймификация/Измерение прогресса.md",
+        "displayText": "интуитивный"
+      },
+      {
+        "fileName": "Черный закон метрик",
+        "link": "Интуиция",
+        "relativePath": "KB/Личная эффективность/Time + project management/Черный закон метрик.md",
+        "displayText": "интуицию"
+      },
+      {
+        "fileName": "Метрики в личной эффективности",
+        "link": "Интуиция",
+        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md"
+      },
+      {
+        "fileName": "Метрики в личной эффективности",
+        "link": "Интуиция",
+        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md",
+        "displayText": "интуитивный"
+      }
+    ]
+  },
+  {
+    "fileName": "publish.obsidian",
+    "relativePath": "Зародыши/publish.obsidian.md",
+    "links": [
+      {
+        "link": "% Obsidian",
+        "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
+        "link": "publish.obsidian",
+        "relativePath": "Зародыши/publish.obsidian.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "brain.vladlen.ch",
+        "link": "publish.obsidian",
+        "relativePath": "WORK/VLADLEN.CH/brain.vladlen.ch.md"
+      },
+      {
+        "fileName": "Tasks Inbox",
+        "link": "publish.obsidian",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      },
+      {
+        "fileName": "Tasks Inbox",
+        "link": "publish.obsidian",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      },
+      {
+        "fileName": "% Obsidian",
+        "link": "publish.obsidian",
+        "relativePath": "KB/PKM/% Obsidian.md"
+      },
+      {
+        "fileName": "+ Ведение заметок в Obsidian",
+        "link": "publish.obsidian",
+        "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
+      }
+    ]
+  },
+  {
+    "fileName": "_Сode",
+    "relativePath": "Зародыши/_Сode.md"
+  },
+  {
+    "fileName": "dev-panel.devzone.net",
+    "relativePath": "Зародыши/dev-panel.devzone.net.md",
+    "links": [
+      {
+        "link": "% pct#Шпаргалки:",
+        "cleanLink": "% pct",
+        "displayText": "% pct > Шпаргалки:",
+        "relativePath": "KB/IT/Utils/% pct.md"
+      }
+    ]
+  },
+  {
+    "fileName": "IMF",
+    "relativePath": "Зародыши/IMF.md",
+    "backlinks": [
+      {
+        "fileName": "& 🌱️ Методики PKM",
+        "link": "IMF",
+        "relativePath": "_Public/& 🌱️ Методики PKM.md"
+      }
+    ]
+  },
+  {
+    "fileName": "%OpenDkim",
+    "relativePath": "Зародыши/%OpenDkim.md",
+    "links": [
+      {
+        "link": "DKIM",
+        "relativePath": "KB/IT/Mail/DKIM.md"
+      },
+      {
+        "link": "=Установка OpenDKIM + Postfix на CentOS 7",
+        "relativePath": "KB/IT/Mail/=Установка OpenDKIM + Postfix на CentOS 7.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Установка и настройка  Мультидоменной конфигурации  на Postfix3 (3.5), c +Mysql +SNI +Rspamd +Postgrey +SPF +DKIM +DMARK +FailToBan на centos 7",
+        "link": "%OpenDkim",
+        "relativePath": "WORK/Nexteum/docs/Установка и настройка  Мультидоменной конфигурации  на Postfix3 (3.5), c +Mysql +SNI +Rspamd +Postgrey +SPF +DKIM +DMARK +FailToBan на centos 7.md"
+      },
+      {
+        "fileName": "DKIM",
+        "link": "%OpenDkim",
+        "relativePath": "KB/IT/Mail/DKIM.md"
+      },
+      {
+        "fileName": "=Установка OpenDKIM + Postfix на CentOS 7",
+        "link": "%OpenDkim",
+        "relativePath": "KB/IT/Mail/=Установка OpenDKIM + Postfix на CentOS 7.md"
+      },
+      {
+        "fileName": "& MAIL",
+        "link": "%OpenDkim",
+        "relativePath": "KB/IT/Mail/& MAIL.md"
+      },
+      {
+        "fileName": "%Rspamd",
+        "link": "%OpenDkim",
+        "relativePath": "KB/IT/Mail/%Rspamd.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Лематизация",
+    "relativePath": "Зародыши/Лематизация.md",
+    "backlinks": [
+      {
+        "fileName": "%Rspamd",
+        "link": "Лематизация",
+        "relativePath": "KB/IT/Mail/%Rspamd.md"
+      }
+    ]
+  },
+  {
+    "fileName": "@Prashant",
+    "relativePath": "Зародыши/@Prashant.md",
+    "backlinks": [
+      {
+        "fileName": "@Antonino Ciappina",
+        "link": "@Prashant",
+        "relativePath": "_Resources/_👥️People/@Antonino Ciappina.md"
+      },
+      {
+        "fileName": "@Kailash Agrawal",
+        "link": "@Prashant",
+        "relativePath": "_Resources/_👥️People/@Kailash Agrawal.md"
+      }
+    ]
+  },
+  {
+    "fileName": "PGP",
+    "relativePath": "Зародыши/PGP.md",
+    "tags": [
+      "t/t/to/do/note"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mail Roadmap",
+        "link": "PGP",
+        "relativePath": "WORK/Nexteum/Mail Roadmap.md"
+      },
+      {
+        "fileName": "& Mail Roadmap",
+        "link": "PGP",
+        "relativePath": "WORK/Nexteum/& Mail Roadmap.md"
+      },
+      {
+        "fileName": "Безопасность через неясность",
+        "link": "PGP",
+        "relativePath": "KB/Личная эффективность/Time + project management/Методологии/Безопасность через неясность.md"
+      }
+    ]
+  },
+  {
+    "fileName": "books",
+    "relativePath": "Зародыши/books.md"
+  },
+  {
+    "fileName": "@Dmitriy",
+    "relativePath": "Зародыши/@Dmitriy.md",
+    "backlinks": [
+      {
+        "fileName": "@Antonino Ciappina",
+        "link": "@Dmitriy",
+        "relativePath": "_Resources/_👥️People/@Antonino Ciappina.md"
+      },
+      {
+        "fileName": "@Kailash Agrawal",
+        "link": "@Dmitriy",
+        "relativePath": "_Resources/_👥️People/@Kailash Agrawal.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Рецепты",
+    "relativePath": "Зародыши/Рецепты.md",
+    "tags": [
+      "t/t/to/do",
+      "p/important",
+      "p/delayed",
+      "t/t/to/cook"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Tasks Inbox",
+        "link": "Рецепты",
+        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
+      }
+    ]
+  },
+  {
+    "fileName": "JSON",
+    "relativePath": "Зародыши/JSON.md",
+    "links": [
+      {
+        "link": "% jq",
+        "relativePath": "KB/IT/Utils/% jq.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "YAML",
+        "link": "JSON",
+        "relativePath": "KB/IT/YAML.md"
+      },
+      {
+        "fileName": "Document DB",
+        "link": "JSON",
+        "relativePath": "KB/IT/DB/Document DB.md"
+      },
+      {
+        "fileName": "AWS CloudFormation",
+        "link": "JSON",
+        "relativePath": "KB/IT/Cloud/AWS CloudFormation.md"
+      }
+    ]
+  },
+  {
+    "fileName": "%gitbook",
+    "relativePath": "Зародыши/%gitbook.md",
+    "backlinks": [
+      {
+        "fileName": "Список других баз знаний",
+        "link": "%gitbook",
+        "relativePath": "KB/PKM/Список других баз знаний.md"
+      }
+    ]
+  },
+  {
     "fileName": "Шифрование важных файлов",
     "relativePath": "Зародыши/Шифрование важных файлов.md",
     "links": [
@@ -649,6 +2147,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Markdown Cheatsheet",
+        "link": "README.md",
+        "relativePath": "_Resources/Markdown Cheatsheet.md"
+      },
+      {
         "fileName": "Дофаминовая диета",
         "link": "README#Легенда Obsidian",
         "relativePath": "KB/Личная эффективность/Бология + Биохакинг/Дофаминовая диета.md",
@@ -941,7 +2444,7 @@
       },
       {
         "link": "Знания",
-        "relativePath": "KB/PKM/Знания.md"
+        "relativePath": "Зародыши/Знания.md"
       },
       {
         "link": "Maps of Content",
@@ -949,7 +2452,7 @@
       },
       {
         "link": "Mind-map",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       },
       {
         "link": "& 🌲️Zettelkisten",
@@ -957,7 +2460,7 @@
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "Моя история  развития pkm PKM",
@@ -1150,7 +2653,7 @@
       {
         "link": "Знания",
         "displayText": "знаниями",
-        "relativePath": "KB/PKM/Знания.md"
+        "relativePath": "Зародыши/Знания.md"
       },
       {
         "link": "информация",
@@ -1162,7 +2665,7 @@
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "Папки",
@@ -1594,7 +3097,7 @@
       },
       {
         "link": "IMF",
-        "relativePath": "KB/PKM/IMF.md"
+        "relativePath": "Зародыши/IMF.md"
       },
       {
         "link": "Maps of Content",
@@ -1636,7 +3139,7 @@
         "link": "Mind-map#особенности Mind-map",
         "cleanLink": "Mind-map",
         "displayText": "Mind-map > особенности Mind-map",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       },
       {
         "link": "Тег#Особенности Тегов",
@@ -1960,6 +3463,11 @@
       {
         "fileName": "README",
         "link": "& 🌲️Root",
+        "relativePath": "Зародыши/README.md"
+      },
+      {
+        "fileName": "README",
+        "link": "& 🌲️Root",
         "relativePath": "_Public/README.md",
         "displayText": "Войти в Лес"
       },
@@ -1973,11 +3481,6 @@
         "fileName": "README",
         "link": "& 🌲️Root",
         "relativePath": "_Public/README.md"
-      },
-      {
-        "fileName": "README",
-        "link": "& 🌲️Root",
-        "relativePath": "README.md"
       }
     ]
   },
@@ -6055,22 +7558,6 @@
     ]
   },
   {
-    "fileName": "@Prashant",
-    "relativePath": "_Resources/_👥️People/@Prashant.md",
-    "backlinks": [
-      {
-        "fileName": "@Antonino Ciappina",
-        "link": "@Prashant",
-        "relativePath": "_Resources/_👥️People/@Antonino Ciappina.md"
-      },
-      {
-        "fileName": "@Kailash Agrawal",
-        "link": "@Prashant",
-        "relativePath": "_Resources/_👥️People/@Kailash Agrawal.md"
-      }
-    ]
-  },
-  {
     "fileName": "@Клод Шеннон",
     "relativePath": "_Resources/_👥️People/@Клод Шеннон.md",
     "backlinks": [
@@ -6125,11 +7612,11 @@
       },
       {
         "link": "@Dmitriy",
-        "relativePath": "_Resources/_👥️People/@Dmitriy.md"
+        "relativePath": "Зародыши/@Dmitriy.md"
       },
       {
         "link": "@Prashant",
-        "relativePath": "_Resources/_👥️People/@Prashant.md"
+        "relativePath": "Зародыши/@Prashant.md"
       },
       {
         "link": "@Kailash Agrawal",
@@ -6275,11 +7762,11 @@
       },
       {
         "link": "@Dmitriy",
-        "relativePath": "_Resources/_👥️People/@Dmitriy.md"
+        "relativePath": "Зародыши/@Dmitriy.md"
       },
       {
         "link": "@Prashant",
-        "relativePath": "_Resources/_👥️People/@Prashant.md"
+        "relativePath": "Зародыши/@Prashant.md"
       },
       {
         "link": "@Antonino Ciappina",
@@ -6291,22 +7778,6 @@
         "fileName": "@Antonino Ciappina",
         "link": "@Kailash Agrawal",
         "relativePath": "_Resources/_👥️People/@Antonino Ciappina.md"
-      }
-    ]
-  },
-  {
-    "fileName": "@Dmitriy",
-    "relativePath": "_Resources/_👥️People/@Dmitriy.md",
-    "backlinks": [
-      {
-        "fileName": "@Antonino Ciappina",
-        "link": "@Dmitriy",
-        "relativePath": "_Resources/_👥️People/@Antonino Ciappina.md"
-      },
-      {
-        "fileName": "@Kailash Agrawal",
-        "link": "@Dmitriy",
-        "relativePath": "_Resources/_👥️People/@Kailash Agrawal.md"
       }
     ]
   },
@@ -6402,10 +7873,6 @@
         "relativePath": "KB/PKM/Персональная заметка.md"
       }
     ]
-  },
-  {
-    "fileName": "_Сode",
-    "relativePath": "_Resources/_Templates/_Сode.md"
   },
   {
     "fileName": "_Util",
@@ -6665,57 +8132,6 @@
     ]
   },
   {
-    "fileName": "_Fact(JustMetadata)",
-    "relativePath": "_Resources/_Templates/_Fact(JustMetadata).md",
-    "tags": [
-      "n/s/stub"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    }
-  },
-  {
-    "fileName": "_Definition-Standard",
-    "relativePath": "_Resources/_Templates/_Definition-Standard.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "_Chain",
     "relativePath": "_Resources/_Templates/_Chain.md",
     "tags": [
@@ -6801,43 +8217,6 @@
         "fileName": "! Пример использования и комбинирования разных типов заметок",
         "link": "_Book",
         "relativePath": "KB/PKM/! Пример использования и комбинирования разных типов заметок.md"
-      }
-    ]
-  },
-  {
-    "fileName": "_Article",
-    "relativePath": "_Resources/_Templates/_Article.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/conspect",
-      "n/t/article"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 20
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Конспектная заметка",
-        "link": "_Article",
-        "relativePath": "KB/PKM/Конспектная заметка.md"
       }
     ]
   },
@@ -7117,7 +8496,7 @@
       {
         "link": "README.md",
         "displayText": "",
-        "relativePath": "README.md"
+        "relativePath": "_Public/README.md"
       },
       {
         "link": "tesst.txt",
@@ -7404,7 +8783,7 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "SMTP",
@@ -7412,11 +8791,11 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       },
       {
         "link": "! %Dovecot",
@@ -7441,7 +8820,7 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "SMTP",
@@ -7449,11 +8828,11 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       },
       {
         "link": "! %Dovecot",
@@ -7479,7 +8858,7 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "SMTP",
@@ -7487,11 +8866,11 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       },
       {
         "link": "! %Dovecot",
@@ -7546,11 +8925,11 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       },
       {
         "link": "% Roundcube",
@@ -7592,11 +8971,11 @@
       },
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "Как работает почтовая система на ранчерах",
@@ -8003,7 +9382,7 @@
       },
       {
         "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/%OpenDkim.md"
+        "relativePath": "Зародыши/%OpenDkim.md"
       },
       {
         "link": "=Установка OpenDKIM + Postfix на CentOS 7",
@@ -8504,7 +9883,7 @@
       },
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "%Sieve",
@@ -8603,11 +9982,11 @@
     "links": [
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       }
     ],
     "backlinks": [
@@ -8992,11 +10371,11 @@
     "links": [
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       }
     ],
     "backlinks": [
@@ -9016,11 +10395,11 @@
     "links": [
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       }
     ],
     "backlinks": [
@@ -9596,18 +10975,6 @@
       {
         "heading": "логи",
         "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "dev-panel.devzone.net",
-    "relativePath": "WORK/Nexteum/docs/dev-panel.devzone.net.md",
-    "links": [
-      {
-        "link": "% pct#Шпаргалки:",
-        "cleanLink": "% pct",
-        "displayText": "% pct > Шпаргалки:",
-        "relativePath": "KB/IT/Utils/% pct.md"
       }
     ]
   },
@@ -10285,7 +11652,7 @@
       },
       {
         "link": "PGP",
-        "relativePath": "tmp/PGP.md"
+        "relativePath": "Зародыши/PGP.md"
       }
     ]
   },
@@ -10725,7 +12092,7 @@
       },
       {
         "link": "PGP",
-        "relativePath": "tmp/PGP.md"
+        "relativePath": "Зародыши/PGP.md"
       },
       {
         "link": "Правила настройки SMTP сервера для отправки",
@@ -10913,7 +12280,7 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "! %Dovecot",
@@ -11087,7 +12454,7 @@
       },
       {
         "link": "publish.obsidian",
-        "relativePath": "KB/IT/Apps/publish.obsidian.md"
+        "relativePath": "Зародыши/publish.obsidian.md"
       }
     ],
     "backlinks": [
@@ -13963,10 +15330,6 @@
     "relativePath": "tmp/Выбор машины.md"
   },
   {
-    "fileName": "~ Мысли про коррупцию",
-    "relativePath": "tmp/~ Мысли про коррупцию.md"
-  },
-  {
     "fileName": "Workbench",
     "relativePath": "tmp/Workbench.md",
     "tags": [
@@ -14164,30 +15527,6 @@
         "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md",
         "cleanLink": "S.P.E.C.I.A.L.",
         "displayText": "S.P.E.C.I.A.L. > S P E C I A L"
-      }
-    ]
-  },
-  {
-    "fileName": "PGP",
-    "relativePath": "tmp/PGP.md",
-    "tags": [
-      "t/t/to/do/note"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mail Roadmap",
-        "link": "PGP",
-        "relativePath": "WORK/Nexteum/Mail Roadmap.md"
-      },
-      {
-        "fileName": "& Mail Roadmap",
-        "link": "PGP",
-        "relativePath": "WORK/Nexteum/& Mail Roadmap.md"
-      },
-      {
-        "fileName": "Безопасность через неясность",
-        "link": "PGP",
-        "relativePath": "KB/Личная эффективность/Time + project management/Методологии/Безопасность через неясность.md"
       }
     ]
   },
@@ -14410,13 +15749,11 @@
       },
       {
         "link": "Strategy.md",
-        "displayText": "",
-        "relativePath": "tmp/obsidian-starter-templates-master/researcher/meta/Strategy.md"
+        "displayText": ""
       },
       {
         "link": "Wins.md",
-        "displayText": "",
-        "relativePath": "tmp/obsidian-starter-templates-master/researcher/meta/Wins.md"
+        "displayText": ""
       },
       {
         "link": ""
@@ -14465,46 +15802,6 @@
     ]
   },
   {
-    "fileName": "Strategy",
-    "relativePath": "tmp/obsidian-starter-templates-master/researcher/meta/Strategy.md",
-    "headings": [
-      {
-        "heading": "Strategy",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "README",
-        "link": "Strategy.md",
-        "relativePath": "tmp/obsidian-starter-templates-master/README.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Wins",
-    "relativePath": "tmp/obsidian-starter-templates-master/researcher/meta/Wins.md",
-    "headings": [
-      {
-        "heading": "Wins",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Wins",
-        "relativePath": "tmp/obsidian-starter-templates-master/researcher/meta/Wins.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "README",
-        "link": "Wins.md",
-        "relativePath": "tmp/obsidian-starter-templates-master/README.md"
-      }
-    ]
-  },
-  {
     "fileName": "!Граф",
     "relativePath": "tmp/!Граф.md",
     "tags": [
@@ -14547,38 +15844,6 @@
         "fileName": "~Предпочитайте ассоциативные онтологии иерархическим таксономиям",
         "link": "!Граф",
         "relativePath": "KB/PKM/~Предпочитайте ассоциативные онтологии иерархическим таксономиям.md"
-      }
-    ]
-  },
-  {
-    "fileName": "books",
-    "relativePath": "researcher/books.md"
-  },
-  {
-    "fileName": "README",
-    "relativePath": "README.md",
-    "headings": [
-      {
-        "heading": "KB",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "README",
-        "displayText": "_Public/README",
-        "relativePath": "_Public/README.md"
-      },
-      {
-        "link": "& 🌲️Root",
-        "relativePath": "_Public/& 🌲️Root.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Markdown Cheatsheet",
-        "link": "README.md",
-        "relativePath": "_Resources/Markdown Cheatsheet.md"
       }
     ]
   },
@@ -14815,23 +16080,6 @@
     ]
   },
   {
-    "fileName": "Рецепты",
-    "relativePath": "Other/Рецепты/Рецепты.md",
-    "tags": [
-      "t/t/to/do",
-      "p/important",
-      "p/delayed",
-      "t/t/to/cook"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Tasks Inbox",
-        "link": "Рецепты",
-        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
-      }
-    ]
-  },
-  {
     "fileName": "Як вибрати дозиметр у 2022 році",
     "relativePath": "Other/Як вибрати дозиметр у 2022 році.md",
     "tags": [
@@ -14922,16 +16170,6 @@
   {
     "fileName": "Неоднозначный математичесский пример",
     "relativePath": "Other/Неоднозначный математичесский пример.md"
-  },
-  {
-    "fileName": "Соус",
-    "relativePath": "Other/Соус.md",
-    "headings": [
-      {
-        "heading": "Чумак",
-        "level": 3
-      }
-    ]
   },
   {
     "fileName": "=7 чисел не менее удивительных чем pi",
@@ -15716,7 +16954,7 @@
     "links": [
       {
         "link": "Cyrus-IMAP",
-        "relativePath": "KB/IT/Mail/Cyrus-IMAP.md"
+        "relativePath": "Зародыши/Cyrus-IMAP.md"
       }
     ]
   },
@@ -16718,43 +17956,7 @@
     "links": [
       {
         "link": "Гикеан",
-        "relativePath": "KB/Естествознание/Астрология/Гикеан.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Гикеан",
-    "relativePath": "KB/Естествознание/Астрология/Гикеан.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Гикеан",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Зона златовласки",
-        "link": "Гикеан",
-        "relativePath": "KB/Естествознание/Астрология/Зона златовласки.md"
+        "relativePath": "Зародыши/Гикеан.md"
       }
     ]
   },
@@ -17013,115 +18215,6 @@
       {
         "fileName": "& Мозг",
         "link": "Эвристика",
-        "relativePath": "KB/Личная эффективность/Бология + Биохакинг/& Мозг.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Фактоид",
-    "relativePath": "KB/Рациональность/Фактоид.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Факто́ид",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Популярные мысли точки зрения с сомнительной пользой",
-        "link": "Фактоид",
-        "relativePath": "KB/Ideas & Projects/Популярные мысли точки зрения с сомнительной пользой.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Интуиция",
-    "relativePath": "KB/Рациональность/Интуиция.md",
-    "tags": [
-      "t/t/to/do/note"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Измерение прогресса",
-        "link": "Интуиция",
-        "relativePath": "KB/Личная эффективность/Геймификация/Измерение прогресса.md",
-        "displayText": "интуитивный"
-      },
-      {
-        "fileName": "Черный закон метрик",
-        "link": "Интуиция",
-        "relativePath": "KB/Личная эффективность/Time + project management/Черный закон метрик.md",
-        "displayText": "интуицию"
-      },
-      {
-        "fileName": "Метрики в личной эффективности",
-        "link": "Интуиция",
-        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md"
-      },
-      {
-        "fileName": "Метрики в личной эффективности",
-        "link": "Интуиция",
-        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md",
-        "displayText": "интуитивный"
-      }
-    ]
-  },
-  {
-    "fileName": "стереотипы",
-    "relativePath": "KB/Рациональность/стереотипы.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Стереоти́п",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Популярные мысли точки зрения с сомнительной пользой",
-        "link": "стереотипы",
-        "relativePath": "KB/Ideas & Projects/Популярные мысли точки зрения с сомнительной пользой.md"
-      },
-      {
-        "fileName": "& Мозг",
-        "link": "стереотипы",
         "relativePath": "KB/Личная эффективность/Бология + Биохакинг/& Мозг.md"
       }
     ]
@@ -19463,35 +20556,6 @@
     ]
   },
   {
-    "fileName": "Психосоматика",
-    "relativePath": "KB/Психология/Психосоматика.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Психосоматика",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "пирамиду потребностей по Маслоу",
     "relativePath": "KB/Психология/пирамиду потребностей по Маслоу.md",
     "tags": [
@@ -20502,6 +21566,10 @@
     ]
   },
   {
+    "fileName": "~ Мысли про коррупцию",
+    "relativePath": "KB/Политика/~ Мысли про коррупцию.md"
+  },
+  {
     "fileName": "Тревожный рюкзак",
     "relativePath": "KB/Политика/Война/Тревожный рюкзак.md",
     "tags": [
@@ -21045,11 +22113,11 @@
     "links": [
       {
         "link": "Фактоид",
-        "relativePath": "KB/Рациональность/Фактоид.md"
+        "relativePath": "Зародыши/Фактоид.md"
       },
       {
         "link": "стереотипы",
-        "relativePath": "KB/Рациональность/стереотипы.md"
+        "relativePath": "Зародыши/стереотипы.md"
       }
     ],
     "backlinks": [
@@ -23866,12 +24934,12 @@
       },
       {
         "link": "Метрики",
-        "relativePath": "KB/IT/Theory/Метрики.md"
+        "relativePath": "Зародыши/Метрики.md"
       },
       {
         "link": "Интуиция",
         "displayText": "интуитивный",
-        "relativePath": "KB/Рациональность/Интуиция.md"
+        "relativePath": "Зародыши/Интуиция.md"
       },
       {
         "link": "& Когнитивные искажения",
@@ -23896,7 +24964,7 @@
       },
       {
         "link": "Метрики",
-        "relativePath": "KB/IT/Theory/Метрики.md"
+        "relativePath": "Зародыши/Метрики.md"
       },
       {
         "link": "Черный закон метрик",
@@ -26156,7 +27224,7 @@
       },
       {
         "link": "стереотипы",
-        "relativePath": "KB/Рациональность/стереотипы.md"
+        "relativePath": "Зародыши/стереотипы.md"
       },
       {
         "link": "Эвристика",
@@ -26358,7 +27426,7 @@
       {
         "link": "Интуиция",
         "displayText": "интуицию",
-        "relativePath": "KB/Рациональность/Интуиция.md"
+        "relativePath": "Зародыши/Интуиция.md"
       },
       {
         "link": "& Когнитивные искажения",
@@ -28067,7 +29135,7 @@
       },
       {
         "link": "Метрики",
-        "relativePath": "KB/IT/Theory/Метрики.md"
+        "relativePath": "Зародыши/Метрики.md"
       },
       {
         "link": "& Саморазвитие",
@@ -28107,7 +29175,7 @@
       },
       {
         "link": "Метрики",
-        "relativePath": "KB/IT/Theory/Метрики.md"
+        "relativePath": "Зародыши/Метрики.md"
       },
       {
         "link": "& Саморазвитие",
@@ -28189,7 +29257,7 @@
       },
       {
         "link": "Интуиция",
-        "relativePath": "KB/Рациональность/Интуиция.md"
+        "relativePath": "Зародыши/Интуиция.md"
       },
       {
         "link": "Трекеры времени",
@@ -28202,7 +29270,7 @@
       {
         "link": "Интуиция",
         "displayText": "интуитивный",
-        "relativePath": "KB/Рациональность/Интуиция.md"
+        "relativePath": "Зародыши/Интуиция.md"
       },
       {
         "link": "Контрольная карта Шухарта",
@@ -28226,6 +29294,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "Метрики",
+        "link": "Метрики в личной эффективности",
+        "relativePath": "Зародыши/Метрики.md"
+      },
       {
         "fileName": "& 🌲️Root",
         "link": "Метрики в личной эффективности",
@@ -28270,11 +29343,6 @@
         "fileName": "% grafana",
         "link": "Метрики в личной эффективности",
         "relativePath": "KB/IT/Apps/% grafana.md"
-      },
-      {
-        "fileName": "Метрики",
-        "link": "Метрики в личной эффективности",
-        "relativePath": "KB/IT/Theory/Метрики.md"
       },
       {
         "fileName": "& Направления развития и их приоритеты",
@@ -28642,7 +29710,7 @@
     "links": [
       {
         "link": "PGP",
-        "relativePath": "tmp/PGP.md"
+        "relativePath": "Зародыши/PGP.md"
       },
       {
         "link": "закон Линуса",
@@ -31925,7 +32993,7 @@
       },
       {
         "link": "Рецепты",
-        "relativePath": "Other/Рецепты/Рецепты.md"
+        "relativePath": "Зародыши/Рецепты.md"
       },
       {
         "link": "Task workflow",
@@ -32058,7 +33126,7 @@
       },
       {
         "link": "Mind-map",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       },
       {
         "link": "& Направления развития и их приоритеты",
@@ -32083,11 +33151,11 @@
       },
       {
         "link": "publish.obsidian",
-        "relativePath": "KB/IT/Apps/publish.obsidian.md"
+        "relativePath": "Зародыши/publish.obsidian.md"
       },
       {
         "link": "publish.obsidian",
-        "relativePath": "KB/IT/Apps/publish.obsidian.md"
+        "relativePath": "Зародыши/publish.obsidian.md"
       },
       {
         "link": "brain.vladlen.ch",
@@ -33099,7 +34167,7 @@
     "links": [
       {
         "link": "%gitbook",
-        "relativePath": "KB/IT/Apps/%gitbook.md"
+        "relativePath": "Зародыши/%gitbook.md"
       },
       {
         "link": "Картотека контактов Дэвида Рокфеллера",
@@ -33297,7 +34365,7 @@
       {
         "link": "Mind-map",
         "displayText": "графические и концептуальные карты",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       },
       {
         "link": "! Extended mind",
@@ -33404,73 +34472,6 @@
         "fileName": "!Граф",
         "link": "онтология",
         "relativePath": "tmp/!Граф.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Эмерджентность",
-    "relativePath": "KB/PKM/Эмерджентность.md",
-    "frontmatter": {
-      "alias": [
-        "Эмерджентность",
-        "эмергентность",
-        "холизм",
-        "системный эффект",
-        "сверхаддитивный эффект",
-        "некомпозициональность"
-      ],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 119
-        }
-      }
-    },
-    "aliases": [
-      "Эмерджентность",
-      "эмергентность",
-      "холизм",
-      "системный эффект",
-      "сверхаддитивный эффект",
-      "некомпозициональность"
-    ],
-    "links": [
-      {
-        "link": "синергия",
-        "relativePath": "KB/Scool of life/синергия.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Вечнозеленые заметки должны быть концептуально ориентированы",
-        "link": "Эмерджентность",
-        "relativePath": "KB/PKM/Вечнозеленые заметки должны быть концептуально ориентированы.md"
-      },
-      {
-        "fileName": "Maps of Content",
-        "link": "Эмерджентность",
-        "relativePath": "KB/PKM/Maps of Content.md"
-      },
-      {
-        "fileName": "! +when ideas have sex",
-        "link": "Эмерджентность",
-        "relativePath": "KB/PKM/! +when ideas have sex.md"
-      },
-      {
-        "fileName": "синергия",
-        "link": "Эмерджентность",
-        "relativePath": "KB/Scool of life/синергия.md"
-      },
-      {
-        "fileName": "Анатомия ссор",
-        "link": "Эмерджентность",
-        "relativePath": "KB/Scool of life/Анатомия ссор.md"
       }
     ]
   },
@@ -34279,7 +35280,7 @@
       },
       {
         "link": "Эмерджентность",
-        "relativePath": "KB/PKM/Эмерджентность.md"
+        "relativePath": "Зародыши/Эмерджентность.md"
       }
     ],
     "backlinks": [
@@ -34540,11 +35541,11 @@
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "Mind-map",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       },
       {
         "link": "! Knowledge base",
@@ -34673,14 +35674,14 @@
       },
       {
         "link": "Mind-map",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       },
       {
         "link": "xmind"
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "Cherry tree"
@@ -34707,7 +35708,7 @@
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "Cherry tree"
@@ -34959,7 +35960,7 @@
       },
       {
         "link": "_Article",
-        "relativePath": "_Resources/_Templates/_Article.md"
+        "relativePath": "Зародыши/_Article.md"
       },
       {
         "link": "! Вопросы для раскрытия и линкования заметок",
@@ -35050,43 +36051,6 @@
         "fileName": "Персональная заметка",
         "link": "Картотека контактов Дэвида Рокфеллера",
         "relativePath": "KB/PKM/Персональная заметка.md"
-      }
-    ]
-  },
-  {
-    "fileName": "кайдзен",
-    "relativePath": "KB/PKM/кайдзен.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition",
-      "t/t/to/do/note/refactor",
-      "p/important"
-    ],
-    "frontmatter": {
-      "alias": [
-        "kaizen"
-      ],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 24
-        }
-      }
-    },
-    "aliases": [
-      "kaizen"
-    ],
-    "backlinks": [
-      {
-        "fileName": "& Scool Of Life",
-        "link": "кайдзен",
-        "relativePath": "KB/Scool of life/& Scool Of Life.md"
       }
     ]
   },
@@ -35390,7 +36354,7 @@
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "ассоциативные антологии",
@@ -35488,39 +36452,6 @@
         "fileName": "+ Ведение заметок в Obsidian",
         "link": "~ базу знаний нужно регулятро перечитывать-изменять",
         "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Знания",
-    "relativePath": "KB/PKM/Знания.md",
-    "links": [
-      {
-        "link": "Cпираль знаний",
-        "relativePath": "KB/PKM/Cпираль знаний.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "PKM",
-        "link": "Знания",
-        "relativePath": "_Public/PKM/PKM.md"
-      },
-      {
-        "fileName": "& 🌲️Zettelkisten",
-        "link": "Знания",
-        "relativePath": "_Public/PKM/& 🌲️Zettelkisten.md",
-        "displayText": "знаниями"
-      },
-      {
-        "fileName": "PKM",
-        "link": "Знания",
-        "relativePath": "KB/PKM/PKM.md"
-      },
-      {
-        "fileName": "Knowledge management",
-        "link": "Знания",
-        "relativePath": "KB/PKM/Knowledge management.md"
       }
     ]
   },
@@ -36019,7 +36950,7 @@
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "Zettelkasten"
@@ -36070,7 +37001,7 @@
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "& 🌲️Zettelkisten",
@@ -36537,7 +37468,7 @@
       },
       {
         "link": "Знания",
-        "relativePath": "KB/PKM/Знания.md"
+        "relativePath": "Зародыши/Знания.md"
       },
       {
         "link": "Maps of Content",
@@ -36545,7 +37476,7 @@
       },
       {
         "link": "Mind-map",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       },
       {
         "link": "& 🌲️Zettelkisten",
@@ -36553,7 +37484,7 @@
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "Моя история  развития pkm PKM",
@@ -37109,85 +38040,6 @@
     ]
   },
   {
-    "fileName": "outliner",
-    "relativePath": "KB/PKM/outliner.md",
-    "tags": [
-      "n/s/stub"
-    ],
-    "frontmatter": {
-      "alias": [
-        "Аутлайнер"
-      ],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 27
-        }
-      }
-    },
-    "aliases": [
-      "Аутлайнер"
-    ],
-    "backlinks": [
-      {
-        "fileName": "PKM",
-        "link": "outliner",
-        "relativePath": "_Public/PKM/PKM.md"
-      },
-      {
-        "fileName": "& 🌲️Zettelkisten",
-        "link": "outliner",
-        "relativePath": "_Public/PKM/& 🌲️Zettelkisten.md"
-      },
-      {
-        "fileName": "Папки",
-        "link": "outliner",
-        "relativePath": "KB/PKM/Папки.md"
-      },
-      {
-        "fileName": "Моя история  развития pkm PKM",
-        "link": "outliner",
-        "relativePath": "KB/PKM/Моя история  развития pkm PKM.md"
-      },
-      {
-        "fileName": "Моя история  развития pkm PKM",
-        "link": "outliner",
-        "relativePath": "KB/PKM/Моя история  развития pkm PKM.md"
-      },
-      {
-        "fileName": "Иерархичесские модели",
-        "link": "outliner",
-        "relativePath": "KB/PKM/Иерархичесские модели.md"
-      },
-      {
-        "fileName": "Варианты реализации цифровых хранилищ заметок",
-        "link": "outliner",
-        "relativePath": "KB/PKM/Варианты реализации цифровых хранилищ заметок.md"
-      },
-      {
-        "fileName": "Варианты реализации цифровых хранилищ заметок",
-        "link": "outliner",
-        "relativePath": "KB/PKM/Варианты реализации цифровых хранилищ заметок.md"
-      },
-      {
-        "fileName": "PKM",
-        "link": "outliner",
-        "relativePath": "KB/PKM/PKM.md"
-      },
-      {
-        "fileName": "+ Ведение заметок в Obsidian",
-        "link": "outliner",
-        "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
-      }
-    ]
-  },
-  {
     "fileName": "Obsidian web cliping tool",
     "relativePath": "KB/PKM/Obsidian web cliping tool.md",
     "links": [
@@ -37200,75 +38052,6 @@
       },
       {
         "link": "chrome"
-      }
-    ]
-  },
-  {
-    "fileName": "Mind-map",
-    "relativePath": "KB/PKM/Mind-map.md",
-    "headings": [
-      {
-        "heading": "Особенности Mind-map",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "& The Brain",
-        "relativePath": "KB/PKM/& The Brain.md"
-      },
-      {
-        "link": "& Xmind"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "PKM",
-        "link": "Mind-map",
-        "relativePath": "_Public/PKM/PKM.md"
-      },
-      {
-        "fileName": "& 🌱️ Методики PKM",
-        "link": "Mind-map#особенности Mind-map",
-        "relativePath": "_Public/& 🌱️ Методики PKM.md",
-        "cleanLink": "Mind-map",
-        "displayText": "Mind-map > особенности Mind-map"
-      },
-      {
-        "fileName": "Tasks Inbox",
-        "link": "Mind-map",
-        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
-      },
-      {
-        "fileName": "Особенности Zettelkisten",
-        "link": "Mind-map",
-        "relativePath": "KB/PKM/Особенности Zettelkisten.md",
-        "displayText": "графические и концептуальные карты"
-      },
-      {
-        "fileName": "Папки",
-        "link": "Mind-map",
-        "relativePath": "KB/PKM/Папки.md"
-      },
-      {
-        "fileName": "Моя история  развития pkm PKM",
-        "link": "Mind-map",
-        "relativePath": "KB/PKM/Моя история  развития pkm PKM.md"
-      },
-      {
-        "fileName": "PKM",
-        "link": "Mind-map",
-        "relativePath": "KB/PKM/PKM.md"
-      },
-      {
-        "fileName": "+ Ведение заметок в Obsidian",
-        "link": "Mind-map",
-        "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
-      },
-      {
-        "fileName": "! инструменты PKM",
-        "link": "Mind-map",
-        "relativePath": "KB/PKM/! инструменты PKM.md"
       }
     ]
   },
@@ -37315,7 +38098,7 @@
     "links": [
       {
         "link": "Знания",
-        "relativePath": "KB/PKM/Знания.md"
+        "relativePath": "Зародыши/Знания.md"
       },
       {
         "link": "Cпираль знаний",
@@ -37407,7 +38190,7 @@
       },
       {
         "link": "Эмерджентность",
-        "relativePath": "KB/PKM/Эмерджентность.md"
+        "relativePath": "Зародыши/Эмерджентность.md"
       },
       {
         "link": "& 🌲️Zettelkisten",
@@ -37924,23 +38707,12 @@
       {
         "fileName": "Знания",
         "link": "Cпираль знаний",
-        "relativePath": "KB/PKM/Знания.md"
+        "relativePath": "Зародыши/Знания.md"
       },
       {
         "fileName": "Knowledge management",
         "link": "Cпираль знаний",
         "relativePath": "KB/PKM/Knowledge management.md"
-      }
-    ]
-  },
-  {
-    "fileName": "IMF",
-    "relativePath": "KB/PKM/IMF.md",
-    "backlinks": [
-      {
-        "fileName": "& 🌱️ Методики PKM",
-        "link": "IMF",
-        "relativePath": "_Public/& 🌱️ Методики PKM.md"
       }
     ]
   },
@@ -38143,7 +38915,7 @@
       },
       {
         "link": "publish.obsidian",
-        "relativePath": "KB/IT/Apps/publish.obsidian.md"
+        "relativePath": "Зародыши/publish.obsidian.md"
       },
       {
         "link": "brain.vladlen.ch",
@@ -38157,6 +38929,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "publish.obsidian",
+        "link": "% Obsidian",
+        "relativePath": "Зародыши/publish.obsidian.md"
+      },
       {
         "fileName": "README",
         "link": "% Obsidian",
@@ -38278,11 +39055,6 @@
         "relativePath": "KB/PKM/!Обратные ссылки.md"
       },
       {
-        "fileName": "publish.obsidian",
-        "link": "% Obsidian",
-        "relativePath": "KB/IT/Apps/publish.obsidian.md"
-      },
-      {
         "fileName": "Типографская раскладка  Ильи Бирмана",
         "link": "% Obsidian",
         "relativePath": "KB/IT/Theory/Типографская раскладка  Ильи Бирмана.md"
@@ -38325,11 +39097,11 @@
       },
       {
         "link": "Mind-map",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       },
       {
         "link": "outliner",
-        "relativePath": "KB/PKM/outliner.md"
+        "relativePath": "Зародыши/outliner.md"
       },
       {
         "link": "Commonplace book",
@@ -38349,7 +39121,7 @@
       },
       {
         "link": "publish.obsidian",
-        "relativePath": "KB/IT/Apps/publish.obsidian.md"
+        "relativePath": "Зародыши/publish.obsidian.md"
       },
       {
         "link": "@Andy Matuschak",
@@ -38984,7 +39756,7 @@
       {
         "fileName": "Mind-map",
         "link": "& The Brain",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       }
     ]
   },
@@ -39497,7 +40269,7 @@
       },
       {
         "link": "CRM",
-        "relativePath": "KB/IT/Theory/CRM.md"
+        "relativePath": "Зародыши/CRM.md"
       },
       {
         "link": "Трансклюзия",
@@ -39613,7 +40385,7 @@
       },
       {
         "link": "Mind-map",
-        "relativePath": "KB/PKM/Mind-map.md"
+        "relativePath": "Зародыши/Mind-map.md"
       }
     ],
     "backlinks": [
@@ -39962,7 +40734,7 @@
       },
       {
         "link": "Эмерджентность",
-        "relativePath": "KB/PKM/Эмерджентность.md"
+        "relativePath": "Зародыши/Эмерджентность.md"
       },
       {
         "link": "~У обмена в культурной эволюции, тот же эффект как у секса в биологической эволюции",
@@ -40270,47 +41042,6 @@
     ]
   },
   {
-    "fileName": "publish.obsidian",
-    "relativePath": "KB/IT/Apps/publish.obsidian.md",
-    "links": [
-      {
-        "link": "% Obsidian",
-        "relativePath": "KB/PKM/% Obsidian.md"
-      },
-      {
-        "link": "publish.obsidian",
-        "relativePath": "KB/IT/Apps/publish.obsidian.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "brain.vladlen.ch",
-        "link": "publish.obsidian",
-        "relativePath": "WORK/VLADLEN.CH/brain.vladlen.ch.md"
-      },
-      {
-        "fileName": "Tasks Inbox",
-        "link": "publish.obsidian",
-        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
-      },
-      {
-        "fileName": "Tasks Inbox",
-        "link": "publish.obsidian",
-        "relativePath": "KB/Личная эффективность/Time + project management/Tasks Inbox.md"
-      },
-      {
-        "fileName": "% Obsidian",
-        "link": "publish.obsidian",
-        "relativePath": "KB/PKM/% Obsidian.md"
-      },
-      {
-        "fileName": "+ Ведение заметок в Obsidian",
-        "link": "publish.obsidian",
-        "relativePath": "KB/PKM/+ Ведение заметок в Obsidian.md"
-      }
-    ]
-  },
-  {
     "fileName": "Install Wordpress",
     "relativePath": "KB/IT/Apps/Install Wordpress.md",
     "headings": [
@@ -40370,17 +41101,6 @@
         "fileName": "Моя история  развития pkm PKM",
         "link": "Google Chrome",
         "relativePath": "KB/PKM/Моя история  развития pkm PKM.md"
-      }
-    ]
-  },
-  {
-    "fileName": "%gitbook",
-    "relativePath": "KB/IT/Apps/%gitbook.md",
-    "backlinks": [
-      {
-        "fileName": "Список других баз знаний",
-        "link": "%gitbook",
-        "relativePath": "KB/PKM/Список других баз знаний.md"
       }
     ]
   },
@@ -41274,56 +41994,6 @@
     ]
   },
   {
-    "fileName": "NFS",
-    "relativePath": "KB/IT/FS/NFS.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "backlinks": [
-      {
-        "fileName": "File-based storage",
-        "link": "NFS",
-        "relativePath": "KB/IT/FS/File-based storage.md"
-      },
-      {
-        "fileName": "AWS Storage Gateway",
-        "link": "NFS",
-        "relativePath": "KB/IT/Cloud/AWS Storage Gateway.md"
-      },
-      {
-        "fileName": "+ ACloudGuru  Introduction to AWS",
-        "link": "NFS",
-        "relativePath": "KB/IT/Cloud/+ ACloudGuru  Introduction to AWS.md"
-      },
-      {
-        "fileName": "Amazon EFS",
-        "link": "NFS",
-        "relativePath": "KB/IT/Cloud/Amazon EFS.md"
-      },
-      {
-        "fileName": "& AWS",
-        "link": "NFS",
-        "relativePath": "KB/IT/Cloud/& AWS.md"
-      }
-    ]
-  },
-  {
     "fileName": "data storages type",
     "relativePath": "KB/IT/FS/data storages type.md",
     "tags": [
@@ -41456,7 +42126,7 @@
     "links": [
       {
         "link": "NFS",
-        "relativePath": "KB/IT/FS/NFS.md"
+        "relativePath": "Зародыши/NFS.md"
       },
       {
         "link": "File-based storage",
@@ -41628,7 +42298,7 @@
     "links": [
       {
         "link": "JSON",
-        "relativePath": "KB/IT/Theory/JSON.md"
+        "relativePath": "Зародыши/JSON.md"
       },
       {
         "link": "XML"
@@ -42770,7 +43440,7 @@
       {
         "fileName": "dev-panel.devzone.net",
         "link": "% pct#Шпаргалки:",
-        "relativePath": "WORK/Nexteum/docs/dev-panel.devzone.net.md",
+        "relativePath": "Зародыши/dev-panel.devzone.net.md",
         "cleanLink": "% pct",
         "displayText": "% pct > Шпаргалки:"
       }
@@ -44494,7 +45164,7 @@
     "links": [
       {
         "link": "systemd",
-        "relativePath": "KB/IT/Theory/systemd.md"
+        "relativePath": "Зародыши/systemd.md"
       }
     ]
   },
@@ -44574,16 +45244,16 @@
     ],
     "backlinks": [
       {
+        "fileName": "JSON",
+        "link": "% jq",
+        "relativePath": "Зародыши/JSON.md"
+      },
+      {
         "fileName": "% foreman",
         "link": "% jq#Авторизация, в foreman, получение списка серверов, и фактов о них, разделение вывода на отдельные файлы.",
         "relativePath": "KB/IT/Utils/% foreman.md",
         "cleanLink": "% jq",
         "displayText": "% jq > Авторизация, в foreman, получение списка серверов, и фактов о них, разделение вывода на отдельные файлы."
-      },
-      {
-        "fileName": "JSON",
-        "link": "% jq",
-        "relativePath": "KB/IT/Theory/JSON.md"
       }
     ]
   },
@@ -46458,63 +47128,6 @@
     ]
   },
   {
-    "fileName": "Метрики",
-    "relativePath": "KB/IT/Theory/Метрики.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Метрика",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Метрики в личной эффективности",
-        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Измерение прогресса",
-        "link": "Метрики",
-        "relativePath": "KB/Личная эффективность/Геймификация/Измерение прогресса.md"
-      },
-      {
-        "fileName": "Измерение прогресса",
-        "link": "Метрики",
-        "relativePath": "KB/Личная эффективность/Геймификация/Измерение прогресса.md"
-      },
-      {
-        "fileName": "Метрики в личной эффективности",
-        "link": "Метрики",
-        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md"
-      },
-      {
-        "fileName": "Метрики в личной эффективности",
-        "link": "Метрики",
-        "relativePath": "KB/Личная эффективность/Time + project management/Метрики в личной эффективности.md"
-      }
-    ]
-  },
-  {
     "fileName": "Application vs Utility",
     "relativePath": "KB/IT/Theory/Application vs Utility.md",
     "tags": [
@@ -46620,23 +47233,12 @@
     ]
   },
   {
-    "fileName": "systemd",
-    "relativePath": "KB/IT/Theory/systemd.md",
-    "backlinks": [
-      {
-        "fileName": "% journalctl",
-        "link": "systemd",
-        "relativePath": "KB/IT/Utils/% journalctl.md"
-      }
-    ]
-  },
-  {
     "fileName": "Solr Full Text Search Indexing",
     "relativePath": "KB/IT/Theory/Solr Full Text Search Indexing.md",
     "links": [
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "! %Dovecot",
@@ -46666,33 +47268,6 @@
       {
         "heading": "Load Average | LA |Средняя загрузка",
         "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "JSON",
-    "relativePath": "KB/IT/Theory/JSON.md",
-    "links": [
-      {
-        "link": "% jq",
-        "relativePath": "KB/IT/Utils/% jq.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "YAML",
-        "link": "JSON",
-        "relativePath": "KB/IT/YAML.md"
-      },
-      {
-        "fileName": "Document DB",
-        "link": "JSON",
-        "relativePath": "KB/IT/DB/Document DB.md"
-      },
-      {
-        "fileName": "AWS CloudFormation",
-        "link": "JSON",
-        "relativePath": "KB/IT/Cloud/AWS CloudFormation.md"
       }
     ]
   },
@@ -46774,90 +47349,6 @@
         "fileName": "Настройка рабочего окружения для работы с кодом Puppet",
         "link": "IDE для работы с паппет кодом",
         "relativePath": "WORK/Nexteum/docs/Настройка рабочего окружения для работы с кодом Puppet.md"
-      }
-    ]
-  },
-  {
-    "fileName": "FTS",
-    "relativePath": "KB/IT/Theory/FTS.md",
-    "frontmatter": {
-      "alias": [
-        "Полнотекстовый поиск",
-        "full-text search"
-      ],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 56
-        }
-      }
-    },
-    "aliases": [
-      "Полнотекстовый поиск",
-      "full-text search"
-    ],
-    "headings": [
-      {
-        "heading": "Что такое полнотекстовый поиск?",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "FTS",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "FTS",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Чеклист для проверки почтового сервера",
-        "link": "FTS",
-        "relativePath": "WORK/Nexteum/docs/Чеклист для проверки почтового сервера.md"
-      },
-      {
-        "fileName": "Solr Full Text Search Indexing",
-        "link": "FTS",
-        "relativePath": "KB/IT/Theory/Solr Full Text Search Indexing.md"
-      },
-      {
-        "fileName": "&Поиск в Doveccot",
-        "link": "FTS",
-        "relativePath": "KB/IT/Mail/&Поиск в Doveccot.md"
-      },
-      {
-        "fileName": "&Поиск в Doveccot",
-        "link": "FTS",
-        "relativePath": "KB/IT/Mail/&Поиск в Doveccot.md"
-      },
-      {
-        "fileName": "&Поиск в Doveccot",
-        "link": "FTS",
-        "relativePath": "KB/IT/Mail/&Поиск в Doveccot.md"
-      },
-      {
-        "fileName": "&Поиск в Doveccot",
-        "link": "FTS",
-        "relativePath": "KB/IT/Mail/&Поиск в Doveccot.md"
-      },
-      {
-        "fileName": "%doveadm fts",
-        "link": "FTS",
-        "relativePath": "KB/IT/Mail/%doveadm fts.md"
-      },
-      {
-        "fileName": "%doveadm index",
-        "link": "FTS",
-        "relativePath": "KB/IT/Mail/%doveadm index.md"
       }
     ]
   },
@@ -46956,52 +47447,6 @@
         "relativePath": "KB/IT/Cloud/% DOCKER.md",
         "cleanLink": "DDoS",
         "displayText": "DDoS > пример запуска атаки на адреса для цифровых подписей и госуслуг в РФ из docker"
-      }
-    ]
-  },
-  {
-    "fileName": "CRM",
-    "relativePath": "KB/IT/Theory/CRM.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [
-        "Customer Relationship Management"
-      ],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 50
-        }
-      }
-    },
-    "aliases": [
-      "Customer Relationship Management"
-    ],
-    "headings": [
-      {
-        "heading": "",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "! Пример использования и комбинирования разных типов заметок",
-        "link": "CRM",
-        "relativePath": "KB/PKM/! Пример использования и комбинирования разных типов заметок.md"
-      },
-      {
-        "fileName": "Relational DB",
-        "link": "CRM",
-        "relativePath": "KB/IT/DB/Relational DB.md"
       }
     ]
   },
@@ -47243,40 +47688,6 @@
       {
         "link": "% iperf",
         "relativePath": "KB/IT/Network/% iperf.md"
-      }
-    ]
-  },
-  {
-    "fileName": "PTR",
-    "relativePath": "KB/IT/Network/PTR.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [
-        "Reverse Records"
-      ],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 33
-        }
-      }
-    },
-    "aliases": [
-      "Reverse Records"
-    ],
-    "headings": [
-      {
-        "heading": "",
-        "level": 1
       }
     ]
   },
@@ -48558,11 +48969,11 @@
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "SMTP",
@@ -50198,11 +50609,11 @@
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "MUA",
@@ -51322,87 +51733,6 @@
     ]
   },
   {
-    "fileName": "POP3",
-    "relativePath": "KB/IT/Mail/POP3.md",
-    "headings": [
-      {
-        "heading": "POP3 PORTS",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
-      },
-      {
-        "link": "STARTTLS"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "POP3",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "POP3",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "POP3",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "POP3",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Разрешить получение писем (IMAP, POP3) с mail-multidomains.partsid.com",
-        "link": "POP3",
-        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) с mail-multidomains.partsid.com.md"
-      },
-      {
-        "fileName": "Разрешить получение писем (IMAP, POP3) с mail.carid.com",
-        "link": "POP3",
-        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) с mail.carid.com.md"
-      },
-      {
-        "fileName": "Разрешить получение писем (IMAP, POP3) mail.partsid.com",
-        "link": "POP3",
-        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) mail.partsid.com.md"
-      },
-      {
-        "fileName": "% nmap",
-        "link": "POP3",
-        "relativePath": "KB/IT/Network/% nmap.md"
-      },
-      {
-        "fileName": "Путь сообщения электронной почты от клиента к клиенту",
-        "link": "POP3",
-        "relativePath": "KB/IT/Mail/Путь сообщения электронной почты от клиента к клиенту.md"
-      },
-      {
-        "fileName": "MTA",
-        "link": "POP3",
-        "relativePath": "KB/IT/Mail/MTA.md"
-      },
-      {
-        "fileName": "IMAP",
-        "link": "POP3",
-        "relativePath": "KB/IT/Mail/IMAP.md"
-      },
-      {
-        "fileName": "& MAIL",
-        "link": "POP3",
-        "relativePath": "KB/IT/Mail/& MAIL.md"
-      }
-    ]
-  },
-  {
     "fileName": "MUA",
     "relativePath": "KB/IT/Mail/MUA.md",
     "tags": [
@@ -51539,11 +51869,11 @@
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "MTA",
@@ -52109,128 +52439,12 @@
     ]
   },
   {
-    "fileName": "IMAP",
-    "relativePath": "KB/IT/Mail/IMAP.md",
-    "headings": [
-      {
-        "heading": "IMAP PORTS",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
-      },
-      {
-        "link": "STARTTLS"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Список Мейл серверов компании",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/Список Мейл серверов компании.md"
-      },
-      {
-        "fileName": "Разрешить получение писем (IMAP, POP3) с mail-multidomains.partsid.com",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) с mail-multidomains.partsid.com.md"
-      },
-      {
-        "fileName": "Разрешить получение писем (IMAP, POP3) с mail.carid.com",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) с mail.carid.com.md"
-      },
-      {
-        "fileName": "Разрешить получение писем (IMAP, POP3) mail.partsid.com",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/docs/Разрешить получение писем (IMAP, POP3) mail.partsid.com.md"
-      },
-      {
-        "fileName": "$ Mail multidomain NOC-13734",
-        "link": "IMAP",
-        "relativePath": "WORK/Nexteum/$ Mail multidomain NOC-13734.md"
-      },
-      {
-        "fileName": "% nmap",
-        "link": "IMAP",
-        "relativePath": "KB/IT/Network/% nmap.md"
-      },
-      {
-        "fileName": "Путь сообщения электронной почты от клиента к клиенту",
-        "link": "IMAP",
-        "relativePath": "KB/IT/Mail/Путь сообщения электронной почты от клиента к клиенту.md"
-      },
-      {
-        "fileName": "POP3",
-        "link": "IMAP",
-        "relativePath": "KB/IT/Mail/POP3.md"
-      },
-      {
-        "fileName": "MTA",
-        "link": "IMAP",
-        "relativePath": "KB/IT/Mail/MTA.md"
-      },
-      {
-        "fileName": "IMAP сервера",
-        "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP сервера.md"
-      },
-      {
-        "fileName": "& MAIL",
-        "link": "IMAP",
-        "relativePath": "KB/IT/Mail/& MAIL.md"
-      },
-      {
-        "fileName": "& MAIL",
-        "link": "IMAP",
-        "relativePath": "KB/IT/Mail/& MAIL.md"
-      },
-      {
-        "fileName": "%Sieve",
-        "link": "IMAP",
-        "relativePath": "KB/IT/Mail/%Sieve.md"
-      }
-    ]
-  },
-  {
     "fileName": "IMAP сервера",
     "relativePath": "KB/IT/Mail/IMAP сервера.md",
     "links": [
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "! %Dovecot",
@@ -52825,7 +53039,7 @@
       },
       {
         "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/%OpenDkim.md"
+        "relativePath": "Зародыши/%OpenDkim.md"
       },
       {
         "link": "=Установка OpenDKIM + Postfix на CentOS 7",
@@ -52833,6 +53047,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "%OpenDkim",
+        "link": "DKIM",
+        "relativePath": "Зародыши/%OpenDkim.md"
+      },
       {
         "fileName": "Установка и настройка  Мультидоменной конфигурации  на Postfix3 (3.5), c +Mysql +SNI +Rspamd +Postgrey +SPF +DKIM +DMARK +FailToBan на centos 7",
         "link": "DKIM",
@@ -52914,37 +53133,9 @@
         "relativePath": "KB/IT/Mail/%Rspamd.md"
       },
       {
-        "fileName": "%OpenDkim",
-        "link": "DKIM",
-        "relativePath": "KB/IT/Mail/%OpenDkim.md"
-      },
-      {
         "fileName": "% Postfix",
         "link": "DKIM",
         "relativePath": "KB/IT/Mail/% Postfix.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Cyrus-IMAP",
-    "relativePath": "KB/IT/Mail/Cyrus-IMAP.md",
-    "headings": [
-      {
-        "heading": "Хранение в единственном экземпляре",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Cyrus-IMAP",
-        "relativePath": "KB/IT/Mail/Cyrus-IMAP.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Day Planner-20210205",
-        "link": "Cyrus-IMAP",
-        "relativePath": "Day Planners/Day Planners/Day Planner-20210205.md"
       }
     ]
   },
@@ -53138,10 +53329,15 @@
       },
       {
         "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/%OpenDkim.md"
+        "relativePath": "Зародыши/%OpenDkim.md"
       }
     ],
     "backlinks": [
+      {
+        "fileName": "%OpenDkim",
+        "link": "=Установка OpenDKIM + Postfix на CentOS 7",
+        "relativePath": "Зародыши/%OpenDkim.md"
+      },
       {
         "fileName": "Puppet manifest MAIL",
         "link": "=Установка OpenDKIM + Postfix на CentOS 7",
@@ -53176,11 +53372,6 @@
         "fileName": "& MAIL",
         "link": "=Установка OpenDKIM + Postfix на CentOS 7",
         "relativePath": "KB/IT/Mail/& MAIL.md"
-      },
-      {
-        "fileName": "%OpenDkim",
-        "link": "=Установка OpenDKIM + Postfix на CentOS 7",
-        "relativePath": "KB/IT/Mail/%OpenDkim.md"
       },
       {
         "fileName": "% Postfix",
@@ -53344,7 +53535,7 @@
       },
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "fts-solr плагин",
@@ -53368,7 +53559,7 @@
       },
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "%doveadm index#Шпаргалки",
@@ -53394,11 +53585,11 @@
       },
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "% SOLR",
@@ -54155,7 +54346,7 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "! %Dovecot",
@@ -54227,7 +54418,7 @@
       },
       {
         "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/%OpenDkim.md"
+        "relativePath": "Зародыши/%OpenDkim.md"
       },
       {
         "link": "=Установка OpenDKIM + Postfix на CentOS 7",
@@ -54324,11 +54515,11 @@
       },
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "POP3",
-        "relativePath": "KB/IT/Mail/POP3.md"
+        "relativePath": "Зародыши/POP3.md"
       },
       {
         "link": "LMTP",
@@ -55226,7 +55417,7 @@
       },
       {
         "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/%OpenDkim.md"
+        "relativePath": "Зародыши/%OpenDkim.md"
       },
       {
         "link": "DKIM",
@@ -55245,7 +55436,7 @@
       },
       {
         "link": "Лематизация",
-        "relativePath": "KB/IT/AI/Лематизация.md"
+        "relativePath": "Зародыши/Лематизация.md"
       },
       {
         "link": "%SpamAssasin",
@@ -55555,7 +55746,7 @@
     "links": [
       {
         "link": "IMAP",
-        "relativePath": "KB/IT/Mail/IMAP.md"
+        "relativePath": "Зародыши/IMAP.md"
       },
       {
         "link": "lmto"
@@ -56232,47 +56423,6 @@
     ]
   },
   {
-    "fileName": "%OpenDkim",
-    "relativePath": "KB/IT/Mail/%OpenDkim.md",
-    "links": [
-      {
-        "link": "DKIM",
-        "relativePath": "KB/IT/Mail/DKIM.md"
-      },
-      {
-        "link": "=Установка OpenDKIM + Postfix на CentOS 7",
-        "relativePath": "KB/IT/Mail/=Установка OpenDKIM + Postfix на CentOS 7.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Установка и настройка  Мультидоменной конфигурации  на Postfix3 (3.5), c +Mysql +SNI +Rspamd +Postgrey +SPF +DKIM +DMARK +FailToBan на centos 7",
-        "link": "%OpenDkim",
-        "relativePath": "WORK/Nexteum/docs/Установка и настройка  Мультидоменной конфигурации  на Postfix3 (3.5), c +Mysql +SNI +Rspamd +Postgrey +SPF +DKIM +DMARK +FailToBan на centos 7.md"
-      },
-      {
-        "fileName": "DKIM",
-        "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/DKIM.md"
-      },
-      {
-        "fileName": "=Установка OpenDKIM + Postfix на CentOS 7",
-        "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/=Установка OpenDKIM + Postfix на CentOS 7.md"
-      },
-      {
-        "fileName": "& MAIL",
-        "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/& MAIL.md"
-      },
-      {
-        "fileName": "%Rspamd",
-        "link": "%OpenDkim",
-        "relativePath": "KB/IT/Mail/%Rspamd.md"
-      }
-    ]
-  },
-  {
     "fileName": "%doveadm log",
     "relativePath": "KB/IT/Mail/%doveadm log.md",
     "tags": [
@@ -56401,7 +56551,7 @@
       },
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       }
     ],
     "backlinks": [
@@ -56917,7 +57067,7 @@
     "links": [
       {
         "link": "FTS",
-        "relativePath": "KB/IT/Theory/FTS.md"
+        "relativePath": "Зародыши/FTS.md"
       },
       {
         "link": "%doveadm dump",
@@ -58999,7 +59149,7 @@
     "links": [
       {
         "link": "CRUD",
-        "relativePath": "KB/IT/DB/CRUD.md"
+        "relativePath": "Зародыши/CRUD.md"
       },
       {
         "link": "& Databases",
@@ -59009,93 +59159,29 @@
     ],
     "backlinks": [
       {
+        "fileName": "NoSQL",
+        "link": "SQL",
+        "relativePath": "Зародыши/NoSQL.md"
+      },
+      {
+        "fileName": "NoSQL",
+        "link": "SQL",
+        "relativePath": "Зародыши/NoSQL.md"
+      },
+      {
+        "fileName": "NoSQL",
+        "link": "SQL",
+        "relativePath": "Зародыши/NoSQL.md"
+      },
+      {
         "fileName": "Языки для работы с БД",
         "link": "SQL",
         "relativePath": "KB/IT/DB/Языки для работы с БД.md"
       },
       {
-        "fileName": "NoSQL",
-        "link": "SQL",
-        "relativePath": "KB/IT/DB/NoSQL.md"
-      },
-      {
-        "fileName": "NoSQL",
-        "link": "SQL",
-        "relativePath": "KB/IT/DB/NoSQL.md"
-      },
-      {
-        "fileName": "NoSQL",
-        "link": "SQL",
-        "relativePath": "KB/IT/DB/NoSQL.md"
-      },
-      {
         "fileName": "Relational DB",
         "link": "SQL",
         "relativePath": "KB/IT/DB/Relational DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "NoSQL",
-    "relativePath": "KB/IT/DB/NoSQL.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "links": [
-      {
-        "link": "SQL",
-        "relativePath": "KB/IT/DB/SQL.md"
-      },
-      {
-        "link": "SQL",
-        "relativePath": "KB/IT/DB/SQL.md"
-      },
-      {
-        "link": "Relational DB",
-        "displayText": "Реляционные базы данных",
-        "relativePath": "KB/IT/DB/Relational DB.md"
-      },
-      {
-        "link": "& Databases",
-        "displayText": "БД",
-        "relativePath": "KB/IT/DB/& Databases.md"
-      },
-      {
-        "link": "SQL",
-        "relativePath": "KB/IT/DB/SQL.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Document DB",
-        "link": "NoSQL",
-        "relativePath": "KB/IT/DB/Document DB.md"
-      },
-      {
-        "fileName": "& Databases",
-        "link": "NoSQL",
-        "relativePath": "KB/IT/DB/& Databases.md"
-      },
-      {
-        "fileName": "Amazon DynamoDB",
-        "link": "NoSQL",
-        "relativePath": "KB/IT/Cloud/Amazon DynamoDB.md"
       }
     ]
   },
@@ -59133,7 +59219,7 @@
       },
       {
         "link": "CRM",
-        "relativePath": "KB/IT/Theory/CRM.md"
+        "relativePath": "Зародыши/CRM.md"
       },
       {
         "link": "% MySQL",
@@ -59163,7 +59249,7 @@
       {
         "fileName": "NoSQL",
         "link": "Relational DB",
-        "relativePath": "KB/IT/DB/NoSQL.md",
+        "relativePath": "Зародыши/NoSQL.md",
         "displayText": "Реляционные базы данных"
       },
       {
@@ -59309,42 +59395,6 @@
     ]
   },
   {
-    "fileName": "CRUD",
-    "relativePath": "KB/IT/DB/CRUD.md",
-    "tags": [
-      "n/s/stub",
-      "n/t/definition"
-    ],
-    "frontmatter": {
-      "alias": [],
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    },
-    "links": [
-      {
-        "link": "& Databases",
-        "relativePath": "KB/IT/DB/& Databases.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "SQL",
-        "link": "CRUD",
-        "relativePath": "KB/IT/DB/SQL.md"
-      }
-    ]
-  },
-  {
     "fileName": "Document DB",
     "relativePath": "KB/IT/DB/Document DB.md",
     "tags": [
@@ -59391,11 +59441,11 @@
       },
       {
         "link": "NoSQL",
-        "relativePath": "KB/IT/DB/NoSQL.md"
+        "relativePath": "Зародыши/NoSQL.md"
       },
       {
         "link": "JSON",
-        "relativePath": "KB/IT/Theory/JSON.md"
+        "relativePath": "Зародыши/JSON.md"
       },
       {
         "link": "MongoDB"
@@ -59515,7 +59565,7 @@
       },
       {
         "link": "NoSQL",
-        "relativePath": "KB/IT/DB/NoSQL.md"
+        "relativePath": "Зародыши/NoSQL.md"
       },
       {
         "link": "Языки для работы с БД",
@@ -59545,6 +59595,17 @@
     ],
     "backlinks": [
       {
+        "fileName": "NoSQL",
+        "link": "& Databases",
+        "relativePath": "Зародыши/NoSQL.md",
+        "displayText": "БД"
+      },
+      {
+        "fileName": "CRUD",
+        "link": "& Databases",
+        "relativePath": "Зародыши/CRUD.md"
+      },
+      {
         "fileName": "& 🌲️Root",
         "link": "& Databases",
         "relativePath": "_Public/& 🌲️Root.md"
@@ -59554,17 +59615,6 @@
         "link": "& Databases",
         "relativePath": "KB/IT/DB/SQL.md",
         "displayText": "Системы управления базами данных"
-      },
-      {
-        "fileName": "NoSQL",
-        "link": "& Databases",
-        "relativePath": "KB/IT/DB/NoSQL.md",
-        "displayText": "БД"
-      },
-      {
-        "fileName": "CRUD",
-        "link": "& Databases",
-        "relativePath": "KB/IT/DB/CRUD.md"
       },
       {
         "fileName": "Document DB",
@@ -60794,7 +60844,7 @@
       },
       {
         "link": "NFS",
-        "relativePath": "KB/IT/FS/NFS.md"
+        "relativePath": "Зародыши/NFS.md"
       },
       {
         "link": "Amazon S3",
@@ -60919,7 +60969,7 @@
       },
       {
         "link": "JSON",
-        "relativePath": "KB/IT/Theory/JSON.md"
+        "relativePath": "Зародыши/JSON.md"
       },
       {
         "link": "YAML",
@@ -61281,7 +61331,7 @@
       },
       {
         "link": "NFS",
-        "relativePath": "KB/IT/FS/NFS.md"
+        "relativePath": "Зародыши/NFS.md"
       },
       {
         "link": "Block storage",
@@ -61550,7 +61600,7 @@
       },
       {
         "link": "NFS",
-        "relativePath": "KB/IT/FS/NFS.md"
+        "relativePath": "Зародыши/NFS.md"
       },
       {
         "link": "& LINUX",
@@ -61664,7 +61714,7 @@
       },
       {
         "link": "NoSQL",
-        "relativePath": "KB/IT/DB/NoSQL.md"
+        "relativePath": "Зародыши/NoSQL.md"
       },
       {
         "link": "Key-value DB",
@@ -62027,7 +62077,7 @@
       },
       {
         "link": "NFS",
-        "relativePath": "KB/IT/FS/NFS.md"
+        "relativePath": "Зародыши/NFS.md"
       },
       {
         "link": "Block storage",
@@ -62988,17 +63038,6 @@
     ]
   },
   {
-    "fileName": "Лематизация",
-    "relativePath": "KB/IT/AI/Лематизация.md",
-    "backlinks": [
-      {
-        "fileName": "%Rspamd",
-        "link": "Лематизация",
-        "relativePath": "KB/IT/Mail/%Rspamd.md"
-      }
-    ]
-  },
-  {
     "fileName": "Коллаборативная фильтрация",
     "relativePath": "KB/IT/AI/Коллаборативная фильтрация.md",
     "tags": [
@@ -63368,14 +63407,14 @@
     "links": [
       {
         "link": "Эмерджентность",
-        "relativePath": "KB/PKM/Эмерджентность.md"
+        "relativePath": "Зародыши/Эмерджентность.md"
       }
     ],
     "backlinks": [
       {
         "fileName": "Эмерджентность",
         "link": "синергия",
-        "relativePath": "KB/PKM/Эмерджентность.md"
+        "relativePath": "Зародыши/Эмерджентность.md"
       },
       {
         "fileName": "! +when ideas have sex",
@@ -63551,7 +63590,7 @@
     "links": [
       {
         "link": "Эмерджентность",
-        "relativePath": "KB/PKM/Эмерджентность.md"
+        "relativePath": "Зародыши/Эмерджентность.md"
       }
     ]
   },
@@ -63773,7 +63812,7 @@
     "links": [
       {
         "link": "кайдзен",
-        "relativePath": "KB/PKM/кайдзен.md"
+        "relativePath": "Зародыши/кайдзен.md"
       },
       {
         "link": "Икигай",
@@ -64368,25 +64407,25 @@
         "link": "Аккорды#am",
         "cleanLink": "Аккорды",
         "displayText": "Аккорды > am",
-        "relativePath": "KB/Personal/Развитие/Гитара/Аккорды.md"
+        "relativePath": "Зародыши/Аккорды.md"
       },
       {
         "link": "Аккорды#G",
         "cleanLink": "Аккорды",
         "displayText": "Аккорды > G",
-        "relativePath": "KB/Personal/Развитие/Гитара/Аккорды.md"
+        "relativePath": "Зародыши/Аккорды.md"
       },
       {
         "link": "Аккорды#dm",
         "cleanLink": "Аккорды",
         "displayText": "Аккорды > dm",
-        "relativePath": "KB/Personal/Развитие/Гитара/Аккорды.md"
+        "relativePath": "Зародыши/Аккорды.md"
       },
       {
         "link": "Аккорды#E7",
         "cleanLink": "Аккорды",
         "displayText": "Аккорды > E7",
-        "relativePath": "KB/Personal/Развитие/Гитара/Аккорды.md"
+        "relativePath": "Зародыши/Аккорды.md"
       }
     ],
     "backlinks": [
@@ -64492,63 +64531,6 @@
     ]
   },
   {
-    "fileName": "Аккорды",
-    "relativePath": "KB/Personal/Развитие/Гитара/Аккорды.md",
-    "headings": [
-      {
-        "heading": "Am",
-        "level": 6
-      },
-      {
-        "heading": "G",
-        "level": 6
-      },
-      {
-        "heading": "Dm",
-        "level": 6
-      },
-      {
-        "heading": "E7",
-        "level": 6
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Табы Бумбокс - Вахтеры",
-        "link": "Аккорды#am",
-        "relativePath": "KB/Personal/Развитие/Гитара/Табы Бумбокс - Вахтеры.md",
-        "cleanLink": "Аккорды",
-        "displayText": "Аккорды > am"
-      },
-      {
-        "fileName": "Табы Бумбокс - Вахтеры",
-        "link": "Аккорды#G",
-        "relativePath": "KB/Personal/Развитие/Гитара/Табы Бумбокс - Вахтеры.md",
-        "cleanLink": "Аккорды",
-        "displayText": "Аккорды > G"
-      },
-      {
-        "fileName": "Табы Бумбокс - Вахтеры",
-        "link": "Аккорды#dm",
-        "relativePath": "KB/Personal/Развитие/Гитара/Табы Бумбокс - Вахтеры.md",
-        "cleanLink": "Аккорды",
-        "displayText": "Аккорды > dm"
-      },
-      {
-        "fileName": "Табы Бумбокс - Вахтеры",
-        "link": "Аккорды#E7",
-        "relativePath": "KB/Personal/Развитие/Гитара/Табы Бумбокс - Вахтеры.md",
-        "cleanLink": "Аккорды",
-        "displayText": "Аккорды > E7"
-      },
-      {
-        "fileName": "& Гитара",
-        "link": "Аккорды",
-        "relativePath": "KB/Personal/Развитие/Гитара/& Гитара.md"
-      }
-    ]
-  },
-  {
     "fileName": "& Гитара",
     "relativePath": "KB/Personal/Развитие/Гитара/& Гитара.md",
     "headings": [
@@ -64624,7 +64606,7 @@
       },
       {
         "link": "Аккорды",
-        "relativePath": "KB/Personal/Развитие/Гитара/Аккорды.md"
+        "relativePath": "Зародыши/Аккорды.md"
       }
     ],
     "backlinks": [

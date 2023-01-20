@@ -1,5 +1,8 @@
 ---
 alias: [ ]  
+sr-due: 2023-01-22
+sr-interval: 3
+sr-ease: 250
 ---
 tag: #N/S/Well #N/T/Conspect #N/T/Article  #T/T/To/Do/Note/Refactor 
 2022-08-02 17:17, [Source](https://zeh.media/praktika/instruktsiya/4796135-10-printsipov-idealnogo-konspekta),  

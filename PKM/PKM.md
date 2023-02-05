@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-02-04
-sr-interval: 2
-sr-ease: 206
+sr-due: 2023-02-06
+sr-interval: 1
+sr-ease: 186
 ---
 
 # PKM | personal knowledge management | Управление личными знаниями

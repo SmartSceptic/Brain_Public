@@ -1,7 +1,10 @@
 ---
 alias: [Представление знаний ]  
+sr-due: 2023-02-07
+sr-interval: 2
+sr-ease: 240
 ---
-tag: #N/S/Medium  #N/T/Conspect #N/T/Article  
+tag: #N/S/Well   #N/T/Conspect #N/T/Article  #N/T/Public/Candidate 
 2020-05-17 14:15, [Source](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9),  
 Authors: [[]]   
 Related:  

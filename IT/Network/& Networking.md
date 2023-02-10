@@ -1,15 +1,21 @@
 ---
 alias: [Linux network ]
-sr-due: 2023-02-17
-sr-interval: 16
+sr-due: 2023-03-18
+sr-interval: 36
 sr-ease: 239
 ---
 tag: #N/S/Stub  #N/T/Public 
 2022-10-19 22:43  
 
+Теория:
+[[Частные подсети]]
+
+
+
 ## Утилиты linux
 ##### Управление сетью.
 [[% nmcli]]
+[[% iptables]]
 
 ##### передача файлов  
 [[% scp]]  

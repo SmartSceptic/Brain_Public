@@ -13,6 +13,9 @@ tag: #N/S/Stub  #N/T/Public
 
 
 ## Утилиты linux
+[Evry Linux Networking tool I know](https://wizardzines.com/networking-tools-poster/)
+![[networking-tools-poster.pdf]]
+
 ##### Управление сетью.
 [[% nmcli]]
 [[% iptables]]

@@ -4,7 +4,7 @@ sr-due: 2023-03-18
 sr-interval: 36
 sr-ease: 239
 ---
-tag: #N/S/Stub  #N/T/Public 
+tag: #N/S/Stub  #N/T/Public #T/T/To/Brain 
 2022-10-19 22:43  
 
 Теория:

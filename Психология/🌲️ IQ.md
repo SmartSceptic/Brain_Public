@@ -1,10 +1,10 @@
 ---
 alias: [IQ, Коэффициент интеллекта, IQ тест, intelligence quotient, ]
-sr-due: 2023-02-07
-sr-interval: 2
-sr-ease: 232
+sr-due: 2023-04-17
+sr-interval: 55
+sr-ease: 252
 ---
-tag: #N/S/EverGreen   #N/T/Conspect #N/T/Article
+tag: #N/S/EverGreen   #N/T/Conspect #N/T/Article #N/T/Public 
 2021-10-14 21:31, [Source1](https://clevermind.ru/o-chem-govorit-tvoj-iq/),  [sorce2](https://ru.wikipedia.org/wiki/IQ)
 Authors: [[]]   
 Related: [[🌲️ EQ]]  

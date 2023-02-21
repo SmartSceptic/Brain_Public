@@ -1,10 +1,10 @@
 ---
 alias: [EQ,cэмоциональный коэффициент, emotional quotient, социальный интелект, ЭИ, эмоциона́льный интелле́кт,  EI, emotional intelligence, soft skils, Эмоциональная грамотность ]
-sr-due: 2023-02-07
-sr-interval: 2
-sr-ease: 233
+sr-due: 2023-04-19
+sr-interval: 57
+sr-ease: 253
 ---
-tag: #N/S/EverGreen  #N/T/Conspect #N/T/Article
+tag: #N/S/EverGreen  #N/T/Conspect #N/T/Article #N/T/Public 
 2021-10-14 22:57, [Source](https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%BE%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82),
 
 Authors: [[]] 

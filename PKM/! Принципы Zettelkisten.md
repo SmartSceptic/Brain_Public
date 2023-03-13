@@ -1,7 +1,7 @@
 ---
 alias: [ ]  
-sr-due: 2023-03-04
-sr-interval: 27
+sr-due: 2023-06-02
+sr-interval: 81
 sr-ease: 250
 ---
 tag: #N/S/Well #N/T/Conspect #N/T/Article  #T/T/To/Do/Note/Refactor 

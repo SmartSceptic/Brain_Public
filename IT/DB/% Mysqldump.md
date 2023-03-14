@@ -63,6 +63,16 @@ mysqldump -Q -c -e -u USER -pPASSWORD DATABASE > /path/to/file/dump.sql,
 -   -c делает полную вставку, включая имена колонок
 -   -e делает расширенную вставку. Итоговый файл получается меньше и делается он чуть быстрее
 
+#### Перенести базу данных MySQL на другой сервер с архивацией
+[src](https://codernet.ru/articles/linux/kak_perenesti_bazu_dannyix_mysql_na_drugoj_server/)
+На целевой машине:
+```bash
+nc -l 55555 | gzip -d -c | mysql <database name> -u<user> -p<password>
+```
+На исходной машине:
+```bash
+mysqldump -u<user> -p<password> <database name> | gzip | nc <ip of target server> 55555
+```
 
   ### Развертывание дампа
 Перенаправляем поток в обратную сторону и развертываем базу данных:

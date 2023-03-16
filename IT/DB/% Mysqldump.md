@@ -1,7 +1,7 @@
 ---
 alias: [ ]
-sr-due: 2023-03-13
-sr-interval: 36
+sr-due: 2023-06-05
+sr-interval: 81
 sr-ease: 212
 ---
 tag: #N/S/Medium #N/T/Linux #N/T/Tool/Util #N/T/Public 
@@ -104,8 +104,7 @@ zcat /path/to/outputfile.sql.gz | mysql -u USER -pPASSWORD DATABASE
 mysqladmin -u USER -pPASSWORD create NEWDATABASE  
 ```
 
-
-###  Пример использование некоторых параметров
+### Пример использование некоторых параметров
 Например, нам нужны данные с "продакшен версии базы" для "версии разработчика", то есть нам нужна "песочница". Выбираем не более 100 записей:
 ```bash
 mysqldump -uroot -h82.82.82.82 -p --where="true limit 100" database > database.sql  

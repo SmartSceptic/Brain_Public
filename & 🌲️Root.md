@@ -9,7 +9,7 @@
 	- [[DevOps]]
 	- [[& Networking]]
 	- [[& Clouds]]
-	- [[& MAIL]]
+	- [[&🌲️MAIL]]
 		- [[& SPAM]]
 		- [[& Email Whitelisting]]
 	- [[& Databases]]

@@ -40,7 +40,7 @@ Regular blockquote
 > Lorem ipsum dolor sit amet
 
 > [!warning]
-> Lorem ipsum dolor sit amet
+> Lorem ipsum dolor sit amet  [[& 🌲️Root|link inside callout ]]
 
 > [!failure]
 > Lorem ipsum dolor sit amet

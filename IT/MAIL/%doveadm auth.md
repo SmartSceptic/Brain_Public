@@ -26,10 +26,7 @@ doveadm auth test -x service=imap -x rip=192.0.2.143 john
 ```bash
 doveadm -Dv auth test -a /var/spool/postfix/private/auth test@vladlen.ch qwerty123
 ```
-- 
-```bash
 
-```
 ## Используемые или важные ключи.
 	 -D Включает подробные сообщения и отладочные сообщения.
 	 -v Включает подробный вывод, включая счетчик прогресса.

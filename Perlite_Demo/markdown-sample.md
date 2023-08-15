@@ -1,4 +1,4 @@
-Link to other Markdown file: [[markdown-sample2]]
+Link to other Markdown file: [[markdown-sample2]]   [[markdown-sample3]]
 and Link to other Markdown file with a custom linke name: [[markdown-sample2|Custom Link Name]]
 Link to PDF: ![[pdf-test.pdf]]
 

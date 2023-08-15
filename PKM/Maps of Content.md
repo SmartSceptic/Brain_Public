@@ -1,5 +1,5 @@
 ---
-alias: [MoC, Map of Content, Тегостраница, мастер-заметка  ]
+alias: [MoC, Map of Content, Тегостраница, мастер-заметка, MOC ]
 ---
 tag: **\#N/T/MOC, \#N/T/StoryRiver**
 [[KB/PKM/PKM]]  - [[Story River]]

@@ -7,7 +7,7 @@ sr-ease: 250
 tag: #N/S/Well #N/T/Conspect #N/T/Article  #T/T/To/Do/Note/Refactor 
 2022-08-02 17:17, [Source](https://zeh.media/praktika/instruktsiya/4796135-10-printsipov-idealnogo-konspekta),  
 Authors: [[]]   
-Related:  
+Related:  [[} How to Take Smart Notes|Как делать умные заметки]], [[! _Как делать заметки как программист]]
 
 ---
 

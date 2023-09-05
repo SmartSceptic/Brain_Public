@@ -12,7 +12,7 @@ Docs:**https://wiki.dovecot.org/Tools/Doveadm/Auth**
 
 ## Описание
 _Test authentication for a user._
-
+dd if=/var/lib/dovecot/ssl-parameters.dat bs=1 skip=88 | openssl dhparam -inform der > /etc/dovecot/dh.pem
 ## Шаблон
 ```bash
 doveadm [-Dv] auth [-a auth_socket_path] [-x auth_info] user [password]

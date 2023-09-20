@@ -19,7 +19,7 @@ doveadm [-Dv] auth [-a auth_socket_path] [-x auth_info] user [password]
 ```
 ## Примеры: 
 ```bash
-doveadm auth test -x service=imap -x rip=192.0.2.143 john
+doveadm auth test -x service=imap -x rip=192.0.2.143 john password_here
 ```
 ### Шпаргалки:
 - **Test SASL with Dovecot** - Проверить креды для довекота. (этот-же сокет испольщуется для аутентификации постфикса)

@@ -1,7 +1,6 @@
 ---
 tags:
-  - tag1
-  - tag2
+  - N/S/Well
 ---
 
 YAML front matter document

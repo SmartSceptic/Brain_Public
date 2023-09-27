@@ -4,13 +4,12 @@ sr-due: 2023-04-18
 sr-interval: 56
 sr-ease: 260
 ---
-tag: #N/S/Well   #N/T/Conspect #N/T/Article  #N/T/Public/Candidate 
+tag: #N/S/Well   #N/T/Conspect #N/T/Article  #N/T/Public 
 2020-05-17 14:15, [Source](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9),  
 Authors: [[]]   
 Related:  
 
 ---
-
 # Методики представления знаний, ведения, структуризации PKM и их сравнение
 Существует множество методик и филосовских принципов ведения [[PKM/PKM]] и заметок, каждый из которых имеет реализацию в [[../Зародыши/! инструменты PKM|инструментах PKM]]
 

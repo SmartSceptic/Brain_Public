@@ -16,12 +16,11 @@ Docs:
 
 ## Шаблон 
 
-
   
 ## Примеры: 
 
 ### Создание дампа
-##### Дамп одной конкретной базы, по имени,
+##### Дамп одной конкретной базы, по имени
 Сдампим базу "database" в файл "dump.sql"  с указанием логина, хосата и  пароля
 ```bash
 mysqldump  -u USER  -h 82.82.82.82 -pPASSWORD DATABASE > /path/to/file/dump.sql
@@ -30,7 +29,7 @@ mysqldump  -u USER  -h 82.82.82.82 -pPASSWORD DATABASE > /path/to/file/dump.sql
 ```bash
 mysqldump --single-transaction=TRUE postfix > `date +/path/to/outputfile.sql.%Y%m%d.%H%M%S.gz`  
 ```
-#####  дамп несколько баз данных
+##### Дамп несколько баз данных
 ```bash
 mysqldump -uroot -h82.82.82.82 -p -B database1 database2 database3 > databases.sql  
 ```

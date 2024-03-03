@@ -58,7 +58,7 @@ Related:
 
 ![https://habrastorage.org/webt/h7/og/cm/h7ogcmmigdrhik-4cctpi6qjvyk.png|200](https://habrastorage.org/webt/h7/og/cm/h7ogcmmigdrhik-4cctpi6qjvyk.png)
 
-![[../KB/PKM/Особенности Zettelkisten]]
+![[Особенности Zettelkisten]]
 
 **Аналогия**: Одних прямых ссылок недостаточно, они не обеспечивают простой и надежной высокоуровневой навигации. Они представляют собой систему улиц, соединяющих один квартал с 
 другим. Но иногда хочется уменьшить масштаб и просмотреть карту.

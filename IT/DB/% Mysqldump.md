@@ -1,7 +1,7 @@
 ---
 alias: [ ]
-sr-due: 2023-06-05
-sr-interval: 81
+sr-due: 2025-07-19
+sr-interval: 482
 sr-ease: 212
 ---
 tag: #N/S/Medium #N/T/Linux #N/T/Tool/Util #N/T/Public 

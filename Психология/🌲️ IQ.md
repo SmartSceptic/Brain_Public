@@ -1,7 +1,7 @@
 ---
 alias: [IQ, Коэффициент интеллекта, IQ тест, intelligence quotient, ]
-sr-due: 2023-04-17
-sr-interval: 55
+sr-due: 2025-10-15
+sr-interval: 570
 sr-ease: 252
 ---
 tag: #N/S/EverGreen   #N/T/Conspect #N/T/Article #N/T/Public 

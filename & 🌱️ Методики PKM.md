@@ -1,7 +1,7 @@
 ---
 alias: [Представление знаний, структура PKM ]  
-sr-due: 2023-04-18
-sr-interval: 56
+sr-due: 2025-12-07
+sr-interval: 608
 sr-ease: 260
 ---
 tag: #N/S/Well   #N/T/Conspect #N/T/Article  #N/T/Public 

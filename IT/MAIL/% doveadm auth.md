@@ -1,8 +1,8 @@
 ---
 alias: [ ]
-sr-due: 2023-04-06
-sr-interval: 60
-sr-ease: 294
+sr-due: 2029-01-19
+sr-interval: 1747
+sr-ease: 314
 ---
 tag: #N/S/Stub #N/T/Tool #N/T/Linux #N/T/Tool/Util #N/T/Public 
 2021-03-05 19:45

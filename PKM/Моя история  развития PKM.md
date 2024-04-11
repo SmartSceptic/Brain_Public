@@ -13,6 +13,14 @@ tag: #N/S/Synthesizing #N/T/Article
 [[Pomodoro]]    [[% ClickUp]]   [[% Obsidian]]  [[% Trusk]]   [[% Telegramm]]  [[% youtube]]   [[Google Chrome]]  (plugins) etc
 https://blog.system-school.ru/2022/02/20/opisanie-moego-ekzokorteksa/
 
+[[Почему стоит попробовать PKM, заметки, obsidian, zettelkisten]]
+
+[[Zettelkasten как психотерапия|заметкотерапия]]
+[[& 🌱️ Методики PKM]]
+[[& 🌲️Zettelkisten|Zettelkasten]]
+
+[[& Типы заметок]]
+
 
 ---
 

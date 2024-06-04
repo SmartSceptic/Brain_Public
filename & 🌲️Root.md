@@ -18,7 +18,8 @@
 	- [[& Databases]]
 - [[Програмирование]]
 - [[& Нейронные Сети]]
-	- [[% Chat GPT]]
+	- [[LLM]]
+		- [[% Chat GPT]]
 - [[Knowledge management]] 
 	- [[PKM]]:
 		- [[Моя история  развития PKM]]

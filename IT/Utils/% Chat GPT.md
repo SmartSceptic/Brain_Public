@@ -9,6 +9,9 @@ tag: #N/T/Tool/Neuro #N/T/Tool #N/S/Stub #N/T/Conspect #N/T/Article #N/T/Public
 2023-02-09 22:05, [Source](),  
 Authors: [[]]   
 
+[[Promt Enginiring]]
+
+
 **Ссылка для тестирования:** https://chat.openai.com/chat
 **Ссылка для получения апи ключа:** https://platform.openai.com/account/api-keys
 

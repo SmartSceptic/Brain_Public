@@ -1,7 +1,7 @@
 ---
 alias: [ ]
-sr-due: 2023-04-03
-sr-interval: 57
+sr-due: 2026-12-24
+sr-interval: 873
 sr-ease: 290
 ---
 tag: #N/S/Stub #N/T/Conspect #N/T/Article #N/T/Public 

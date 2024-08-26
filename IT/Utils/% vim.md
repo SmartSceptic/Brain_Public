@@ -1,5 +1,5 @@
 ---
-alias: [ ]
+aliases: 
 sr-due: 2024-06-19
 sr-interval: 72
 sr-ease: 270
@@ -134,6 +134,14 @@ multiline pasting
 set pastetoggle=<F3>
 ```
 
+Откройте конфигурационный файл Vim. Обычно это файл .vimrc в вашем домашнем каталоге. Для этого используйте команду:
+```bash
+vim ~/.vimrc
+```
+Добавьте следующую строку в конец файла:
+```bash
+set paste
+```
 Вариант с автопереключением, здесь:[https://stackoverflow.com/a/38258720/62202](https://stackoverflow.com/a/38258720/62202)
 
 ## Используемые или важные ключи.

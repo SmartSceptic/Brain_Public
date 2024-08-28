@@ -13,7 +13,7 @@ Docs:
 http://vimhelp.appspot.com/vim_faq.txt.html
 http://vim.wikia.com/wiki/Vim_Tips_Wiki
 https://eax.me/vim-commands/
-
+https://losst.pro/kak-polzovatsya-tekstovym-redaktorom-vim #T/T/To/Read 
 ## Описание
 _о чем заметка в 2-3 предложения_
 ## Шаблон 

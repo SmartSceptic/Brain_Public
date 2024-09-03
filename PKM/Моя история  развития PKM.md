@@ -6,7 +6,7 @@ sr-due: 2023-03-28
 sr-interval: 15
 sr-ease: 230
 ---
-tag: #N/S/Synthesizing #N/T/Article  
+tag: #N/S/Synthesizing #N/T/Article  #N/T/Public/Candidate 
 2023-02-08 00:44, [Source Мой путь вниз по кроличьей норе](https://www.reddit.com/r/ObsidianMD/comments/zkefis/is_the_concept_of_personal_knowledge_management/)
 
 #T/T/To/Do/Note/Refactor   переработать заметку на мой технологический стек и его история 

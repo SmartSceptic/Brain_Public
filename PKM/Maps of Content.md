@@ -8,7 +8,7 @@ aliases:
   - Zero-линк
 ---
 tag: **\#N/T/MOC, \#N/T/StoryRiver**
-[[KB/PKM/PKM]]  - [[Story River]]
+[[PKM]]  - [[Story River]]
 
 
 ## 🗺️ Map of Content

@@ -107,4 +107,8 @@ tldr:
 
 
 
+#### Критика PKM
+https://www.reddit.com/r/ObsidianMD/comments/zkefis/is_the_concept_of_personal_knowledge_management/
+
+
 

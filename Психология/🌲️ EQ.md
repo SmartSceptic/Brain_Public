@@ -1,5 +1,17 @@
 ---
-alias: [Эмоциональность, EQ,cэмоциональный коэффициент, emotional quotient, социальный интелект, ЭИ, эмоциона́льный интелле́кт,  EI, emotional intelligence, soft skils, Эмоциональная грамотность ]
+aliases:
+  - Эмоциональность
+  - EQ
+  - emotional quotient
+  - социальный интелект
+  - ЭИ
+  - эмоциона́льный интелле́кт
+  - EI
+  - emotional intelligence
+  - soft skils
+  - Эмоциональная грамотность
+  - эмоциональный коэффициент
+  - эмоциональный интеллект
 sr-due: 2025-10-19
 sr-interval: 574
 sr-ease: 253

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-17
-sr-interval: 20
-sr-ease: 224
+sr-due: 2025-08-14
+sr-interval: 331
+sr-ease: 204
 ---
 tag: #N/S/Synthesizing  #N/T/Conspect #N/T/Article #N/T/Tool/App #N/T/Public 
 2023-05-06 22:54, [Source](),  

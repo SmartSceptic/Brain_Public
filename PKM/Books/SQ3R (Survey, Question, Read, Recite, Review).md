@@ -1,6 +1,9 @@
 ---
 aliases:
   - Стратегия SQ3R
+sr-due: 2024-09-25
+sr-interval: 3
+sr-ease: 263
 ---
 tag: #N/S/Well #N/T/Conspect #N/T/Article  #N/T/Public
 2024-09-15 13:46, [Source](https://rustamagamaliev.ru/?p=2246),  

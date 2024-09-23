@@ -1,5 +1,6 @@
 ---
-alias: [% yum-utils ]
+aliases:
+  - "% yum-utils"
 sr-due: 2023-04-09
 sr-interval: 63
 sr-ease: 290
@@ -26,6 +27,20 @@ yum-utils
 [[% yum-dnf#Конфигурационные файлы Yum и их расположение]]
 [[% yum-dnf#Некоторые полезные плагины]]
 [[% yum-dnf#Работа Yum через прокси сервер]]
+
+
+
+#### mirrorlist.centos.org no longer resolve?
+[src](https://serverfault.com/questions/1161816/mirrorlist-centos-org-no-longer-resolve)
+```bash
+sed -i s/mirror.centos.org/vault.centos.org/g /etc/yum.repos.d/CentOS-*.repo
+sed -i s/^#.*baseurl=http/baseurl=http/g /etc/yum.repos.d/CentOS-*.repo
+sed -i s/^mirrorlist=http/#mirrorlist=http/g /etc/yum.repos.d/CentOS-*.repo
+yum clean all
+yum makecache
+# при необходимости выключаем специфичные репы yum-config-manager --disable tools-release-x86_64
+# также, если указывается только мажорная версяи, а нужно полная, то  возможно `sudo sed -i 's|\$releasever|7.9.2009|g' /etc/yum.repos.d/*.repo`
+```
 
 #### Команды yum
 ##### Отображение команд и опций  

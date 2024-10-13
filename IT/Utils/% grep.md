@@ -1,7 +1,7 @@
 ---
 alias: [zgrep, egrep, global regular expression print ]
-sr-due: 2024-10-12
-sr-interval: 150
+sr-due: 2026-01-04
+sr-interval: 448
 sr-ease: 298
 ---
 tag: #N/S/Synthesizing #N/T/Linux #N/T/Tool/Util #N/T/Public

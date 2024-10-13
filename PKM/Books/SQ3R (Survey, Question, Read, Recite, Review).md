@@ -1,8 +1,8 @@
 ---
 aliases:
   - Стратегия SQ3R
-sr-due: 2024-10-13
-sr-interval: 14
+sr-due: 2024-11-20
+sr-interval: 38
 sr-ease: 263
 ---
 tag: #N/S/Well #N/T/Conspect #N/T/Article  #N/T/Public

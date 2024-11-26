@@ -23,10 +23,36 @@ Related: [[]]
 
 [[KB/Личная эффективность/Хорошие практики важнее выбора правильного инструмента]]
 
-## С чего начать знакомство с обссидиан
+## С чего начать знакомство с обссидиан 
+#T/T/To/Do/Note/Refactor 
 - [КАК ИСПОЛЬЗОВАТЬ OBSIDIAN В КАЧЕСТВЕ ЗЕТТЕЛЬКАСТЕНА: ПОЛНОЕ РУКОВОДСТВО ДЛЯ НАЧАЛА](https://mattgiaro.com/obsidian-zettelkasten/?ref=eleanorkonik.com)
 - https://medium.com/obsidian-observer
 - https://youtu.be/a9wc2oIUtYY?t=15m31s англоязычный фреймворк ace 
+  
+  Собрал ссылки на полезные видео по Обсидиан.  
+  
+Для начинающих можно начать с этого.  
+[https://youtube.com/watch?v=XALrC5I7qik](https://4pda.to/stat/go?u=https%3A%2F%2Fyoutube.com%2Fwatch%3Fv%3DXALrC5I7qik&e=121316031 "Ссылка")  
+На вебинаре обсуждается выбор софта для базы знаний. И почему Обсидиан. Без подробностей.  
+  
+Отличный обучающий курс. Уже упоминался здесь.  
+[https://youtube.com/pl…KVOYhzpSnywtHkCi2PEza5](https://4pda.to/stat/go?u=https%3A%2F%2Fyoutube.com%2Fplaylist%3Flist%3DPLrRc3UisLr6KVOYhzpSnywtHkCi2PEza5&e=121316031 "Ссылка")  
+В последнем видео рассказано даже как создавать свои плагины.  
+  
+Также полезный плейлист.  
+[https://youtube.com/pl…L0hnoQg3kkq0P3gjfDxRlz](https://4pda.to/stat/go?u=https%3A%2F%2Fyoutube.com%2Fplaylist%3Flist%3DPL7Hnu5RIVX3L0hnoQg3kkq0P3gjfDxRlz&e=121316031 "Ссылка")  
+Преподователь на своем канале рассказывает вообще про ведение картотеки вообще и применение Обсидиана в частности.  
+  
+И парочка насыщенных видео на канале Виктора Теплова.  
+[https://youtube.com/watch?v=PiS3pRRj994](https://4pda.to/stat/go?u=https%3A%2F%2Fyoutube.com%2Fwatch%3Fv%3DPiS3pRRj994&e=121316031 "Ссылка")  
+[https://youtube.com/watch?v=qZ0dTmchbSY](https://4pda.to/stat/go?u=https%3A%2F%2Fyoutube.com%2Fwatch%3Fv%3DqZ0dTmchbSY&e=121316031 "Ссылка")  
+Много полезного сжато в этих коротеньких видосиках. Мне понравились больше всего, сразу видно пользу от применения. После просмотра первого ролика я серьезно заинтересовался возможностями Обсидиана. ![:yes2:](https://4pda.to/s/ykRFZFdXytl5lbQ/yes.gif ":yes2:")   
+  
+Хороший обзор Обсидиан и мысли про заметки.  
+[https://youtu.be/unvwJRgX2bs](https://4pda.to/stat/go?u=https%3A%2F%2Fyoutu.be%2FunvwJRgX2bs&e=121316031 "Ссылка")  
+Показаны не все возможности Обсидиана, но с примерами. Можно увидеть среди прочего плагин Dataview в работе.
+  
+  
 ## Почему стоит выбрать обсидиан ?
 #### Во первых он не мешает
 Обсидиан силен не только тем, что он может делать (а это многое). Обсидиан также силен тем, что он _не мешает_ вам делать. Это дает вам право использовать ваши данные с другими инструментами по вашему выбору.

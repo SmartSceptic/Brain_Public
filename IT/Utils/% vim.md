@@ -1,7 +1,7 @@
 ---
 aliases: 
-sr-due: 2024-06-19
-sr-interval: 72
+sr-due: 2026-04-21
+sr-interval: 468
 sr-ease: 270
 ---
 tag: #N/S/Synthesizing #N/T/Linux #N/T/Tool/Util #N/T/Public 

@@ -1,8 +1,8 @@
 ---
 alias: [Markdown, маркдаун ]
-sr-due: 2023-03-22
-sr-interval: 48
-sr-ease: 266
+sr-due: 2025-04-23
+sr-interval: 106
+sr-ease: 246
 ---
 tag:  #N/S/Stub #N/T/Definition  #T/T/To/Brain #N/T/Public 
 2021-11-30 16:53, [Source](),  

@@ -1,8 +1,8 @@
 ---
 aliases:
   - "% yum-utils"
-sr-due: 2023-04-09
-sr-interval: 63
+sr-due: 2028-01-24
+sr-interval: 1111
 sr-ease: 290
 ---
 tag: #N/S/EverGreen #N/T/Linux #N/T/Tool/Util #N/T/Public  

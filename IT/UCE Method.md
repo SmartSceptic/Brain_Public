@@ -1,7 +1,7 @@
 ---
 alias: [Utilization Saturation and Errors Method ]  
-sr-due: 2023-04-03
-sr-interval: 21
+sr-due: 2026-12-29
+sr-interval: 721
 sr-ease: 210
 ---
 tag: #N/S/Stub #N/T/Conspect #N/T/Article  #N/T/Public 

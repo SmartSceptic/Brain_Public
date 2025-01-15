@@ -1,9 +1,9 @@
 ---
 aliases:
   - GPT
-sr-due: 2024-12-21
-sr-interval: 201
-sr-ease: 162
+sr-due: 2025-04-03
+sr-interval: 101
+sr-ease: 142
 ---
 tag: #N/T/Tool/Neuro #N/T/Tool #N/S/Stub #N/T/Conspect #N/T/Article #N/T/Public 
 2023-02-09 22:05, [Source](),  
